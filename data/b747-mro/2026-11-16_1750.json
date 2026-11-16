@@ -1,0 +1,309 @@
+{
+ "id": "b747-mro",
+ "name": "Boeing 747 MRO — worldwide",
+ "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
+ "generated": "2026-11-16T13:50:13.590144+00:00",
+ "generated_local": "2026-11-16_1750",
+ "timezone": "Asia/Dubai",
+ "count": 37,
+ "new_count": 37,
+ "errors": [],
+ "items": [
+  {
+   "title": "Boeing 747 D-check",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUUxzeUNnVVV5YjZ6R3hUTEM4eUZJb0MtQ3pON2JrVUVBUm5RX3U3TFFPWDZfekFHUWtkQjg3UU5reHhfNjdDNk8wSmR5eFJ0cDlBVlV5QnRQc1RDM3pCOFNBbEQ2VGFFQnJMc1lsX09zb1F3TzBFcWRFVTRsdw?oc=5",
+   "source": "Britannica",
+   "published": "2026-11-12T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "How Much Does A Boeing 747 Engine Cost?",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWE43dW41VjFoMURoZUY5SVpXbnVZN050S0JxWTE3VFo2ZVJqN0RhV0FnakxlZ0tnQTZWMWV6ZTdEOHBNQWZzS01zSl92NEdxYkRmdElmVjE5WlVyRXZxbmNJMlFmdVZ5ZEdKRVNFOTUzdw?oc=5",
+   "source": "Simple Flying",
+   "published": "2026-10-29T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Iran Air Performs First In‑House 747 D Check",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1AxdmR5NUJtZ3p3U3BzQWoyMm9nSk9fdEktbzFmaDk0N2JLNFd5VnF5U0JCeDd3cXdCRXZaTUtDQ3VKOFY3ZFJockJYY2NVbDRrSEJxNFN3b3EtYS1BZVVUVXdQS0FKSHVneGUwaG1rVXBLcnJIc3ZrcHd4OFBuaXZOcllIbjJyVjNZcmNnaXFUeWp5?oc=5",
+   "source": "Aviation Week",
+   "published": "2026-10-28T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Iran Air Attempts Unprecedented Boeing 747 Overhaul Amid Sanctions",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLU1XRkQwa2JiQ2xKNVVqN1gwY29ZYW9qaTVKLThLRW1kS1ZtNVM3WEdrd1ptdjZRU0xPR2RTRW5JN0tMVWZuTXJnbVI1RkFpWXNuOHBxZExXSF9zN2JEVDV0SVJhRTljaHBKWVE1Yw?oc=5",
+   "source": "Simple Flying",
+   "published": "2026-10-27T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Iran Air's Only Boeing 747 Grounded for First-Ever Heavy Maintenance in Iran After Hitting 20,000-Cycle Threshold",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BRWktOGNJUEJCSVpPUFdhR294NVRCd1ZyaVV6N2dsblFkQnAxbFAxSERObnhlbWZ3MDIxejV3VWtpZVcyUlJ3U0lPTkdjUHFKVmRKTGRuV3RlRWhUMW41RFJJVmpHUzBWdnllRmV5dmhUTGM?oc=5",
+   "source": "Avi-Go",
+   "published": "2026-10-27T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Iran Air’s 38-Year-Old Boeing 747 Faces Six-Month Maintenance Challenge",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFBrY3dTMXI1eXNoZnJtYmsyaG5PcktYTVE3bENzbi15bUpQaE5BXzBRRVFGR3g5bEhQSzNiTENhYzJPX1FjRV9tX3lOQV9ZX0tVN1Z6N0NiY0UxbUx4WktWTmpDcnRSWUlLNmYxWnBHUXNlUjJiM1FvVjgzS1ZEZGVCam5kOVZSbjdrTlZsYWlvNHh3d09DX2p2cHVKNURxeTU1WFJR?oc=5",
+   "source": "Aviation A2Z",
+   "published": "2026-10-27T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Ontic launches CargoCare Boeing 747 exchange and overhaul programme",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjN4TDJRRmgwTEpaZ0tTSFZjU2N0SXFsUWpIaFY0VTloT0wyTk5tNS1aTS1YNkhYbWh0bkJMZVE5d3lEbHQwVU91aWtydk03NExubGVQbHRYWm1wdHh1WGdiZVBRckhicUQ3VUg4OGcyTEZvN0tJNUh4UmljNXhHWlJCZTJ6ZlpFMjFwa3VpWTE3X3A3clhQRQ?oc=5",
+   "source": "Air Cargo Week",
+   "published": "2026-10-19T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "How 1 Open Door At London Heathrow Just Rewrote Maintenance Rules For Every Boeing 747-400 Freighter",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZU9WUnhDV0xLZWhidmw0TElwNU1PQS0xWE1ZbVhFREhaS2p1QWtrUmxSYVl6MHpiX2dwQmhadnlOckJXdzd2NGFKSWlOMU1yNU1acnYxOXc0R0lNVW5pb2RLeFV3Mnd2dGZfZi1SR1NvT3FIcjBRT3VGRGtEcFhvTEhjQ296N2N0TFBvbGVDck83TFdCdXZIS28ydWoybGNwaUdJdWxqYllkN3loYmZz?oc=5",
+   "source": "Simple Flying",
+   "published": "2026-09-24T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "GMF AeroAsia completes heavy maintenance on One Air 747",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGwyWm5jYWFKVjFkNWRmYUNPV3FhUHIyRm45S3QxTE5vM2dIVmcxVXVkOUdlZS1zRWQ2LWpValM3LU84S0pTOG5KNFBzdERORlpCV1RzM2V1bjBPSHdpZ0JzTVFMQVVmU2c5TjAycjRJdTQ0ckRFb2VTRXA0SFZKSXhEZ21VbFUwLWRyWEhoLXZ6Q2t3eHhuS3VVVEl2VkhORlJuM2Vvc19rTGJOMkprZ2xB?oc=5",
+   "source": "Aviation Business News",
+   "published": "2026-09-07T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Boeing 747-400SF Inflight Electrical Issues Prompt Maintenance Advice",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjl1aENYWmZGOHNTbm0zWWxZYTRMVUlrQ0NOSzBVVkJEOGpfMzV0MzhSWkZ3RUozVUpMY0tuV2x4b2t3b0Y4US1SUWhrcEd3N21NYU1DYzV1cXBCWnJ5U2pTZXZPb3ljdVliR1RLSTQxeDJUNHlzQU9BTDhfMEIxR1FFR0FUTkZEWGYzUUJjYktYcFFHWTRkbjU0bTE1VVZGLVhMaTllbFJzZTlmNnNYWnlMS3R3U3gxeldUeENtMzM?oc=5",
+   "source": "Aviation Week",
+   "published": "2026-09-04T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Trump unveils new Air Force One, a $400 million plane gifted by Qatar",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42Z195UEFZdXUwR295X1Fha3lPN1hEaExWYW1GWnJhY3ZubDRxNlAzZ29lN01QekVUYjl1NVhta3lybGM0Qm9HNTVMbm5LdWRaVE9IZ3ZCX2xZQUM5VkRKS1ZRdVJVRUY2d1BMQUhLWEFvNnc?oc=5",
+   "source": "CBS News",
+   "published": "2026-06-19T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "The $400 million luxury 747 jet donated by the big-hearted Qatar royal family is finally wearing American colors in a striking red, blue, and gold livery and has flown to its secure hangar at Joint Base Andrews for final modifications to become Air Force One",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlIwUlZHSlJlMWFBOWhkQmFXbW1TT3R3ZktCb0N5THhCZzA2cG9XZ2F5R2xhUHc1X0NPamNhMVI2bDhkMVVLZHctT1JiY1U4cmg3U0NrQjBUREZpcGpiMGZzR3lVUEFzWEh5ei1IeEJ5cXk0d2xmai1rRWkwVmhkVDBSR1dlQQ?oc=5",
+   "source": "Luxurylaunches",
+   "published": "2026-06-11T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "The $400 million luxury 747 donated by Qatar is so big that it cannot fit into the existing Air Force One hangar, so it will be parked in a brand-new, $320 million high-tech hangar at Joint Base Andrews, a facility so massive it had to be built by shrinking the base'",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblpsUzNzZWhlSUJQVXpvcU0zQWdEbzRJVVQ2azhkMGdMYm1Iald5MkFscmxKOXNsRXJoVWQwSEFjOHc5NHM0UEtNclJfZkhXd2c1WkN5V3hKaFJQeFp6aHh2dUlUaW5kSXRzN251dUlRLUZic2VUMWF6eHBHeHNNdXdBMkx0OHRPVWxsbWpBUWJZNFE?oc=5",
+   "source": "Luxurylaunches",
+   "published": "2026-05-13T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Trump’s new Air Force One gifted by Qatar set for summer debut after $400M overhaul",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDVjRmpaSkh3R3gzRUl2TjFSZy1OMkhUMGp0NVg2RFNteWlKYTA0NzJfUGJIVzVsanhfV05CcTBJZWJlbkMtNkVhWGxZLW1NSmp1RHJveDJlenVDbC1TZ19YZWpadTAxcl9WTWZ4OGVIV3h3d0UyRU1yT2xpZzFFX1dtc25SRjg4TkpnVkVmQjE3RWxTS2hxNDBLRE44bzFocHBHUEtsT3ZRVTJpaENOUzdZMmRtcE96?oc=5",
+   "source": "The Independent",
+   "published": "2026-05-02T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
+   "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXc1ZWhMbVJCVUhPck9ERDdaZE9OeFBPRXdWUnY3NkViYWtUSEU3Mm1VS2FIUGZsVGVIRnJKVTNnbk9EZng5SXdoWlZIZ2VoMDZOR3lVVTdYQ1NlajNXUjhXakgydmd1N0NrSDFkUlh6WV9yeXBHQ3lDX3ZzSURlbUFWVW9wTXVFTmlIbVowc05EblRwcGJreQ?oc=5",
+   "source": "Cargo Facts",
+   "published": "2026-02-05T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "At a state-of-the-art 430,000-square-foot hangar in Waco, Texas, the U.S. government is converting the ultra-luxurious $400 million Boeing 747 jet gifted by the big-hearted Qatari royal family into a flying fortress for America’s leader",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3BONkJzSEdsMHk5bEFZTkNxX29jaVJtN3RlQ3NXbWcySU1NNXdicTFEUTlnSUZhV0t4VXo3Zkk4ZHNKU09zUW5mZWkzVVpZVUo4QWVNOHpydlVJY09raHJMc3d5VlltTTYyZVM2T3RFMFlGTG9Ock4tREowQTNqaVZsWTRKdnJhWlI4M1haZ3g?oc=5",
+   "source": "Luxurylaunches",
+   "published": "2025-10-10T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Cathay Signs Landmark Lufthansa Technik Deal For 747, 777 Fleet",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkpHSlpXV1d3M0d2cVcweUc0eTlfWDFqX3l0X3ZLM29mdlVwVEUxdlVHWk91VG9RMllnQUJaSXRYUVBELVdjaHN4TnJzbEdKS19qbVZld1Bld1BVc2dLWTgxVG9UZDlPXzJZTkhuNE16WlY0dHQwVVRlRDgzdGlPZ0FaeWtscktOLVN2QmV2dmFCS0RXYmgtS1ZWUEtmVEtfTXlJVW96UDlPSUU?oc=5",
+   "source": "Aviation Week",
+   "published": "2025-09-30T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Boeing 747-200",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpb210LVI0UU1LN2tiQmRqdmItWGJJaDljM0haY2VhLVRxNUg5UXFTeXROazV3VU9NVE1RRHlaUHFiZG94dU5lZG9YR3YxeXhDcUM2OXBTREpfUkZia3ROd21ETk5jTTltaTZSQkJ3ajV4ZXNoT2FvRmd6Wlg?oc=5",
+   "source": "Federal Aviation Administration (.gov)",
+   "published": "2025-07-22T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Graphics: Here's what it will take to transform the Qatari jet into Air Force One",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3R1NWhxbkUxYmpWT3B2VHQ4QzJjM2dSaGZoZmZtTG82RFZZUlpPMmp1RE83VjVxbFluX20wVDkyQ0NRbUFBMVRBTU5kQTh1c1pEVy1wMXh3bHJibVJVZ094MU1qSzFqbURlaTBULTFwOTlJMi1zWG92SkRyaWxfeGZpM2tZT3R6RTBkRDd0YVViNnJQZ0V5OFBQWkhFOXM2VFE?oc=5",
+   "source": "NPR",
+   "published": "2025-05-23T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Standing by in San Antonio: the luxury plane from Qatar intended to replace Air Force One",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iaXhVZjdnWWxZbmZnZENSV3QwUHJxNkNhYWJPODUxU2pFemVtM2dnR3BPcllpbGVGZUM1eENybXJuRHd1WVQtQ3BTSWRVUmx6Ukt1TE1pSWJwa1pLTU9fVWdaSkpfLUhWT1kxdWhFeXNzbDRMWkE?oc=5",
+   "source": "NPR",
+   "published": "2025-05-19T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "COS lands two-year Boeing 747-400 landing gear overhaul deal",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzBBSm8tUE42a2E2MTZTcHd6ZDZXYS1FMnA4VXBzTllrNTJDeXhoV0JZSmNua3JLQmFjeXluYnZiX0VMUGJuNE9zd1pmNUI1S1VMUXVpTl9lQmFrelBsTnlBOGJ6cWtGMzY0Z3E1MmJJd3JRWTdVWndWRDdVUHdhNjBxUmpPbzZLOWd4eGlnRW45N2lWVGdTQkNB?oc=5",
+   "source": "AviTrader Aviation News",
+   "published": "2025-04-24T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "747 Freighters Fuel Strong Maintenance Demand",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTVibXpMTnNEQVZ5MUg4YldtNW51ZThlTS0tRExnQU1fN2RiN1BRMmxLMXl4Q3pCeGxpeWcyZmtKeHZ3dkxKRkhkUVhFcWJhZ0ZVNjRUTWl0NjJ3OWVxb1g0bkM0WVlfS2ZXeXBYMWNVR0NZWHpkZWVXQk9kUFZnV1h0bEJ5NzAxbGtRemZQZlA4WFpUczh5RVFn?oc=5",
+   "source": "Aviation Week",
+   "published": "2025-04-23T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "NTSB blames Boeing 747 engine fire on shoddy maintenance work",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTZ6dFZleDBwVG4tY2lfNTF6bE9IVjVOM1J6djQyZUJZSjUzRTFJcVdwWG10aG5VX2lnMndzZDdxTFdFaW14X3hSZnE1c25tT3g3bUVJUmVQMDVneVNEUFpuM1lYdWZjR1hmaXpwWTZsbFJUUXc5MXllTTVCMFdhTA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2024-10-22T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "British Carrier One Air Bemoans Lack Of Access To European 747 Shops",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVFZbUEwV1lCM2hfazhCN1hJTFhLaExJZHVpbnhPTG1KZ0dzay1aZWRxTTJWVzNEQWdYcDBYNWNLc2JIdnBWRkc1ejRwY2x1SXdGY2N1dzRIeWZpd0pjZ0g1b3BSdGh3UmVpN2E2REkxWG1lVEpESWRENUtpZWc0Ry1VSmF2dnp2Q1NxUElyTkh5dUdRdkhkZnJLa2JYX0FWam5jSXVfanliQ2FpM1ppVEdJWQ?oc=5",
+   "source": "Aviation Week",
+   "published": "2024-09-19T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Atlas Air Boeing 747 freighter wingtip clips hangar at Fort Lauderdale Airport",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXB2RERjdmxOQktsYTFkQnNhMWtKZjVFSUxDd0pZYXVQb2Foa3MzUE5fdHJGeFhjOXJGdm90aVFiWmpWTlJNZFJwMjJKQl96TENNRjJ4V3lpYXkydVo4MmNNRkpuUEVXNWRvWXZ2U1dJeEJFODRzMjVYcjJZV1RsOGR2MThadF9KeTAzRVp2U195akE3NzV3dTVuWnhYOENBbXF3MEdRSjVoTmpaZkxHSnMtY9IBuAFBVV95cUxOOGZ6dEkwNTdWQzRia2lWRzM1N2FPaHdRU3VocVFldXpITGF5V2lkS2U3WHd2MDlqSzRzWl9XZ2thWTk1aEtIblJtdWJGYmRGVHNsZUFIRFNadHoySHBlMDV4aGlsSDVCYV9HN0tVaDRqdm1lSUNoYmZPd0pSb1U1X2paU29Rc2lFRklacG5palVJaExWYWttbHhXTzIxamRjcGlmczJpU2FQakpxUkJEbDhVZFhWbGRH?oc=5",
+   "source": "AeroTime",
+   "published": "2024-05-27T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Maintenance Error Eyed In Atlas 747-8 Engine Fire",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVpCZmE2am95OGFaNmp1M2VRSE1ocFJnTlpFSHlTa1ZvRjJEdDhNZXdTOHhFMHh2aVEzdlB0WkIyTmpHYjM4elpXbVBPV1lOQUZaNFY1SnhybFlheDRSRXdKTG9RWW1YejdIWjJhMWxsZXdiZUl3aDBjcVRHajNDY2JnUWhaUzNTak0zalhHSWEzX05WTkNvSHc4bE02UQ?oc=5",
+   "source": "Aviation Week",
+   "published": "2024-02-09T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Gallery: The Boeing 747's Future Aftermarket",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGZpa2YtWFVoR1dBcmVRVWtncllVaEdxSWczeEE1dEljTFVPd0hoZXA2enpyVDlNdEdjb2lBMTA0aFk2UEgtZ3NnMFZIaWVJQVB1aUpYUkFRbUtHbVJrWGEyM2dDdUM5dnd3NnJkbFg0cndRYk1WeDM1MHJTdDJvRmUydkpmdnZGR3BrdFc1eGs?oc=5",
+   "source": "Aviation Week",
+   "published": "2023-02-02T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Take a peek at the top deck of a Boeing 747 at City Airport’s Taurus Hangar in Eccles",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmJZbXdXNzJFS1A2bS1nQ3RjbkFSMG5ISWV5eXVIS1VnakxrMW1iOXhVZjZhZ2tDNFFBdDFJQ2pYd2NGbEJFY0RWcFIzRGNMcHlmSUNRQmJkRWxpUUlYdGJzMGtSczdpNmhNOGpGM2RFZWk0OGRDOWQ5NF9ISHdlZ1hna2p0aEtpeVNaWTVwQmlkNVREZG1KMEQ5SlBpdnJFMXBmZHVpSmc3TlBxbDJkd2ZSbVFHODBfM1E?oc=5",
+   "source": "InYourArea",
+   "published": "2022-10-13T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
+   "title": "Video: Ex Cathay Pacific 747 Deliberately Crashed Into Hangar",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82VVNFekdUaUxwMm1iX19tcy0wejBmNjAwemNxX2N3NDNGVklKQnhTUGlJX3pvWE5PNy05MzlrVWVEcWxnV2dOdUc0Y1Y0WFA2WjRyakxHY3NFMTNKcFA5U2RfRmI0RU8zX2x1ekV0WXduUE84T2c?oc=5",
+   "source": "Simple Flying",
+   "published": "2020-11-12T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Rare Boeing 747SP Suffers Major Damage In Hangar Collision",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9haDhHNUtGT1dvd0VobEhPZ2t4T1djc2ZlajRQeVJfZGtZWXhOTFpaWVo5b21VdjJYT0d2SmgyalVIcmhQZWJMU0VGUGpsYTBoUUtJY2R2Tk5OYl90WWc4WG5FY19LRHh2WHc?oc=5",
+   "source": "Simple Flying",
+   "published": "2020-10-28T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Iran Air Force B747-200 Badly Damaged After 6 Years in D Check",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGVGbWhqaGNmQTdoM0pXVHFQWllreFA1UjY3eDllRU01MG4yLXBMNmJSWk1NTlZnYUxORkJQSEJqMW13eXMzbUJoUk95REJuSnAtdmRlRnVOUW1UVEY1YXYyMnIxR2MxaXJQemRkSkRjajhnX21VXzFxenNTNnpsY05MUHdGbmxINmlzTjQyS1pETkRi?oc=5",
+   "source": "SamChui.com",
+   "published": "2020-08-21T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
+   "title": "AMAC Takes On VIP 747-8 Refurbishment, New Mx Projects",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09zWWVEelBvd1M0UWVZNWRMZ0pWZGZhQjVYeXVpekQ3S0RWX0NwZ3FUSXhVeG5DSkZvSmk3Y2U0d3BhWkFjRnFaQzhrQ19adllMak0xb09hcllnb3RVSkV2d1FhbmpmSFdueDUxRlNPU1Uxb0Z4d01ZZnFWUFpBWXNCLWdwTnRLZHlPdXF2YzRNZFgyQlZIVkZJZmZ2NVgxcjhJLWlzZWNPSURlanNjdExxZFF6RzRUVC1B?oc=5",
+   "source": "Aviation International News",
+   "published": "2020-04-01T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Boeing 747-8 emerges from paint hangar",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwVDdIS3hBQ0NtVnBqY2tXVFkwM2tLNlpLMzJjd2RvMVc0OE5tVXpLZVlJcVNncFE3UkFoazdqNnRwMnNvRjNTQ3QteDdBdzhDaDRoMXNOQ0VKM1hHeGlwM08wTHFKalFHVFpUZXQ4R2ZoUHVVMzFtcQ?oc=5",
+   "source": "Reliable Plant",
+   "published": "2018-05-31T05:40:45+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Resting in the hangar a Boeing 747-400 undergoes a C-check.",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc3lEQXppWkM5S0Zqb2cxb3FsNnp1MEthRmpPMXh0cloyZGtkejE1Y3pXc3R0eFdLUGVpV0tZbFJUWUg5YVlhM0lFWmxQNGFyRHo5d2JUUEJYLV9zaWIyc3JPTXNFOGhST1k2SjY0dXQwcHVhZWNOMjlydFJjbGs5THl3dTVkWUY2MFRQUjNDanhIZXB4TWM2dHJoZ00wRWJLNHNEWVNPM2JsX0RUQ0RnOEdydnUwTGZaQWJJU0QyTUlVbmRrOVlMQlRUZ0ZIZnh0NTlFcDlZMDl5eHM4QmxB?oc=5",
+   "source": "AirlineReporter",
+   "published": "2018-03-09T16:18:31+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Qantas 747 maintenance to move offshore",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEM2UTdNT0tfM0lIOVo0Y01mTktMNnYyRjVKWUI3ZTFQcWdMRFU3RUVTT2xaVjgyMEhrUm8tMmpabkhEblIxYW04OW4zdC1pY1E5NlpkSzFaMkFwR0ZsM2taT2JDczBra1pPS3g4OE1DVzVITEphXzJlYzZpcGc0TTg2OG1PSTZMd1E?oc=5",
+   "source": "Australian Aviation",
+   "published": "2014-01-22T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Boeing Flies 747-8 Mods, Targets Year-End Service Entry",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXBWbVBiS1VqeVhnbmFzLS1hR05Uc05SOVdKb3JYN2d6dVJkWE1hMy15MjMtUUJhRjdYNnhNSkk1TVNCNDlLcWJGT0MyNHByeThmYk82aVpzTnlzT254cGtkQ1FZWkEtV2ZYaldLT1loREtHbkdra3QyeXdaYUd2bVMwM29LcjBucnJYRGpyWk9GRk5BYXQwMWp1ZFBKUlBMWEpNWmMwRzlPakU1X2pUN2d4eTVKbTZlVHlR?oc=5",
+   "source": "Aviation International News",
+   "published": "2013-05-27T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "First Boeing 747-8 Freighter Leaves Paint Hangar",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNclA1UE5CY3FsSnBQblFFQlpuWXRzX2U3U0dVaWlOaE1XUkRyTjBMUUdXY3BjS2hsd21TMEczNF82YWdDbXVlaHdNdzJQYm5OZGNNaWtjUHdqaFdGZFdGSXpWNmtiVFNEaDRxam9pS0VlQ3NzMXdjR3NGODZfX18yZFY5eTlXTElGd24xbkVhWi1BUQ?oc=5",
+   "source": "Boeing Newsroom",
+   "published": "2009-11-18T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  }
+ ]
+}
