@@ -2,11 +2,11 @@
  "id": "sharjah",
  "name": "All mentions of Sharjah",
  "query": "(Sharjah OR الشارقة)",
- "generated": "2026-11-16T13:50:13.590144+00:00",
- "generated_local": "2026-11-16_1750",
+ "generated": "2026-11-16T13:51:01.183684+00:00",
+ "generated_local": "2026-11-16_1751",
  "timezone": "Asia/Dubai",
  "count": 100,
- "new_count": 100,
+ "new_count": 1,
  "errors": [],
  "items": [
   {
@@ -15,7 +15,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T13:47:56+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Institute for Heritage showcases heritage at SIBF 2026",
@@ -23,7 +23,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T13:45:10+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "معهد الشارقة للتراث يختتم مشاركته الفاعلة في المعرض الدولي للكتاب",
@@ -31,7 +31,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T13:39:25+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "1.15 مليون زائر من 208 دول يختتمون حكاية «الشارقة الدولي للكتاب» بصدارة عالمية",
@@ -39,7 +39,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T13:36:51+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Book Fair attracts 1.15 million visitors from 208 countries",
@@ -47,7 +47,7 @@
    "source": "Gulf News",
    "published": "2026-11-16T13:19:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "بهدف تعزيز التكامل الرقمي المتمحور حول الإنسان.. \"دائرة الشارقة الرقمية\" تطلق \"تحدي الشارقة للذكاء الاصطناعي المساعد\"",
@@ -55,7 +55,7 @@
    "source": "صوت الإمارات",
    "published": "2026-11-16T13:06:29+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«الشارقة الرقمية» تطلق «تحدي الذكاء الاصطناعي المساعد»",
@@ -63,7 +63,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T13:04:21+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "غرفة الشارقة تستعرض مقومات الإمارة الاستثمارية وتبحث فرص الشراكات الدولية في «قمة الويب 2026» بلشبونة",
@@ -71,7 +71,7 @@
    "source": "Zawya",
    "published": "2026-11-16T13:04:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "SCCI promotes Sharjah’s investment opportunities at Web Summit",
@@ -79,7 +79,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T13:01:10+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "مرت الايام بسرعة .. رسائل وداع من قلوب محبي معرض الشارقة الدولي للكتاب",
@@ -87,7 +87,7 @@
    "source": "أخبار عجمان",
    "published": "2026-11-16T12:50:33+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Cassava Republic Press’s The Mercy Step by Marcia Hutchinson Wins Best International Fiction Book at the 2026 Sharjah International Book Fair",
@@ -95,7 +95,7 @@
    "source": "Brittle Paper",
    "published": "2026-11-16T12:48:21+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Middle East Business: Sharjah launches Agentic AI Challenge",
@@ -103,7 +103,7 @@
    "source": "Gulf Daily News (Bahrain)",
    "published": "2026-11-16T12:34:39+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "الشعلان تشارك في معرض الشارقة الدولي للكتاب 2026",
@@ -111,7 +111,7 @@
    "source": "جريدة الدستور",
    "published": "2026-11-16T12:30:13+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "معرض الشارقة للكتاب 2026 يختتم دورته الـ45 بمشاركة 1.15 مليون زائر من 208 دولة.. 3626 ناشرا وعارضا.. 1.7 مليون عنوان و1500 فعالية.. وتعزيز الصدارة العالمية للعام الـ6 فى بيع وشراء حقوق النشر وزيادة المبيعات 16%",
@@ -119,7 +119,7 @@
    "source": "اليوم السابع",
    "published": "2026-11-16T12:30:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Art Foundation presents \"Sawt Al Sahel\" November",
@@ -127,7 +127,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T12:29:22+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah inaugurates Al Dhaid bridge; lake set for completion by 2027",
@@ -135,7 +135,7 @@
    "source": "Khaleej Times",
    "published": "2026-11-16T12:29:20+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Five Sharjah destinations highlight the emirate's cultural, natural and heritage diversity",
@@ -143,7 +143,7 @@
    "source": "EIN News",
    "published": "2026-11-16T12:27:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah International Book Fair 2026 welcomes 1.15 million visitors as 45th edition concludes",
@@ -151,15 +151,15 @@
    "source": "Zawya",
    "published": "2026-11-16T12:22:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "University of Sharjah, Sharjah Municipality graduate 37 employees from advanced professional diplomas",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHYzbVU3RzRNWVByUHFxeldHTzk2Rlg1X00tM0w0cVpQS3lrTzZVald3WGRDZW1NYXl4bzF4Zi1wZW9kLTlzN3p2WXBYTGJoV1dBMUVfSFhValN4Nm5TUXdwbUZ2UDc4RTlqYk5xQUh1dkM5ZTg4N1VlakNwanhqU19PRm41WktLZG1VZ1pRQQ?oc=5",
-   "source": "www.wam.ae",
-   "published": "2026-11-16T12:10:25+00:00",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMUxheU1rNERTTWxialpqS3VsWENpRGlyWXZwYzJodWExUU4wQlpOVE1qMndmWjZzY05XNXJtTUhfa2I4dFJQbE9zdlNMcUdmTzhCeC1sWkJ6UHQtV0FsbnNMd3Rna1BNUDRYZmZQcGZ3Wl9UR1AyOW01TGVtSEpYTE5XaGRlNi11a215QzZiT1J4cTZlYWdfQmhrMktOVE1SNloxNXlxMFQ3Q3k5Mm8yUkh4RkpENzNRbHlXbkE2VEI1SDFrTTBCSkpYRlVIcTU1THZ3WkNJbnZGOWl3UVBR?oc=5",
+   "source": "Big News Network.com",
+   "published": "2026-11-16T12:10:00+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Book Fair draws over 1.15m visitors, sales rise 16pc",
@@ -167,7 +167,7 @@
    "source": "Daily Pakistan",
    "published": "2026-11-16T12:09:41+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "\"الشارقة للفنون\" تطلق سلسلة \"صوت الساحل\" بأمسيات موسيقية عالمية",
@@ -175,7 +175,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T12:06:54+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah International Book Fair 2026 attracts 1.15 million visitors; book sales rise 16%",
@@ -183,6 +183,14 @@
    "source": "Khaleej Times",
    "published": "2026-11-16T12:03:42+00:00",
    "edition": "US:en",
+   "new": false
+  },
+  {
+   "title": "ضمن وجهات “مجموعة ألِف” في الشارقة.. “06 مول” إحدى وجهات “مجموعة ألِف” يقدم أول وأكبر شاشة في الشارقة للإعلانات ثلاثية الأبعاد بالتعاون مع “سيتكس مينا”",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zOUQxN3AyZ2RKaVRsaGFmRTdTWXlOazE2TUFSeXB4YmdOQ2tvZ1VWRzFVLXo5eEF2VVd5NmwwYmF0Z3RBWGpn?oc=5",
+   "source": "alwatan.ae",
+   "published": "2026-11-16T12:00:57+00:00",
+   "edition": "AE:ar",
    "new": true
   },
   {
@@ -191,7 +199,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:54:05+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Sultan bin Ahmed hails Tamayuz for advancing excellence",
@@ -199,7 +207,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:38:35+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "اختتام فعاليات “الشارقة الدولي للكتاب” الـ45 بمشاركة 1.15 مليون زائر من 208 دول على مدار 12 يوماً",
@@ -207,7 +215,7 @@
    "source": "www.alestad.com",
    "published": "2026-11-16T11:38:14+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "1 15 مليون زائر يختتمون معرض الشارقة الدولي للكتاب",
@@ -215,7 +223,7 @@
    "source": "بوابة مولانا",
    "published": "2026-11-16T11:37:22+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"غرفة الشارقة\" تستعرض فرص الإمارة الاستثمارية في قمة الويب بلشبونة",
@@ -223,7 +231,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:34:57+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "خبر اختتام مشاركة وزارة التراث والسياحة العُمانية في معرض الشارقة الدولي للكتاب",
@@ -231,7 +239,7 @@
    "source": "صحيفة الصحوة",
    "published": "2026-11-16T11:28:17+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"الشارقة الرقمية\" تطلق \"تحدي الشارقة للذكاء الاصطناعي المساعد\"",
@@ -239,7 +247,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:26:36+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sultan bin Ahmed honors Sheikh Sultan Youth Award winners",
@@ -247,7 +255,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:25:15+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Oman Marks Conclusion of its Participation as Guest of Honour at Sharjah International Book Fair 2026",
@@ -255,7 +263,7 @@
    "source": "وكالة الأنباء العمانية (العمانية)",
    "published": "2026-11-16T11:18:57+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "1.15 مليون زائر من 208 دول يختتمون حكاية \"الشارقة للكتاب\" الـ45",
@@ -263,7 +271,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:09:51+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Al Dhaid Bridge drives sustainable development in Central Region",
@@ -271,7 +279,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:05:55+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "\"الشؤون الإسلامية\" بالشارقة تطّلع على إنجازات مجمع القرآن الكريم",
@@ -279,7 +287,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:05:21+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "سلطان بن أحمد يستقبل لجنة تحكيم جائزة التميز المؤسسي \"تميُز\"",
@@ -287,7 +295,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T10:54:17+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "UOS, SM graduate Real Estate Regulation cohort",
@@ -295,7 +303,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T10:53:23+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Eight highlights from this year’s Sharjah Architecture Triennial",
@@ -303,7 +311,7 @@
    "source": "Dezeen",
    "published": "2026-11-16T10:45:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "صادرات كوريا من السيارات تسجل 6.55 مليار دولار خلال أكتوبر",
@@ -311,7 +319,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T10:33:10+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "جسر مدخل مدينة الذيد يعزز انسيابية الحركة وجودة الحياة",
@@ -319,7 +327,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T10:29:42+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Vineet Nayar captivates audience at 45th Sharjah International Book Fair",
@@ -327,7 +335,7 @@
    "source": "Gulf Today",
    "published": "2026-11-16T10:17:10+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "سلطان بن أحمد يشهد تكريم الفائزين بجائزة الشيخ سلطان لطاقات الشباب",
@@ -335,7 +343,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T10:05:41+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "E Sreedharan proposes Sky Metro for Kochi; lower-cost system modelled on Sharjah project",
@@ -343,7 +351,7 @@
    "source": "Kerala Kaumudi",
    "published": "2026-11-16T09:42:52+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "\"انشر\" يجمع خريجيه بخبراء صناعة النشر في \"الشارقة للكتاب\"",
@@ -351,7 +359,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T09:35:29+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"معرض الشارقة الدولي للكتاب\" يطوي دورته الـ 45 \"من صُنع الحكايات\"",
@@ -359,7 +367,7 @@
    "source": "زهرة الخليج",
    "published": "2026-11-16T09:15:18+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "عائشة النعيمي: الكتابة وسيلة لفهم الذات وتنظيم الأفكار",
@@ -367,7 +375,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T09:14:28+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"جامعة الشارقة\" تحتفي بتخريج 37 موظفاً من بلدية الشارقة",
@@ -375,7 +383,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T09:04:27+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah’s Al Qarayen 5 Park Shuts Temporarily For Al Dawahi Festival Preparations",
@@ -383,7 +391,7 @@
    "source": "Curly Tales",
    "published": "2026-11-16T08:49:20+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "قيّمة ترينالي الشارقة للعمارة: العمارة ليست مجرد مبان بل مساحة تجمع المجتمعات وتصنع مستقبلها",
@@ -391,7 +399,7 @@
    "source": "اليوم السابع",
    "published": "2026-11-16T08:24:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "F1H2O Grand Prix of Sharjah 2026: Everything You Need to Know",
@@ -399,7 +407,7 @@
    "source": "Powerboat News",
    "published": "2026-11-16T08:15:49+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "جامعة الشارقة تستضيف مؤتمر اتحاد الجامعات العربية.. وفتح التقديم لبرنامجي «علماء المستقبل» والدكتوراه المصرية الفرنسية",
@@ -407,7 +415,7 @@
    "source": "Al-Fanar Media",
    "published": "2026-11-16T08:11:33+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "حمدان بن تركي.. يوقّع \"خارج عن المألوف\" في معرض الشارقة للكتاب ويستعد لمعرض العين",
@@ -415,7 +423,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T08:08:26+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Fish Resources showcases scientific publications at SIBF",
@@ -423,7 +431,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T07:52:07+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Dr Sheikh Khalid honours winners of inaugural Kalba Sports Festival",
@@ -431,7 +439,7 @@
    "source": "Gulf Today",
    "published": "2026-11-16T07:49:31+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "«الشارقة للكتاب» تدعم تكنولوجيا تحفظ حقوق المحتوى الإبداعي وتمكّن الناشرين",
@@ -439,7 +447,7 @@
    "source": "الاتحاد للأخبار",
    "published": "2026-11-16T07:40:17+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"العربية الدمام\" تطلق رحلات مباشرة إلى دمشق بدءاً من 20 نوفمبر",
@@ -447,7 +455,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T07:24:24+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"الشارقة للثروة السمكية\" تستعرض إصداراتها العلمية في معرض الكتاب",
@@ -455,7 +463,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T07:14:14+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "نادي الذيد يُثري مكتبته بـ37 إصداراً ضمن المنحة السخية لحاكم الشارقة من معرض الشارقة الدولي للكتاب",
@@ -463,7 +471,7 @@
    "source": "أخبار عجمان",
    "published": "2026-11-16T07:12:40+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Chamber Inaugrates Healthcare Sector Business Group",
@@ -471,7 +479,7 @@
    "source": "intlbm",
    "published": "2026-11-16T06:58:06+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Travelex opens three new foreign exchange stores at Sharjah Airport",
@@ -479,7 +487,7 @@
    "source": "Travel Daily News International",
    "published": "2026-11-16T06:50:38+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Gulftainer launches Sharjah Dry Ports and upgrades China services",
@@ -487,7 +495,7 @@
    "source": "The Maritime Standard",
    "published": "2026-11-16T06:40:34+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "UKF strengthens international cooperation in marine sciences",
@@ -495,7 +503,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T06:40:07+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "عميد هندسة \"أميركية الشارقة\" ينال جائزة الإنجاز مدى الحياة 2026",
@@ -503,7 +511,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T06:38:13+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA",
@@ -511,7 +519,7 @@
    "source": "Zawya",
    "published": "2026-11-16T06:37:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "وكالة سرايا : د. فاطمة العقاربة تكتب: الشارقة رقيّ المكان وسموّ التعامل .. واعتذار تفرضه الظروف",
@@ -519,7 +527,7 @@
    "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
    "published": "2026-11-16T06:32:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"القافلة الوردية\" تجري 18,667 فحصاً للكشف عن سرطان الثدي",
@@ -527,7 +535,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T06:28:10+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "جامعة خورفكان تبحث شراكات دولية لتعزيز أبحاث علوم البحار",
@@ -535,7 +543,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T06:23:10+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "320m Al Dhaid Bridge opens to ease traffic",
@@ -543,7 +551,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T05:59:46+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Sharjah Book Fair draws huge crowds on final day",
@@ -551,7 +559,7 @@
    "source": "Magzter",
    "published": "2026-11-16T05:43:21+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "بتوجيهات حاكم الشارقة.. افتتاح جسر مدخل الذيد بطول 320 متراً",
@@ -559,7 +567,7 @@
    "source": "Sharjah24",
    "published": "2026-11-16T05:37:25+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "الشارقة و«الفجيرة للفنون القتالية» يتصدران بطولة الصداقة «الإماراتية الكورية» للتايكواندو",
@@ -567,7 +575,7 @@
    "source": "الاتحاد للأخبار",
    "published": "2026-11-16T05:35:55+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«استشاري الشارقة» يناقش بجلسته المقبلة سياسة دائرة شؤون البلديات",
@@ -575,7 +583,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T05:28:04+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "UAE weather forecast: Light rain possible in Ras Al Khaimah, Sharjah, with highs of 30°C",
@@ -583,7 +591,7 @@
    "source": "Emirates 24|7",
    "published": "2026-11-16T04:58:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "\"معرض الشارقة الدولي للكتاب\" يختتم دورته الـ45.. أبرز محطات الحدث الثقافي",
@@ -591,7 +599,7 @@
    "source": "فوشيا",
    "published": "2026-11-16T03:32:54+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "رواية \"من صخب الميكونغ إلى هدوء خورفكان\" لـ عبير كزبور بمعرض الشارقة للكتاب",
@@ -599,7 +607,7 @@
    "source": "اليوم السابع",
    "published": "2026-11-16T03:00:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "خالد بن حميد يكرِّم أبطال اليوم الختامي لمهرجان كلباء الرياضي",
@@ -607,7 +615,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-16T02:51:13+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "ستيف هارفي يعلن اعتناق ابنه الأصغر للإسلام.. ويكشف تأثير لقائه بحاكم الشارقة في تغيير نظرته للدين",
@@ -615,7 +623,7 @@
    "source": "شبكة مصدر الاخبارية",
    "published": "2026-11-16T00:34:06+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "إطلاق المرحلة الثانية من «منصة الناشرين» الرقمية",
@@ -623,7 +631,7 @@
    "source": "الإمارات اليوم",
    "published": "2026-11-16T00:05:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«طحان الوثبة» بطل كأس حمدان بن راشد",
@@ -631,7 +639,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T22:25:42+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "Rubu’ Qarn Music Centre celebrates family bonds",
@@ -639,7 +647,7 @@
    "source": "Sharjah24",
    "published": "2026-11-15T22:17:01+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "الشيخة جواهر بنت عبد الله القاسمى: مهرجان الشارقة أصبح منصة دولية",
@@ -647,7 +655,7 @@
    "source": "اليوم السابع",
    "published": "2026-11-15T22:00:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "\"سلام لك يا شيخ سلطان\".. عُمان تهدي حاكم الشارقة \"رزفة\" تراثية وسط تفاعل زوار المعرض",
@@ -655,7 +663,7 @@
    "source": "Shabiba",
    "published": "2026-11-15T21:49:49+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "التعادل يحسم لقاء الشارقة ويونايتد في كأس مصرف أبوظبي الإسلامي",
@@ -663,7 +671,7 @@
    "source": "Sharjah24",
    "published": "2026-11-15T21:33:05+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "أحدث أخبار مصر والعالم",
@@ -671,7 +679,7 @@
    "source": "ekhbary24.com",
    "published": "2026-11-15T21:29:11+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "من المخطوط إلى الخوارزمية.. «الشارقة الدولى للكتاب» يناقش تحديات صنع الحكايات",
@@ -679,7 +687,7 @@
    "source": "بوابة الأهرام",
    "published": "2026-11-15T21:26:16+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "الجامعة القاسمية تتفاهم مع جامعة سلامنكا الإسبانية",
@@ -687,7 +695,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T21:24:18+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "سباحو الحمرية يحصدون 41 ميدالية في كأس الأبطال للمراحل السنية",
@@ -695,7 +703,7 @@
    "source": "Sharjah24",
    "published": "2026-11-15T21:23:13+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«طحان الوثبة» بطلاً لكأس حمدان بن راشد في مضمار الشارقة",
@@ -703,7 +711,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T21:16:55+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "الشارقة يتوّج بلقب بطولة الصداقة الإماراتية الكورية للتايكواندو",
@@ -711,7 +719,7 @@
    "source": "Sharjah24",
    "published": "2026-11-15T20:45:43+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "صلاح بن بطي يطلق «عُمران الشارقة»",
@@ -719,7 +727,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T20:16:39+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "السينما تتجاهل أبطال تراثنا العربي",
@@ -727,7 +735,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T20:16:39+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "معرض الشارقة للكتاب يودّع القراء",
@@ -735,7 +743,7 @@
    "source": "صحيفة الخليج",
    "published": "2026-11-15T20:08:38+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "خالد توحيد: العودة إلى المنتخب حلمي.. ووالدتي الداعم الأول لي",
@@ -743,7 +751,7 @@
    "source": "الإمارات اليوم",
    "published": "2026-11-15T20:06:44+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«تريندز للبحوث والاستشارات» يُدشن 12 كتاباً أصيلاً ومترجماً في معرض الشارقة الدولي للكتاب",
@@ -751,7 +759,7 @@
    "source": "alwatannewspaper.ae",
    "published": "2026-11-15T20:00:02+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«الشارقة للتعليم الخاص» تحتفي بمواهب الطلبة وتعزز ارتباطهم بالقراءة",
@@ -759,7 +767,7 @@
    "source": "البيان",
    "published": "2026-11-15T19:29:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "مريم يعقوب.. طفلة تكتشف عوالم المعرفة في معرض الشارقة للكتاب",
@@ -767,7 +775,7 @@
    "source": "البيان",
    "published": "2026-11-15T19:23:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "«الشارقة للنشر» تستعرض خدماتها في معرض الشارقة الكتاب",
@@ -775,7 +783,7 @@
    "source": "البيان",
    "published": "2026-11-15T19:19:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "جوان نصار.. موهبة بعمر 13 عاماً تطلق كتاباً في معرض الشارقة للكتاب",
@@ -783,7 +791,7 @@
    "source": "البيان",
    "published": "2026-11-15T19:17:00+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
    "title": "VIDEO: Sharjah International Book Fair draws huge crowds on final day as Ghana makes debut",
@@ -791,7 +799,7 @@
    "source": "Gulf Today",
    "published": "2026-11-15T19:15:23+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "منصور بن محمد يتوّج تيريل هاتون بلقب بطولة جولة دي بي ورلد للجولف",
@@ -799,15 +807,7 @@
    "source": "Sharjah24",
    "published": "2026-11-15T19:12:44+00:00",
    "edition": "AE:ar",
-   "new": true
-  },
-  {
-   "title": "«الشارقة للكتاب» يناقش علاقة الناشئة بالكتابة في عصر التكنولوجيا",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bTlrQ1lSd09mak82YWpOb3dIWlBrNld5VEtUbFFyd1hRbnJyLWN4UXR3V1NIWEFUOU5MRXdLUDhOaW03ZDhiUWtqUzRENFBkOVpPVXMzd0hJTy1P?oc=5",
-   "source": "البيان",
-   "published": "2026-11-15T18:58:00+00:00",
-   "edition": "AE:ar",
-   "new": true
+   "new": false
   }
  ]
 }

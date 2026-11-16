@@ -2,11 +2,11 @@
  "id": "b747-mro",
  "name": "Boeing 747 MRO — worldwide",
  "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
- "generated": "2026-11-16T13:50:13.590144+00:00",
- "generated_local": "2026-11-16_1750",
+ "generated": "2026-11-16T13:51:01.183684+00:00",
+ "generated_local": "2026-11-16_1751",
  "timezone": "Asia/Dubai",
  "count": 37,
- "new_count": 37,
+ "new_count": 0,
  "errors": [],
  "items": [
   {
@@ -15,7 +15,7 @@
    "source": "Britannica",
    "published": "2026-11-12T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "How Much Does A Boeing 747 Engine Cost?",
@@ -23,7 +23,7 @@
    "source": "Simple Flying",
    "published": "2026-10-29T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air Performs First In‑House 747 D Check",
@@ -31,7 +31,7 @@
    "source": "Aviation Week",
    "published": "2026-10-28T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air Attempts Unprecedented Boeing 747 Overhaul Amid Sanctions",
@@ -39,7 +39,7 @@
    "source": "Simple Flying",
    "published": "2026-10-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air's Only Boeing 747 Grounded for First-Ever Heavy Maintenance in Iran After Hitting 20,000-Cycle Threshold",
@@ -47,7 +47,7 @@
    "source": "Avi-Go",
    "published": "2026-10-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air’s 38-Year-Old Boeing 747 Faces Six-Month Maintenance Challenge",
@@ -55,7 +55,7 @@
    "source": "Aviation A2Z",
    "published": "2026-10-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Ontic launches CargoCare Boeing 747 exchange and overhaul programme",
@@ -63,7 +63,7 @@
    "source": "Air Cargo Week",
    "published": "2026-10-19T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "How 1 Open Door At London Heathrow Just Rewrote Maintenance Rules For Every Boeing 747-400 Freighter",
@@ -71,7 +71,7 @@
    "source": "Simple Flying",
    "published": "2026-09-24T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "GMF AeroAsia completes heavy maintenance on One Air 747",
@@ -79,7 +79,7 @@
    "source": "Aviation Business News",
    "published": "2026-09-07T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Boeing 747-400SF Inflight Electrical Issues Prompt Maintenance Advice",
@@ -87,7 +87,7 @@
    "source": "Aviation Week",
    "published": "2026-09-04T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Trump unveils new Air Force One, a $400 million plane gifted by Qatar",
@@ -95,7 +95,7 @@
    "source": "CBS News",
    "published": "2026-06-19T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "The $400 million luxury 747 jet donated by the big-hearted Qatar royal family is finally wearing American colors in a striking red, blue, and gold livery and has flown to its secure hangar at Joint Base Andrews for final modifications to become Air Force One",
@@ -103,7 +103,7 @@
    "source": "Luxurylaunches",
    "published": "2026-06-11T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "The $400 million luxury 747 donated by Qatar is so big that it cannot fit into the existing Air Force One hangar, so it will be parked in a brand-new, $320 million high-tech hangar at Joint Base Andrews, a facility so massive it had to be built by shrinking the base'",
@@ -111,7 +111,7 @@
    "source": "Luxurylaunches",
    "published": "2026-05-13T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Trump’s new Air Force One gifted by Qatar set for summer debut after $400M overhaul",
@@ -119,7 +119,7 @@
    "source": "The Independent",
    "published": "2026-05-02T07:00:00+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
@@ -127,7 +127,7 @@
    "source": "Cargo Facts",
    "published": "2026-02-05T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "At a state-of-the-art 430,000-square-foot hangar in Waco, Texas, the U.S. government is converting the ultra-luxurious $400 million Boeing 747 jet gifted by the big-hearted Qatari royal family into a flying fortress for America’s leader",
@@ -135,7 +135,7 @@
    "source": "Luxurylaunches",
    "published": "2025-10-10T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Cathay Signs Landmark Lufthansa Technik Deal For 747, 777 Fleet",
@@ -143,7 +143,7 @@
    "source": "Aviation Week",
    "published": "2025-09-30T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Boeing 747-200",
@@ -151,7 +151,7 @@
    "source": "Federal Aviation Administration (.gov)",
    "published": "2025-07-22T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Graphics: Here's what it will take to transform the Qatari jet into Air Force One",
@@ -159,7 +159,7 @@
    "source": "NPR",
    "published": "2025-05-23T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Standing by in San Antonio: the luxury plane from Qatar intended to replace Air Force One",
@@ -167,7 +167,7 @@
    "source": "NPR",
    "published": "2025-05-19T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "COS lands two-year Boeing 747-400 landing gear overhaul deal",
@@ -175,7 +175,7 @@
    "source": "AviTrader Aviation News",
    "published": "2025-04-24T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "747 Freighters Fuel Strong Maintenance Demand",
@@ -183,7 +183,7 @@
    "source": "Aviation Week",
    "published": "2025-04-23T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "NTSB blames Boeing 747 engine fire on shoddy maintenance work",
@@ -191,7 +191,7 @@
    "source": "Yahoo Finance",
    "published": "2024-10-22T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "British Carrier One Air Bemoans Lack Of Access To European 747 Shops",
@@ -199,7 +199,7 @@
    "source": "Aviation Week",
    "published": "2024-09-19T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Atlas Air Boeing 747 freighter wingtip clips hangar at Fort Lauderdale Airport",
@@ -207,7 +207,7 @@
    "source": "AeroTime",
    "published": "2024-05-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Maintenance Error Eyed In Atlas 747-8 Engine Fire",
@@ -215,7 +215,7 @@
    "source": "Aviation Week",
    "published": "2024-02-09T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Gallery: The Boeing 747's Future Aftermarket",
@@ -223,7 +223,7 @@
    "source": "Aviation Week",
    "published": "2023-02-02T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Take a peek at the top deck of a Boeing 747 at City Airport’s Taurus Hangar in Eccles",
@@ -231,7 +231,7 @@
    "source": "InYourArea",
    "published": "2022-10-13T07:00:00+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Video: Ex Cathay Pacific 747 Deliberately Crashed Into Hangar",
@@ -239,7 +239,7 @@
    "source": "Simple Flying",
    "published": "2020-11-12T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Rare Boeing 747SP Suffers Major Damage In Hangar Collision",
@@ -247,7 +247,7 @@
    "source": "Simple Flying",
    "published": "2020-10-28T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air Force B747-200 Badly Damaged After 6 Years in D Check",
@@ -255,7 +255,7 @@
    "source": "SamChui.com",
    "published": "2020-08-21T07:00:00+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "AMAC Takes On VIP 747-8 Refurbishment, New Mx Projects",
@@ -263,7 +263,7 @@
    "source": "Aviation International News",
    "published": "2020-04-01T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Boeing 747-8 emerges from paint hangar",
@@ -271,7 +271,7 @@
    "source": "Reliable Plant",
    "published": "2018-05-31T05:40:45+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Resting in the hangar a Boeing 747-400 undergoes a C-check.",
@@ -279,7 +279,7 @@
    "source": "AirlineReporter",
    "published": "2018-03-09T16:18:31+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Qantas 747 maintenance to move offshore",
@@ -287,7 +287,7 @@
    "source": "Australian Aviation",
    "published": "2014-01-22T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Boeing Flies 747-8 Mods, Targets Year-End Service Entry",
@@ -295,7 +295,7 @@
    "source": "Aviation International News",
    "published": "2013-05-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "First Boeing 747-8 Freighter Leaves Paint Hangar",
@@ -303,7 +303,7 @@
    "source": "Boeing Newsroom",
    "published": "2009-11-18T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   }
  ]
 }
