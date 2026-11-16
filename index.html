@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News Digest Desk</title>
+<style>
+  :root{--bg:#f4f5f7;--panel:#fff;--ink:#16181d;--muted:#667085;--line:#e4e7ec;--accent:#1f4fd8;--accent-ink:#fff;--new:#e8f0ff;--ok:#12805c;--warn:#b54708;--radius:12px}
+  @media (prefers-color-scheme:dark){:root{--bg:#0f1115;--panel:#171a21;--ink:#e8eaee;--muted:#98a2b3;--line:#2a2f3a;--accent:#6b8cff;--accent-ink:#0f1115;--new:#1c2540}}
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+  header{display:flex;align-items:center;gap:12px;padding:16px 24px;border-bottom:1px solid var(--line);background:var(--panel);position:sticky;top:0;z-index:5}
+  header h1{font-size:18px;margin:0;font-weight:650;letter-spacing:-.01em}
+  header .sp{flex:1}
+  button,.btn{font:inherit;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:8px 14px;border-radius:9px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+  button:hover,.btn:hover{border-color:var(--muted)}
+  button.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+  button.danger{color:#d92d20}
+  button.small{padding:4px 10px;font-size:13px}
+  main{display:grid;grid-template-columns:340px 1fr;gap:20px;padding:20px 24px;max-width:1400px;margin:0 auto}
+  @media (max-width:860px){main{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;margin-bottom:12px;cursor:pointer;transition:border-color .15s}
+  .card.active{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 25%,transparent)}
+  .card h3{margin:0 0 4px;font-size:15px}
+  .meta{color:var(--muted);font-size:13px}
+  .pill{display:inline-block;padding:1px 8px;border-radius:99px;font-size:12px;background:var(--bg);border:1px solid var(--line);margin-right:4px}
+  .pill.off{color:var(--warn)}
+  .pill.newc{background:var(--new);border-color:transparent;color:var(--accent);font-weight:600}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:18px 22px;min-height:300px}
+  .panel-head{display:flex;flex-wrap:wrap;gap:8px;align-items:flex-start;justify-content:space-between;margin-bottom:12px}
+  .panel-head h2{margin:0;font-size:20px}
+  .q{font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--muted);word-break:break-word;margin-top:4px}
+  .item{padding:10px 0;border-top:1px solid var(--line)}
+  .item.isnew{background:linear-gradient(90deg,var(--new),transparent 70%);margin:0 -22px;padding:10px 22px}
+  .item a{color:var(--ink);text-decoration:none;font-weight:550}
+  .item a:hover{color:var(--accent);text-decoration:underline}
+  .empty{color:var(--muted);text-align:center;padding:60px 10px}
+  .filters{display:flex;gap:8px;margin:8px 0 4px;flex-wrap:wrap}
+  .filters input{flex:1;min-width:180px}
+  dialog{border:1px solid var(--line);border-radius:16px;padding:0;background:var(--panel);color:var(--ink);width:min(680px,94vw);box-shadow:0 20px 60px rgba(0,0,0,.25)}
+  dialog::backdrop{background:rgba(10,12,16,.45)}
+  dialog form{padding:22px 24px}
+  dialog h2{margin:0 0 14px;font-size:19px}
+  label{display:block;font-weight:600;font-size:13px;margin:14px 0 5px}
+  .hint{font-weight:400;color:var(--muted);font-size:12px}
+  input,textarea,select{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
+  textarea{min-height:84px;resize:vertical}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .days,.eds{display:flex;flex-wrap:wrap;gap:6px}
+  .chk{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line);border-radius:8px;padding:5px 9px;font-weight:500;font-size:13px;margin:0;cursor:pointer}
+  .chk input{width:auto;margin:0}
+  .preview{font-family:ui-monospace,Menlo,monospace;font-size:12px;background:var(--bg);border:1px dashed var(--line);border-radius:8px;padding:8px 10px;word-break:break-word}
+  .actions{display:flex;gap:8px;justify-content:flex-end;margin-top:20px}
+  details summary{cursor:pointer;font-weight:600;font-size:13px;margin-top:14px}
+  #toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--panel);padding:10px 16px;border-radius:10px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:50;max-width:90vw}
+  #toast.show{opacity:1}
+  .banner{background:var(--new);border-radius:10px;padding:10px 14px;margin:0 24px;font-size:14px}
+  .banner:empty{display:none}
+</style>
+</head>
+<body>
+<header>
+  <h1>📰 News Digest Desk</h1>
+  <span class="sp"></span>
+  <button id="btnSettings" title="Connection settings">⚙︎ Settings</button>
+  <button id="btnNew" class="primary">＋ New digest</button>
+</header>
+<div id="banner" class="banner" style="margin-top:14px"></div>
+
+<main>
+  <section id="list"></section>
+  <section class="panel" id="view"><div class="empty">Select a digest on the left.</div></section>
+</main>
+
+<!-- New / edit digest dialog -->
+<dialog id="dlgDigest">
+  <form method="dialog" id="fDigest">
+    <h2 id="dlgTitle">New digest</h2>
+
+    <label>Digest name</label>
+    <input name="name" required placeholder="e.g. Boeing 747 MRO — worldwide">
+
+    <label>What should articles be about?
+      <span class="hint">One concept per line, synonyms separated by commas. An article must match <b>every line</b> (any word on that line).</span></label>
+    <textarea name="groups" placeholder="747, B747, Boeing 747, 747-400, 747-8&#10;MRO, maintenance, heavy check, overhaul, freighter conversion"></textarea>
+
+    <label>Exclude <span class="hint">(comma-separated)</span></label>
+    <input name="exclude" placeholder="e.g. Lego, toy">
+
+    <details>
+      <summary>Advanced: write the search query yourself</summary>
+      <label>Raw Google News query <span class="hint">overrides the fields above; supports OR, "quotes", -exclude, site:</span></label>
+      <input name="raw_query" placeholder='e.g. (Sharjah OR الشارقة) -"Sharjah Cricket"'>
+    </details>
+
+    <label>Search preview</label>
+    <div class="preview" id="qPreview">—</div>
+    <div style="margin-top:6px"><a id="qTest" class="btn small" target="_blank" rel="noopener">Test this search on Google News ↗</a></div>
+
+    <div class="row">
+      <div>
+        <label>Delivery time(s) <span class="hint">HH:MM, comma-separated</span></label>
+        <input name="times" value="07:30" pattern="^\s*\d{1,2}:\d{2}(\s*,\s*\d{1,2}:\d{2})*\s*$" required>
+      </div>
+      <div>
+        <label>Time zone</label>
+        <input name="timezone" list="tzlist" value="Asia/Dubai" required>
+        <datalist id="tzlist">
+          <option>Asia/Dubai</option><option>Europe/London</option><option>Europe/Berlin</option><option>Europe/Moscow</option>
+          <option>America/New_York</option><option>America/Los_Angeles</option><option>Asia/Singapore</option><option>Asia/Hong_Kong</option><option>UTC</option>
+        </datalist>
+      </div>
+    </div>
+
+    <label>Days</label>
+    <div class="days" id="days"></div>
+
+    <div class="row">
+      <div>
+        <label>Look back</label>
+        <select name="lookback_hours">
+          <option value="12">12 hours</option><option value="24" selected>24 hours</option><option value="48">2 days</option>
+          <option value="72">3 days</option><option value="168">7 days</option>
+        </select>
+      </div>
+      <div>
+        <label>Max articles</label>
+        <input name="max_items" type="number" min="5" max="300" value="60">
+      </div>
+    </div>
+
+    <label>News editions to search <span class="hint">more editions = wider coverage</span></label>
+    <div class="eds" id="eds"></div>
+
+    <label class="chk" style="margin-top:16px;display:inline-flex"><input type="checkbox" name="enabled" checked> Enabled</label>
+
+    <div class="actions">
+      <button type="button" class="danger" id="btnDelete" style="margin-right:auto">Delete</button>
+      <button value="cancel" formnovalidate>Cancel</button>
+      <button value="save" class="primary">Save digest</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Settings dialog -->
+<dialog id="dlgSettings">
+  <form method="dialog" id="fSettings">
+    <h2>Connection settings</h2>
+    <p class="meta">The dashboard saves your digests into your GitHub repository. These values stay only in this browser.</p>
+    <div class="row">
+      <div><label>GitHub user / owner</label><input name="owner" required></div>
+      <div><label>Repository name</label><input name="repo" required></div>
+    </div>
+    <label>Branch</label><input name="branch" value="main">
+    <label>Access token <span class="hint">fine-grained token with "Contents" and "Actions": Read &amp; write on this repo only</span></label>
+    <input name="token" type="password" autocomplete="off" placeholder="github_pat_…">
+    <div class="actions">
+      <button value="cancel" formnovalidate>Cancel</button>
+      <button value="save" class="primary">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast"></div>
+
+<script>
+const DAYS = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
+const EDITIONS = [["US:en","USA · EN"],["GB:en","UK · EN"],["AE:en","UAE · EN"],["AE:ar","UAE · AR"],["IN:en","India · EN"],
+  ["SG:en","Singapore · EN"],["AU:en","Australia · EN"],["CA:en","Canada · EN"],["SA:ar","Saudi · AR"],["DE:de","Germany · DE"],["FR:fr","France · FR"],["RU:ru","Russia · RU"]];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const toast = (m, ms=3000) => { const t=$("#toast"); t.textContent=m; t.classList.add("show"); clearTimeout(t._h); t._h=setTimeout(()=>t.classList.remove("show"), ms); };
+
+/* ---------- settings ---------- */
+function loadSettings(){
+  let s = {};
+  try { s = JSON.parse(localStorage.getItem("digest-settings") || "{}"); } catch {}
+  if (!s.owner && location.hostname.endsWith(".github.io")) {
+    s.owner = location.hostname.split(".")[0];
+    s.repo = location.pathname.split("/").filter(Boolean)[0] || location.hostname;
+  }
+  s.branch = s.branch || "main";
+  return s;
+}
+function saveSettings(s){ try { localStorage.setItem("digest-settings", JSON.stringify(s)); } catch {} }
+let settings = loadSettings();
+const canWrite = () => settings.owner && settings.repo && settings.token;
+
+/* ---------- GitHub API ---------- */
+async function gh(path, opts={}){
+  const r = await fetch(`https://api.github.com/repos/${settings.owner}/${settings.repo}/${path}`, {
+    ...opts, headers: { "Accept":"application/vnd.github+json", "Authorization":`Bearer ${settings.token}`, ...(opts.headers||{}) }
+  });
+  if (!r.ok) throw new Error(`GitHub ${r.status}: ${(await r.text()).slice(0,200)}`);
+  return r.status === 204 ? null : r.json();
+}
+const b64enc = str => { const b = new TextEncoder().encode(str); let s=""; b.forEach(x=>s+=String.fromCharCode(x)); return btoa(s); };
+const b64dec = b64 => new TextDecoder().decode(Uint8Array.from(atob(b64.replace(/\n/g,"")), c=>c.charCodeAt(0)));
+
+/* ---------- state ---------- */
+let cfg = { digests: [] }, cfgSha = null, selected = null, editing = null;
+
+async function loadConfig(){
+  if (canWrite()) {
+    try {
+      const f = await gh(`contents/digests.json?ref=${encodeURIComponent(settings.branch)}`);
+      cfgSha = f.sha; cfg = JSON.parse(b64dec(f.content)); return;
+    } catch (e) { toast("Could not read from GitHub — showing published copy. " + e.message, 6000); }
+  }
+  try { cfg = await (await fetch("digests.json?t=" + Date.now())).json(); } catch { cfg = { digests: [] }; }
+}
+
+async function saveConfig(msg){
+  if (!canWrite()) { $("#dlgSettings").showModal(); throw new Error("Add your GitHub settings first."); }
+  const body = { message: msg, content: b64enc(JSON.stringify(cfg, null, 2) + "\n"), branch: settings.branch };
+  if (cfgSha) body.sha = cfgSha;
+  const r = await gh("contents/digests.json", { method:"PUT", body: JSON.stringify(body) });
+  cfgSha = r.content.sha;
+}
+
+async function runNow(id){
+  if (!canWrite()) { $("#dlgSettings").showModal(); return; }
+  try {
+    await gh("actions/workflows/digests.yml/dispatches", { method:"POST", body: JSON.stringify({ ref: settings.branch, inputs: { force: id } }) });
+    toast("Started. The fresh digest appears here in ~1–3 minutes.", 5000);
+  } catch (e) { toast(e.message, 6000); }
+}
+
+/* ---------- query building (keep in sync with scripts/build_digests.py) ---------- */
+function quoteTerm(t){ t=t.trim(); if(!t) return ""; if(t.startsWith('"')&&t.endsWith('"')) return t; return /[ \-\/]/.test(t) ? `"${t}"` : t; }
+function buildQuery(d){
+  if ((d.raw_query||"").trim()) return d.raw_query.trim();
+  const parts = [];
+  for (const g of d.groups||[]) { const ts = g.map(quoteTerm).filter(Boolean); if (ts.length>1) parts.push("("+ts.join(" OR ")+")"); else if (ts.length) parts.push(ts[0]); }
+  for (const e of d.exclude||[]) { const q = quoteTerm(e); if (q) parts.push("-"+q); }
+  return parts.join(" ");
+}
+
+/* ---------- rendering ---------- */
+function schedText(d){
+  const days = (d.days||[]).length===7 ? "Daily" : (d.days||[]).map(i=>DAYS[i]).join(" ");
+  return `${days} · ${(d.times||[]).join(", ")} (${d.timezone})`;
+}
+function ago(iso){
+  if (!iso) return "never";
+  const m = Math.round((Date.now()-new Date(iso))/60000);
+  if (m<1) return "just now"; if (m<60) return m+" min ago"; const h=Math.round(m/60); if (h<48) return h+" h ago"; return Math.round(h/24)+" days ago";
+}
+const latestCache = {};
+async function getLatest(id, file="latest.json"){
+  const key = id+"/"+file;
+  if (latestCache[key] !== undefined && file !== "latest.json") return latestCache[key];
+  try { const r = await fetch(`data/${id}/${file}?t=${Date.now()}`); latestCache[key] = r.ok ? await r.json() : null; }
+  catch { latestCache[key] = null; }
+  return latestCache[key];
+}
+
+async function renderList(){
+  const L = $("#list");
+  if (!cfg.digests.length) { L.innerHTML = `<div class="card"><h3>No digests yet</h3><div class="meta">Click “＋ New digest” to create your first one.</div></div>`; return; }
+  L.innerHTML = cfg.digests.map(d => `
+    <div class="card ${d.id===selected?"active":""}" data-id="${esc(d.id)}">
+      <h3>${esc(d.name)}</h3>
+      <div class="meta">${esc(schedText(d))}</div>
+      <div class="meta" style="margin-top:6px" id="m-${esc(d.id)}">${d.enabled===false?'<span class="pill off">paused</span>':""}…</div>
+    </div>`).join("");
+  L.querySelectorAll(".card[data-id]").forEach(c => c.onclick = () => select(c.dataset.id));
+  for (const d of cfg.digests) {
+    const x = await getLatest(d.id), el = document.getElementById("m-"+d.id);
+    if (!el) continue;
+    el.innerHTML = (d.enabled===false?'<span class="pill off">paused</span>':"") +
+      (x ? `<span class="pill">${x.count} articles</span>${x.new_count?`<span class="pill newc">${x.new_count} new</span>`:""} · ${ago(x.generated)}`
+         : `<span class="pill">waiting for first run</span>`);
+  }
+}
+
+async function select(id, file="latest.json"){
+  selected = id; renderList();
+  const d = cfg.digests.find(x=>x.id===id); if (!d) return;
+  const V = $("#view");
+  V.innerHTML = `<div class="empty">Loading…</div>`;
+  const [x, idx] = await Promise.all([getLatest(id, file), getLatest(id, "index.json")]);
+  const runs = idx?.runs || [];
+  V.innerHTML = `
+    <div class="panel-head">
+      <div>
+        <h2>${esc(d.name)}</h2>
+        <div class="meta">${esc(schedText(d))}${x?` · produced ${esc(new Date(x.generated).toLocaleString())}`:""}</div>
+        <div class="q">${esc(buildQuery(d))}</div>
+      </div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap">
+        ${runs.length?`<select id="hist" style="width:auto">${runs.map(r=>`<option value="${esc(r)}" ${r===file?"selected":""}>${esc(r.replace(".json","").replace("_"," "))}</option>`).join("")}</select>`:""}
+        <button class="small" id="bRun">▶ Run now</button>
+        <button class="small" id="bEdit">✎ Edit</button>
+      </div>
+    </div>
+    ${x ? `
+      <div class="filters"><input id="flt" placeholder="Filter these ${x.count} articles…"></div>
+      ${x.errors?.length?`<div class="meta" style="color:var(--warn)">Some editions failed: ${esc(x.errors.join("; "))}</div>`:""}
+      <div id="items"></div>`
+      : `<div class="empty">No digest produced yet.<br>It will appear after the next scheduled time, or press “Run now”.</div>`}`;
+  $("#bRun").onclick = () => runNow(id);
+  $("#bEdit").onclick = () => openDigest(d);
+  const h = $("#hist"); if (h) h.onchange = () => select(id, h.value === runs[0] ? "latest.json" : h.value);
+  if (!x) return;
+  const draw = (f="") => {
+    const fl = f.toLowerCase();
+    const its = x.items.filter(i => !fl || (i.title+" "+i.source).toLowerCase().includes(fl));
+    $("#items").innerHTML = its.length ? its.map(i => `
+      <div class="item ${i.new?"isnew":""}">
+        <a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+        <div class="meta">${i.new?'<span class="pill newc">new</span>':""}${esc(i.source||"")} · ${i.published?esc(new Date(i.published).toLocaleString()):""} · ${esc(i.edition)}</div>
+      </div>`).join("") : `<div class="empty">Nothing matches.</div>`;
+  };
+  draw(); $("#flt").oninput = e => draw(e.target.value);
+}
+
+/* ---------- digest dialog ---------- */
+const F = $("#fDigest");
+$("#days").innerHTML = DAYS.map((n,i)=>`<label class="chk"><input type="checkbox" name="day" value="${i}" checked> ${n}</label>`).join("");
+$("#eds").innerHTML = EDITIONS.map(([v,n])=>`<label class="chk"><input type="checkbox" name="ed" value="${v}"> ${n}</label>`).join("");
+
+function formToDigest(){
+  const fd = new FormData(F);
+  return {
+    name: fd.get("name").trim(),
+    enabled: F.enabled.checked,
+    groups: fd.get("groups").split("\n").map(l=>l.split(",").map(s=>s.trim()).filter(Boolean)).filter(g=>g.length),
+    exclude: fd.get("exclude").split(",").map(s=>s.trim()).filter(Boolean),
+    raw_query: fd.get("raw_query").trim(),
+    times: fd.get("times").split(",").map(s=>s.trim()).filter(Boolean).map(t=>{const [h,m]=t.split(":");return h.padStart(2,"0")+":"+m;}),
+    days: fd.getAll("day").map(Number),
+    timezone: fd.get("timezone").trim(),
+    lookback_hours: Number(fd.get("lookback_hours")),
+    max_items: Number(fd.get("max_items")),
+    editions: fd.getAll("ed"),
+  };
+}
+function updatePreview(){
+  const d = formToDigest(), q = buildQuery(d);
+  $("#qPreview").textContent = q || "—";
+  $("#qTest").href = "https://news.google.com/search?q=" + encodeURIComponent(q + " when:" + (d.lookback_hours%24?d.lookback_hours+"h":d.lookback_hours/24+"d"));
+}
+F.addEventListener("input", updatePreview);
+
+function openDigest(d){
+  editing = d || null;
+  $("#dlgTitle").textContent = d ? "Edit digest" : "New digest";
+  $("#btnDelete").style.display = d ? "" : "none";
+  F.reset();
+  const v = d || { times:["07:30"], timezone:"Asia/Dubai", days:[0,1,2,3,4,5,6], lookback_hours:24, max_items:60, editions:["US:en","GB:en","AE:en"], enabled:true, groups:[], exclude:[] };
+  F.name.value = v.name||"";
+  F.groups.value = (v.groups||[]).map(g=>g.join(", ")).join("\n");
+  F.exclude.value = (v.exclude||[]).join(", ");
+  F.raw_query.value = v.raw_query||"";
+  F.times.value = (v.times||[]).join(", ");
+  F.timezone.value = v.timezone;
+  F.lookback_hours.value = String(v.lookback_hours);
+  F.max_items.value = v.max_items;
+  F.enabled.checked = v.enabled !== false;
+  F.querySelectorAll("[name=day]").forEach(c=>c.checked=(v.days||[]).includes(Number(c.value)));
+  F.querySelectorAll("[name=ed]").forEach(c=>c.checked=(v.editions||[]).includes(c.value));
+  updatePreview();
+  $("#dlgDigest").showModal();
+}
+function slug(s){ return s.toLowerCase().normalize("NFKD").replace(/[^\w]+/g,"-").replace(/^-|-$/g,"").slice(0,40) || "digest"; }
+
+$("#dlgDigest").addEventListener("close", async () => {
+  if ($("#dlgDigest").returnValue !== "save") return;
+  const d = formToDigest();
+  if (!d.groups.length && !d.raw_query) return toast("Add at least one topic line or a raw query.");
+  if (!d.days.length) return toast("Pick at least one day.");
+  if (!d.editions.length) d.editions = ["US:en"];
+  try { new Intl.DateTimeFormat("en", { timeZone: d.timezone }); } catch { return toast("Unknown time zone: " + d.timezone); }
+  const before = JSON.stringify(cfg);
+  if (editing) { d.id = editing.id; cfg.digests[cfg.digests.findIndex(x=>x.id===editing.id)] = d; }
+  else { let id = slug(d.name), n = 2; while (cfg.digests.some(x=>x.id===id)) id = slug(d.name)+"-"+n++; d.id = id; cfg.digests.push(d); }
+  try {
+    await saveConfig(`${editing?"Update":"Add"} digest: ${d.name}`);
+    selected = d.id; toast("Saved. It will run at " + d.times.join(", ") + " " + d.timezone + ".");
+    renderList(); select(d.id);
+  } catch (e) { cfg = JSON.parse(before); toast("Not saved: " + e.message, 6000); }
+});
+
+$("#btnDelete").onclick = async () => {
+  if (!editing || !confirm(`Delete digest “${editing.name}”?`)) return;
+  const before = JSON.stringify(cfg);
+  cfg.digests = cfg.digests.filter(x=>x.id!==editing.id);
+  $("#dlgDigest").close("cancel");
+  try { await saveConfig(`Delete digest: ${editing.name}`); selected=null; $("#view").innerHTML=`<div class="empty">Deleted.</div>`; renderList(); toast("Deleted."); }
+  catch (e) { cfg = JSON.parse(before); toast("Not deleted: " + e.message, 6000); }
+};
+
+/* ---------- settings dialog ---------- */
+const FS = $("#fSettings");
+$("#btnSettings").onclick = () => { for (const k of ["owner","repo","branch","token"]) FS[k].value = settings[k]||""; $("#dlgSettings").showModal(); };
+$("#dlgSettings").addEventListener("close", async () => {
+  if ($("#dlgSettings").returnValue !== "save") return;
+  settings = Object.fromEntries(["owner","repo","branch","token"].map(k=>[k, FS[k].value.trim()]));
+  saveSettings(settings); await init(); toast(canWrite() ? "Connected." : "Saved.");
+});
+$("#btnNew").onclick = () => openDigest(null);
+
+/* ---------- start ---------- */
+async function init(){
+  $("#banner").innerHTML = canWrite() ? "" : `Viewing only. To add or change digests, open <b>⚙︎ Settings</b> and paste your GitHub access token (one-time, see README).`;
+  await loadConfig();
+  await renderList();
+  if (!selected && cfg.digests[0]) select(cfg.digests[0].id);
+}
+init();
+setInterval(() => { if (selected) renderList(); }, 5*60*1000);
+</script>
+</body>
+</html>

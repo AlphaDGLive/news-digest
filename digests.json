@@ -1,0 +1,37 @@
+{
+  "digests": [
+    {
+      "id": "b747-mro",
+      "name": "Boeing 747 MRO — worldwide",
+      "enabled": true,
+      "groups": [
+        ["747", "B747", "Boeing 747", "747-400", "747-8", "jumbo jet"],
+        ["MRO", "maintenance", "heavy check", "C-check", "D-check", "overhaul", "freighter conversion", "hangar", "engine shop", "parked", "retired"]
+      ],
+      "exclude": [],
+      "raw_query": "",
+      "times": ["07:30"],
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "timezone": "Asia/Dubai",
+      "lookback_hours": 24,
+      "max_items": 60,
+      "editions": ["US:en", "GB:en", "AE:en"]
+    },
+    {
+      "id": "sharjah",
+      "name": "All mentions of Sharjah",
+      "enabled": true,
+      "groups": [
+        ["Sharjah", "الشارقة"]
+      ],
+      "exclude": [],
+      "raw_query": "",
+      "times": ["07:30"],
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "timezone": "Asia/Dubai",
+      "lookback_hours": 24,
+      "max_items": 100,
+      "editions": ["US:en", "GB:en", "AE:en", "AE:ar"]
+    }
+  ]
+}
