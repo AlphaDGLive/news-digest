@@ -2,26 +2,386 @@
  "id": "sharjah",
  "name": "All mentions of Sharjah",
  "query": "(Sharjah OR الشارقة)",
- "generated": "2026-11-16T13:51:01.183684+00:00",
- "generated_local": "2026-11-16_1751",
+ "generated": "2026-11-17T03:35:25.651432+00:00",
+ "generated_local": "2026-11-17_0735",
  "timezone": "Asia/Dubai",
  "count": 100,
- "new_count": 1,
+ "new_count": 51,
  "errors": [],
  "items": [
   {
-   "title": "حمدان بن محمد يلتقي المؤسس والرئيس التنفيذي لشركة أكسون العالمية",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zTmFCbDR0eDU0ZWFDTnEzMVhZUEdtdEx4eVBuZE1uSHQ4OUpiejdJdUtDM25HWjhiSm5JNGVZYVF5eE9pOUZxR0FCcERuUUdOcnhOM3BxQzM3VC1YVkE?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T13:47:56+00:00",
+   "title": "اختتام معرض الشارقة الدولي للكتاب بمشاركة قطرية",
+   "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPLWdxYzFyRzN0LVpGN0pmN3pKR3FqOWhJRXkzVi1VaUpPUE1FdHlTUks0eml1RnhDSy1nazZXQ0w1d1M2bzRuOHpRUjhPSXdtRVFxMUxHd0JBS1NUQk9OV3ZXNFNmNmkwQmNrZHhOTEVaZkFveUd5SWNTMS1vdVF6MlVYdFc2QUswWnQ0TndhVFJWUlpGSnA2MVh3dl9NVXNfSG5MbVBTYmNUZEhPS1dhVldoVTZIaGFzcFNpRUU5VXpUMUR0YWZoQ0ZERklxdktNUUR4ZG94OFJfV2ZRVUREanhvLW5SY2ZZVFU4dkFHRG9fRHdFUVJMcW9TWlprcnJlNW9kbl8zNXJyb3AxZ29Eb18wbk1aZEV4SHdLSFRPSVU0RFhlN0c1OVZQT1BGTG9mWkZLNEZmUDJsS242U1JRbFdiMGN0QTRZNGdHaWRpMktPVjhUdnRVX2tnUUtyeTRncGUzdGJTZVFzd1ZGMm9faXViX3NKSmdnZmtiNHBPRmpkUVplS0prSS1PZ2ZlN1RRcldOUlBnc1NjMXl2QnZ6V2F3?oc=5",
+   "source": "جريدة الشرق",
+   "published": "2026-11-17T02:21:59+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "موسيقى «صوت الساحل» تصدح من الشارقة",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNX1lyak85al9TVzRIaGg2R1NNbGpyTkcyLXlvNTRiSVlvZ1pVZXJHVkl4R1Ywb3ZQR25ZRkNTUWNRZU5Ca3RQMUhadU8wei1nUWhXeGozR3ZFVV92QmdSRUNmSnVEZ2JBQS1WOTkxNGVXRlhpcVZEam5YTDV5MjR3VmMwcXE0V2xoZ1M2OUdjYVNIN2NiZFBqdTdjVVI2TGRqLXJKTmhmNmlhcXNDMWR5ZHdWRU1WQk8tV18wQ3hZU3JLUUJ5VElBRndnTUp0RXlXUTRuZllSVUdTQXNSaWZRV0x1XzJ3Y0R4S2l0QVlJVXV2NWFDTFo2R1FlcW5NMnpydm1vMHhkLWw4ZkY1LXNKTG5Ib1oyYmxDWFZEbVo5ZVpmaGE2cU9vdWVVcnZwblNJZkROVXV3cWVRMG1tUlg3cE1oc2s3SDZmR2N2Z0kyTTBpX3FfQ0FzV0RuRFBJajlXRy1yM0c2VWpyWTJTY2FwVi1CcHloaVdaZmRyLVZuYkFjLTJtSmJ6b2FDekxBdw?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-17T01:36:57+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "«انشر» يفتح حواراً بين خريجيه وخبراء النشر",
+   "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNQXppdVRQYzFWNzB2cFVfZlhqVXZpX0RuZXFvejVWNmU2YklPWmFMYXl3MU5FSGt6VFAzNjdMWlE0czVsOUU3bzNiQW5tSlhtQV9ndEFHSUUtS3QwSnpXUVZMT2NIcWIzZ2JvcWJPRUZwWDVMNzkxMzRYMk4wNUUzUjV2S25sOEVoMC1IbjFvS2FVNm51XzRJYWNWMWlKR2ZmUjJqNF9Yak1qOUR3SWtITGstSE1mZzRTRGxGN2YweWpxRDFrMlctTXZhMUdEU1ZJV1BTY0VJek51NEdXamM0bFYtbmZ0MkMwU2k4eU9xNlhnX2ZmTjZaUlRDTlhxOHN0X1cxTUJoY2RrYzA3SjIwNkdmZVYwYzYydjNrOTZhanJ4cVN0cENMZFdhTUFPQ0w0RGdyYUIyTXVpOUxYQnVrZnRsMU9XdjZ6TFhpY200MXRKNzgzUTZmN1FQamt1MkFqdldMa25xM2FXZ3o5cTBfQ1B6U2JJWE91Z2VTTTNwbFg2U0Z5eHd4MnRHR2h5M3QxMWEwMXZDZlFncGVXS1U4YUZJcFhkcGMtVHVSNUppRkwybzRuQmJuX0ZnM3V0TFVWUUN6NmV1SDVpT3pqMnJZUDE1ay1xSFpGamJ0bl9lT3hZY3dyVlNhag?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-17T01:36:57+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "زوار وناشرون يوجهون كلمات محبة وامتنان",
+   "link": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQcjg1Zno4Vy1wNk04V1c2QnU2Sm05OHdDMTk3Sy1TUXk2bjlGcGQ0R1VqOW10TERsbGhZRDFEaWhLaTJpcnVlVG53QWcwdjdUNmpYV09jT3VIMkFCYnNrVjM0Z2NnTm9sLVFzbkdxQ2d4eUVNVkdIQUVOb3hpbzFwUE44akh3UU40emc0bFJlV0laZlZvbDJuMXcySVhOUW02ZzJvV0Fwdkh3TkpLS0NBUWtwVEtHN0xxVmVRdzdKVFB3MGRaNlM5YjdBTnpiSkJYMkNKVklHN3V5SFhjRnhVcnRTeWk5dHdNcW90V2pMVWxvZmk2TWZYdTZJNkRsTGVlbzV4VEl4ZTVEc0xydTZUeXBLNnFEZHp6TWhXZWlWWHhxSFkxNzZuNGtRLVdoSVVCVWIwMjctZ3RqTThITW4zNS1vNXMxamFHVmM3T2pGQ2JNOTQxOGN5ZTIwbWk4Q0tGbDUya25reERJUnIxRmdCTVl4ZDVSREVHRkR5SnZndXNQaWNaVlh3ZTZXQjA4Y0RIUUlNQlpRa2laNTlZdWZKMmwtd2JRQ2xZRV9seGVyUm50c0ZyenZrRHEzdUVwbkw1UzRJZzFsSHJUc29SR2tmT1RpMTJzcXBDaEtTQXUxMF9oWk45NHJJ?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-17T01:36:57+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "أحدث أخبار مصر والعالم",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GNEJEWmZ1VFlDWkJsWkdsR2NfY2hnR3plNWphUGg5SlgxSkxyS0p6V1l3MG9kQmlaWkFzWHFmS3NjS2JsUE5aZ2hEMA?oc=5",
+   "source": "ekhbary24.com",
+   "published": "2026-11-17T01:11:54+00:00",
    "edition": "AE:ar",
    "new": false
+  },
+  {
+   "title": "سلطان بن أحمد يكرم الفائزين بجائزة الشيخ سلطان لطاقات الشباب",
+   "link": "https://news.google.com/rss/articles/CBMihAVBVV95cUxPektDM1lYRnc2YUhwMVljV2VOLU8tcXpGV0ZNaWoyRWVmR2xjWnNKYkhRbW5tQ2c5bFVsb0xwUTlmT3dzdXBVZ3BYNHlnVzZNQzNQM210R1FzUWhKSmxkTWY2MUhXT0Q0NG90Q0FlMUJWOHFrMzNiYWpNRTFTQXliS3g3NVAzNUZ5RzQ5MGs2bUdNUmZkZWdpUEFsaGhXOEh1TFk0OHNmY1lvcWxmUy1LdENiOGRrLWh1dXplNTcwcDJvajVwMW52dVpWQ1hvRE51WFFSZzZ6ajNaSHZ4ODctSzh3TFdHdzgySGU2VTNwLVZ0eEU4X3lCWGpYY2lXTG9lci1pMTVLQW1KWncwTVZwdFFBSkZpYjNQRGQ2S2VYMGxsY3lzTjVid2dQaFFQajZXcXhCTHRmc2Nvd0puVVdzN0hmMnd5cGJzMnJacHdHSExhb1BKMGZzMkItTFJobXZPUzdsVGdCdk83VXFENnlEdXpIV0ROcVpoY2FPLU04S0lSajN0OWFRLTZCeV9TYVdyT1VNQTRCZ0UxYWhSakVfejdaVG9jcG12MEp4VW9QdE82RFhTcmJQa2NJMkpkZ1hYTXBFNXdEMVJmUi1FTWRHc1JydDBaVkZVUmhnTVc3TnpGRWxrMU5kMjZHbVI3aDJ3ejZhZm5ncDlqcVpkdDB6YktMRTBzTVItTm9wdTFxeVZsV1ZsN2lUaGp0VFVXSGpfWGdVWTNNLUNueUZJOFBSa1lmbWI0TXYyNHVFWk9TZUxCQlpwb3V0YmJnU1gzeWlzYzhWaHIyNmNGOUJSWGl2SXByTGQ0eGVWVXpXM3FkRVhBMnBxcHBHMjNnRnp3SFE2SUs0Ug?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-17T00:13:35+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "«صوت الساحل» تعود عبر أثير «الشارقة للفنون»",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WVVVPWU1Fdy1URDd2eVF4UXRSdXo0VnZRaUJVNmdWZ25CTmNTVEUzVkU1amJORUxzVmJRWEM4aVczWFVUaDVqY2FJY05abUEtOFFkVWh3YkNUMGt1M2JLNnZMaFlxN1pXWUZKdlFxUExES3fSAY4BQVVfeXFMUHhyRFFndkN2cjdTTkVScjNOZUVycDdqOVFvWVc1RkJKNi1hbVo3SzRaMmJlbDB3em5UQ2J2NHhsUG9pVmFkZkMxREFPTVlYNjNfWE1oNmhId1c4ME8wRmxGazZNY1g5RXF2a09hb0taMkh4MkpoeGFZcWFUWm9nNmljN0tqY2Y4Yk5fYklpdw?oc=5",
+   "source": "الإمارات اليوم",
+   "published": "2026-11-17T00:05:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "«الشارقة للكتاب»: 1.15 مليون زائر لمعرض «يصنع الحكايات» والإنجازات",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmRPOU1NbFNfVmlhQjJGQTNIRjZ6RDZBbVhBZFlkWFFaa2wxajVHLVZ4Qkt1aFZLTDRpUW5pc0FlN1dqMnU2VUVFN3dlSXNJY0RsSlpBcXhiTkVWRUVTd1MwUm5xUUI2UmptVHltNnlseEtfS015dFRib0xCcDlFcmljakxyZ1RnVGfSAYoBQVVfeXFMUFJkTzlNTWxTX1ZpYUIyRkEzSEY2ekQ2QW1YQWRZZFhRWmtsMWo1Ry1WeEJLdWhWS0w0aVFuaXNBZTdXajJ1NlVFRTd3ZUlzSWNEbEpaQXF4Yk5FVkVFU3dTMFJucVFCNlJqbVR5bTZ5bHhLX0tNeXRUYm9MQnA5RXJpY2pMcmdUZ1Rn?oc=5",
+   "source": "الإمارات اليوم",
+   "published": "2026-11-17T00:05:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "ميرسي: فرحتي لا توصف بأول أهدافي مع يونايتد",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NMkVnMUVMUEFNVnJaN2RfRHhSZzNzbVpCRzIxWk9YcEpyQWc4ak9XcUtUbDNDbDVJTjFrcmNBektyZXpzUzFtUlFXZjdWbXJULXM1bWNTZXRfYWJFQ1k5bnU1VHNIOWFJY3F6NjBMMNIBigFBVV95cUxPZnF0NF9tMzBSQkVpVlJxelNZaThobWt0clBFTzdVNlhqUjU0bVpMVEd2U3FaaWlkRlBWTzFPdGgwUjVpd3gzSTZPdF9JSWg5MkVFbkU0Q3JYSnlkcDZ5VXRXc1dVS2lkcUhJenZ0aU9WTXRtUTJrTkZpT1M4WmEyMmQzZXlrSkplRUE?oc=5",
+   "source": "الإمارات اليوم",
+   "published": "2026-11-17T00:05:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "\"الشارقة الرقمية\" تطلق \"تحدي الشارقة للذكاء الاصطناعي المساعد\"",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jd3RlS2pmb255OUdneUFZS1lxRmtWWnJUYWJ4SDZrMW9rTkJwbmI1T1hqTGZSZkdnLUo3RDBBcUdOZlBiUFRPLXdhelFVUnJwYkRXTHNNZ3NVRVpR?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T22:21:25+00:00",
+   "edition": "AE:ar",
+   "new": false
+  },
+  {
+   "title": "Sharjah International Book Fair Wraps up, Featuring Qatari Participation",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTZlVjhvM2U3dDZEOUpja3VtNHB5WkNDZnFuTWZRSTJUWVJBTHNibGl0b3V3RklWcWZiWXNmR0YyWkxLdENZNU1FeTVCSkFkRWI3emJZd0xzU05yNjZjbS1ocWNHM2tNLU11RlBNemJfcmNmM0hKNnFtMkJjaXptcUY2cXlPT3hsbTBYVnJreVdzbDVyc09iNkVlN2Z5bUdVTjZDS0h1b2lwQnlKSVE?oc=5",
+   "source": "Fana News -",
+   "published": "2026-11-16T22:11:08+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "إطلاق «تحدي الشارقة للذكاء الاصطناعي المساعد»",
+   "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNbWx5RWt5WEtONWhiaFdJempZWXhKUVZvXzZnM09NSE9MTHo2MVN5MGlpMmxIQk52ZGQzWkF0aS16eU85elZTSXJtLVRfVnl2SzNUM2NEdGFFSUlfR0xyb3FoWkdvYndnaUxQUnEtTGx3bkpJUXJBUWpaaVhzVTNFWHdyWmpqUjBjUXd0YnpEZTFMVjdqZDhaSmtIV3lCal9jMjA5Zl9WUENQMVlxQzNvdGFOdWE4UTZTZFo3M0pNTk40OUZUOUc3WlVJeVR3VjVDUjNPYkhmWUViQnJWcW5QbE1BeTRNcXhOTVpKOWtNYUJjeElvR2RDbEpKazcwa1BMQ2NPeFpQejVhQndMRWNzV0NCNUhEbnQ0STRaakxaUlY0aHRjN1U1YkR6MFlVQVBhQzRqYm5FaTJkTXBvRGlwN3Q3ZmNSWGpXMTRBRHQyS3dEbTdsMzNnb3RSVWlVYmZIZVpZY1dTZGRSalRZRmM2X1p6cjhfaTlQV0pXQW80UlJFNE8xa1ZWS3lQWExlcFVBUURxWjgzRUVtamZzb3dWMzRlb1BuUWQyUlJ3MFdXRUUwcGxBdGZNbTRtRUxSRkx3U1g1cjZkZw?oc=5",
+   "source": "الاتحاد للأخبار",
+   "published": "2026-11-16T22:09:20+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "سلطان بن أحمد القاسمي يشهد تكريم الفائزين بجائزة طاقات الشباب",
+   "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxPSExQZXc1MTZJcjZKa0R5bXA5TVVmOUQ5X0MweXhJbU9IR0ptU2tObkZ3a1QxSDdzNVhtdkFrRTJxZUxNdHg5dC1IVHVUTHF0YkJ2cWxPUmRSTy1VZ0N2NVdEMUF5WlRSdEVNc3JYYVd4QWFGQkVXSlZrNks4OWNEZWp6NlZmR25sZjlEUXl2Mnd2eEF5OGhfYi1qMS1xekwtV1JJNnBTdllMYU9tQ2lJM1NHaFVteWdIVUxpYVYzVmVxRDV4MWlfSVozU0NscDRGek9DY0FkelEtR082VTRiTlM3UnlQaG83WFRQVVlvemdhQTY2RUNUcUMtN1JoakR2U0wyeGNXNmZLUVh4VEs4YUNObERRQnQ1V2hNM01HWHJhQ1p3SVZDcm5qbGRySW9PN3RNWVNZRmdoa3hMTzdVck1ReGFoNmlrNUN6bDVWMWlrMnE0cmx2ZlBfVTZTek5GZjlYeERlWXhVcWZzT0lrb3hNVzgtVUlxSzc2ZkxfMVJtdnFXZXlPaEtFMVNvNnZKR3duYXFyN2hmNzV4MEVtbjNFU2h0aVZ1WDhPSGpibGxjZ2VTYnNLZ3VMTDMxRUxCV1hDOWp4WVdBUnNiMkpCZ3pHaDZRZjQ2T1EzQ3Y3SWpWczZTY3FydG9ObXRfbUpJS2FlLXlmbXVxVkd3ZkVrSUJoYmhoNlJLZk91RXlXbnNYeG1xX3E4YnJJWVpHRmdWbjdxQnhmOFg4MlpxMmk0YlJ4UQ?oc=5",
+   "source": "الاتحاد للأخبار",
+   "published": "2026-11-16T22:09:20+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "Al Dhaid Bridge enhances mobility and quality of life",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Z0FVWE52RDBJZHJwc1ZyXzBYWWI4NHlnRTliQUJqdWpZV2dvRUhDRTRlNEwtSFNSeW53cHJ3VXhrdW1TWkZONHJqVlZhYU91ZHpWUGl6eDhzVXAt?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T21:48:59+00:00",
+   "edition": "US:en",
+   "new": false
+  },
+  {
+   "title": "وفد «إسلامية الشارقة» يزور مجمع القرآن",
+   "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNNWdwbldVWnQ2NTZkMDFZSjVZb3plVXNBUW5oX1hKVHU5NFM1alFlT2t0NEpMYXF6d3NBVjB5NHJfak55RS1OZWdVbDJEVmdGcWQ0alc1R0JvSFNQenhjeG5PWmdCVlY0UTZ5ZXZSU0RQQ3FRQ2hEOXczNEtTYkluLXZNcEFJYy1YeWM3a2FBbUVoUTU1bmxweW1tUlkybjNkVTN5b2FCV0JIeEpXaFVLVTdnVzRLZWt2b2gta2dlUGhXczhJZXZKR19XcXdqU3Y4TlVJSWYtMnBNV3ZDVHNfeVhUczNQSUJ3bWhpLXBONXpIN0ZQUmk3WVpVbC15Z2FxZkNBdi00WUVXeTlyV1FpN3g0WGllbEY4X0lKaFNaQWVFd0xiZHhxRml1QjJPNjdiV2ZFZHFpWHlQbjJjVjZlNllDYm1IQXd2VzdsZW0wQ3poemRCbWlLb3JXV0ZpVTR0aUIzWFdKMnh6aUdXUmVTRGQyWkNjNWFOblVXVUttT2FNUm1yQ3lkeGVOYWZrM2xiSWdiQVlXYUdGcG90Q0U1VWJWbHhGTWNLV0EwMEhYcW1fU1JvaFZ4YkR5Uzd3cFI2X1RpMHBZNXpvYnZoa1JzSjFhUVRwdkJxLWdUTGJtaw?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T21:47:56+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "سلطان بن أحمد: تطوير «تميُّز» لمواكبة أحدث الممارسات العالمية",
+   "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOZTJhelpEOWxfQndIYVoydjNaWjE1cEhkRjc0R3B3X3FGbTZ5UDRmNnBIcUlhYkRPZWVPM3Fvd216aDN6LUg1ek5yYWNyeHdKOUliSzBjVGRwLXRUQThIeG1uYUhBUkdFQkZ6ckNSaHo1d3FKMWI0RTAyTmJHM1ExVXZBNU9iZ1p0aHBuLVBzSTJ1bzRISFlUQVdmanFfU0pxUGQzWTdmOFRxNVRDTmlBM1AxTDFHSFFHajBmZC12YzNqazA1T0NGS0U1M0JoYTg3Z2pjaHFGamREdjhzZkJacHBVejZmdFlldkhRbnhsNkVTRndqY1BzdjdySlg5alhUbmI0VHI0TGJzMFJtQ0F3NWpXT1hXaDN5UWh2MjN3Y0NiVkdlQ3FGSTdvMU9SQWl6U2dhWjZjMy1VeWF0bElMbnhScEtlc0FEaTBQOXJfNkJUekI0SkNfeDBfeXFodUY1VmxMeF9nS2JxLVU2eFVBaVUtNnBsSnNrYmhpc3FIeDJwV183WkdlSWNzXzNiVFIydVdxRVhiWkw1dTVjTUl6dWxqZHU2QTZMOG1IdnNyNzlxaFdGSmpweGt6OFNpYlhHa09FUkxRaHNGU09aRldmTTFQU1ZxbUstb3Z0LWNRSlVEak90RjRwN2JzSndFb0dDNnF4MWxCenIwLW54MTMtRUNnMHVneW5BU2JBUjlZWHkzOUgzYzdNajdwcHpnRGxBUThWZU1SNEIxdTZ2QlF3d2ZDZlVJN2NDalZESUxWSXUzRkkxbVNDUnRFc2tyWjRjOFFoOUx2cXJ4alRHUUZtNDZYQ1ZRWVNwQlRR?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T21:40:41+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "الفنون الشعبية في مواجهة تحولات الذكاء الاصطناعي",
+   "link": "https://news.google.com/rss/articles/CBMisARBVV95cUxORE5sOGgxV0ZUd3N0dGtMVHB1M2RDd21xRVhhQ1RXRGx1TlhadjVEV0ZqNGFwSjQwXzNCeGFqZGlxaFluNGR3b1hidlpqWW80aHFJTjBobGt6LXBOOTFtdmZXNG5qS3ZicnVMRnk1OFllUWhTODhvcjEyLXBaZnlScHpfS1B2UEoyRUt4OE56UWhmMWV3dXlzMWRubi1iTzdiU3pHeEVCMTMwcVpFeWZld0MyRlRzTkJydDl5SzVvZGRZQmEyT3hGMzdQdHFyMDBEZU11YXJWXzR6bGQ0elUxWmVIajhzTzZSako1WUxSbXNYRnB1dndvQTZDLXdscGxFM2tGMDd6YnBXN1J0T0R5S3BwVnVrcDBldmp6aFNXMndqUkw5QnRWSXREamM2UUZLaFQyY1d3UUVHU3hwOHVKbTBmbDBoTlkyMHJ2QWZ5YnBhOEVKTnYyYWNkdFdJNjJ1Rkw1VVVTSGJKMG5FN19jdG9aMEoyZFZqV0ZkbmxXR1p0MGxpWU91WGE2alJleVlGYmRld2JYQmo3ZXdVbzlkSWFpTUJUWFgwTFRNMnlxX3dqQlBocDFEZk5TejZwdGFwdDZjQ2RPMGVZa0MwdmNfV2NNY0xWUDBnRTNXNWVaUTM0Qk1NdkNfbTQ5QW14ZGVsWEZubUFteUJSc1JsZzBCYW9YQzVhczFLMDJWblNXZ21qTVRaZ0huU0pPc2ZLdjBteFNZYS1NcDdNZE04bG9kRA?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T21:32:31+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "قصر الثقافة.. جوهرة الشارقة",
+   "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNel91cTZuTHgyZVdLeW5zQ0hrSTZKUGF4UnVXSjdIbVd1RUtzZXM3NXlTNnQ3NExEdXVjNVpUd2VVWGxKRmttTVNnZnlvZWp1NzBVMUs4R3djTFNqQWZzNFdqeW1yUWNsWkVCTTVVU0FseWlGMU1kOGhiVW9RVnhiX3lYNUdiMHJwczhjR08tckcwdi1LbFBpM0MzUWxjYkFKU1FUSl95RnhlcDU5V1dfYWtpSEVwSjI1MVBmeVZRSW9YZUdKelJGZU11WnlOOWV2LUt3UGtxSV9LeXl4eFVGVHBEaVotS1MwSktoUnl6Q255VV9NOHdVR3VCVk1uQ0lKemRoY09kS2VVMkQzdXlGR0U0bnhLZkhDVGN4Q1lCN0dTS1pZOU5wX2Qzam9BWHZjaDFjSnNLMngwQ3JIN2dvVi1zd1RuMk15RG1VQS1mZFlEamdaWEtmaFlCRGNLQWdRUHhod2xLZHpXUlc2UXR4TG9RUy05YVYwQkM0MlJCQ0tORFlhTDB6a3FZRkg?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T21:25:57+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "الشارقة تفتتح جسرا يستوعب 6,000 مركبة بالساعة",
+   "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOTkNQRWFTU3dtLTY2UmI3STNyNkRQWGhNUkMySkNvX2E3VEtPaWxBdVZYMW9NU2RwcndhLUlJSGF4M21GeEI4YU9FZEtCY2UtRGliUmFXRW5FM3JnRjJyVDcwR1VPcWN1dGJ3OHRhaE0tZkVyMS1ndl84UFU0d25Ia2xYLTlGYlR6RE1MNDJ2QUZ4aE16SVkydXYwSllRRXJvQ0pJOVptSXlYaVNhWVF4b1dsTU9zQjdtb2xpMU96YmFkVTJhMXlQeUt6UXVJdHVFR2x3OHVtV0kxcjFWUFREekVEbDZjX2Z5N2pjZnJ2cFp2RWRDOWR2bUE2cC1va0RGcV9zUlR6cWJVZDlNRWtGX3ZfOEhGbURfZzljYzU2Y1FjLXpOdTFObFR6dGJ6YjFqaDBKQjBnY0pOdTlzMkxnNUJNYmZhcmhybmZKOFphd1ZxQ0RXMy1rcHhwQ2o3MDAwZHpPYy1Dc0d0dGx1NDU1NkNn?oc=5",
+   "source": "أريبيان بزنس",
+   "published": "2026-11-16T21:01:41+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "700 مشارك في مسابقة «قرأتُ لك» في المعرض",
+   "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPNHFCNlNQN3VLdDFBUXNvNG9NZVFsbWx2b1BndEpxNUgxTXo1UnRKSUI4SHN0U0VKZFR2T0JVdUZHNXZyUnV5ZUMzMENHNTgzYTVURko5NkphUUxrM0hBOGFzcnhtZnA2ajQwNm5uVUUyeFE3U01UemlaWEdOWFFyNjhmNG44VGR4dTZrZWtfWTNiTXAzTTBNaWVvVGtwUUR3dGt0TG9pV2NxdnYwbkt2YzVMOHhpUzBfRjExWkR5TG05ZmxUM1hEWDVVSlhMc2xOYjJTT3ozOVJ1UW9PdmFFeHVSOXpIdWpBRzdsS2hETE9kY3JOVWo4U2lCVmFCaHVKbWpXbW9CcklEd0VqQXFLVWVrcWJjWEQ1ejNCcTFqSjZSbGowdWdyaHZZM0kzalA4Sy1SNXlSbmt2NGh3SThxYXREbDN2QU53d0EtS1N6WjQxcE9QM1psLU9DVlFqX2dFeGJ3SmNoR0tLMU9HUzkwbXBBMDROMGw2dFd5RzNCZ05tUkd4SVRTUG5hNE9lU2QyTHNWZWlHRnQySnVWRU9TOXJteFhVc2dKUkdQM3dOQjJUb1NlQnhIZQ?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T20:28:51+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "15 Rehabilitated Sea Turtles Released off Sharjah's Coast",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjd4ZTk1SFlMbzhlQmFYX3RIS3ZfOV9PVTduMFlKMTN4TG9OOWFlOHdyeTZsV2R3bG5tUXlURHZ6MjdQVFdoWDYxZmtDZzRBdWphcWY3Tl8wdGZkZ01LdXc2Z0FiUHlZUENnVGx1eXJkeThWeVp5dkl0RVl2RlJIWGhudjJJVVhzTlhIaFZB?oc=5",
+   "source": "CairoScene",
+   "published": "2026-11-16T20:11:03+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "بورغيس: الشارقة ليس المرشح الأبرز للقب الدوري لكنه سيقاتل بقوة من أجله",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53LVAwSmZ6emQ4UHBqNzl4cU02ZTNWMm5SSGs0c2xwaHhvZmd4OC1fNXlKWUpubWlQNm1WaU9rVTZYSFBhVzlpaE5tcmMzMkFNZk1BS1Q2SGl6dXJwODNtN0hUb0VMQ2ZuUUNIOWRGWdIBigFBVV95cUxQS005LWNSbG5CT3FoOWJxZ1AtQy1IZ183RDRkRVFuZ2JRd1NDUVNTdUdJUENUUlNoZDg3Nk04NFNhME9DREZtYUpZS0dKd09IMXhTdEYwNFpjQmxqRndEakx5TzZOMW83TFI3LXBCeUN4TldzU3BqZmJIMTBOZzVmUHRDMGdtU21xT1E?oc=5",
+   "source": "الإمارات اليوم",
+   "published": "2026-11-16T20:03:45+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "«غرفة الشارقة» تستعرض مقومات الإمارة الاستثمارية في قمة «الويب» بلشبونة",
+   "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNdGdvU04yLWk1MkxhbG02MXllTUxpMjh2ZTdPUmhIQTliX2ZSUHlZeHZGZXk4WkhES1ZmdXBXcEgybXJtS0Zod1pNZVg2TjFnN2YtQ084NUFmSDdqakRWMmFhMENLRkVLbmpjbEoxUDJZRXFTcGNpOUFpVkktSzNyNm5rQUxGWEJzLXdWNnRqdnV0NVd3ejU2RzkzZWFIRElfSVRsbUIyYzdFc3A4WHY2YWpxRVpmSDRxQVZ6RW5EU2Z0UFVXdFE4b3FpTFJ3Z2M0MWdKMDRGWUFwbmo1Z0EteURuNUk5SU40MklLNjVnY2VzblNlS3dnVV8zdXliS2loQ255cVNESjRFTnVnMUlfeUVxU21DRUFENFJoQlFOaHZmemFLclB5Ty04UTB0NS1BNXUyU2I2dHRGd0lBOUo2SXh4ZEJXay1XTm1RRUUwa2FZakozMUUtOWlnM0tyMDhXNHZ0ckVieGRlTkRSMW9xZldIdHNYTDd0MV9KWHo5aE1QdUVNS3R1dzNqRVVPQm1aNnlqMTU4Qy1jSnpBdEJVVVhiSXhYaW90Y29jc1lWOGpUMFo0ZDBsUVQtNndIUEhIQ3lCMDlxeFZpSnd6Z0N0U0xTd3hpdkRpQ1A5aDRKczF5djBMSVcta2EybEhMSWxtbS0xQzJpRGYybXpZckVKSXBSb2Jwd2RsamR4RzBHdkoxU1kweUM3UzVUSjZIcFNrMExidGJpd0JKUFUyZkE?oc=5",
+   "source": "الاتحاد للأخبار",
+   "published": "2026-11-16T19:48:01+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "عبدالله الشرقي يتوّج الفائزين ببطولة «أمريكية الشارقة» للقوة البدنية",
+   "link": "https://news.google.com/rss/articles/CBMiswVBVV95cUxOSVFaYzRnd0tEakd2dkVxS2MwUU1VTUdrTXJBMEE5R19JN0ZLdU5EdndZWWVEeWVyYTF1WnQtNXVIc3ZXRkpxdDBXY1N3RjFkUWg4Q2VwZF9IT0phOG5fY1JJSFFLUElXSjhCTUc1SlBrYnJiVDhucktqR19DMXpYa0V3bDNsMG9YX1RfX1BXNV9CWjI5OTFqbTNlemlxX1FKN0lRNFhpT05vaEg3Zy15WEFKVHJWSURtWl9DQ2RiYjlfSkVEMFNrTVA5bzVOWGNMNk93djlDSWF6T0Z3aU9hOGhiUy1CdGJNWThwLWx3MmpaSWkwdG4zTnZ3RDl2R05ybFh6aE5ZOHhYdmhnRWZsS04xUGx1QldlTWRVcHBzSG56THgtaWRsZGhFY0NQQkhQSHoxTi1WU2F2eGMtNjBvLWg0THAtVzR1U3MxWlNZajBZN3RyVW4yX3NoUnBIWjBiVGVQVWRibUh2SUtCSGk4UExndkpaWGRCRFpXSGZ0bDFRUVVSRTRJSGp2dkF0eHJteDlwWmcyWDBid0VhLUJ0bXpYdWo5R0hjNHdpbG9VT25wZXNiS0VCbXJzLXBHMWItRDV3Z3k3TVBWVnlfbGpHNUxTMFVPcG1yaEtTNFB3N0JRN09sSV90cEpRZWtzaTlhYS1hVDhhdnVKaVdzV0dvdVI1OTg0THh4Y1lfUWl1T2RsRzRzUmRVaURrMHBsNUpjcGMtU0VSNmNSS1dwcEZfbU55cUk0UENvZGdCbkRLQjRwREZKNlBmV3dwbng5bjJlSk56VWI4dGpCTDV3cmdBQ09KdGJ6MUdaZS1rd25ZUzBiZWwyWldKc1luYldtS3lhRkhpQ3BncWhWNHBZeWQ3UXNvTkc0QnZLWGpzMGprOGgyeF9wSkRMTWpSUGpmWm9yZENN?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T19:42:57+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "NYU Abu Dhabi’s Film And New Media Program Attends The Sharjah Film Platform",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUo3Qzd1Z2kyWjUzQkZIc0haVHhoRlRQdVlpZDYtTlgtUE9XS08wM3NnWE83Y2xocTA0VE16aGFvV3FIWUk1N0FwSHhSUmVZUFVkNnRvdWk3NnZIbHhXM3FKZjlsREVFS3RqbXN6dThNZUF0Q01qUDB0Zl9IN3VYYVZXYzctYUdzWkRLRUNKbnZQaGtMaFZ4LWk5UjFTaXhxeHdQMm9xZ2ltX0tUeFlwaGNZMA?oc=5",
+   "source": "www.thegazelle.org",
+   "published": "2026-11-16T19:39:47+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Arabic Language Protection Association concludes “I Read for You”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nd253VU1XT2I5am5qVHNwaHlKQmhDOVpUdlFJQnY3cXUzX2l3WlJrbjVCMHJUQkZoLVdCaG44d01JRy1Wam5zZFhhck1iZ3dmMkZLam83Sndrdm8?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T18:51:55+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
+   "title": "افتتاح جسر مدخل الذيد لتعزيز الحركة المرورية",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4cWtoa2wzNm5mNVQ3cUJNSzc2LUY4ME5QYXJiSHBCWlhUTFAwZVZBWTVRYTFITXNLc3JNbHVDZkFHalgzR2VyZW5GYw?oc=5",
+   "source": "البيان",
+   "published": "2026-11-16T18:45:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "جمعية حماية اللغة العربية تختتم مسابقة \"قرأت لك\" وتكرّم 9 فائزين",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0aG9ZZlZZSVNqSTc5TjNuRmRpaWZ4VjJwZWFnanEyMGEwZ2plNVJCR2MxeGk3dnNLZC0ycm1JXzBHTm5vLURReGNpNE5odFRYMHhOOGlmOVdnVTg?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T18:34:40+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "\"الأساطير الإغريقية\" بصوت جديد في \"الشارقة الدولي للكتاب\"...",
+   "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxNTUhFenRrWmUwWU55eThqV21FMVlEVDI4NjFIQmdLYkh3MlJoSjA5MHAtN2dla0Y3WVlYOWkxQW5LQzlKSFlBY0NWVUlaLTZxaFJtMG5jN19Zaml2U2tCaVhyYzNWNktkSHk5X1Y4RHNzclZQdkJSVU5sTHJacnJ5bnZNbTJqbHhIekF0dVJPU29CTU13eWFqR0xrVzNkejdtNkFVQ3FnR2pFaXl3ZmotM0dPOVRYdGtCZ2JYb3FtY09nbUxUMkx4MFR0Rm4ySE55b3NqdHEtcUh1dmpWM1NxRUFSR2FQWkhscXFzMTFsQWFvVkhaMHpLa1NKQm1VWTlhWDR0aVh5bDlwN3d1M2tBMXU3azRrdk50Zi1sSG9XRl9XbHg2WC1pbUJBLVhRMHlwZXdQYy1Za0pSa0ZJaEdHbU5OVG9OUy1TeTl3Rkh3MlByMEttYmhWS1k3T21lVlhKUENxR2FNUWkxaWVOM1pXUUYtM0lYczZRRk5SV3h1YXZyVjRQOTNXVkFYU0RQMjdYU2FHWVFaR2tuU2hzX2JlQjBQQ0JxZmVhMnRoSTBuLWpCa0F5YTRETmxCQUI1cmZxeXk1WmpzNmZlbnhmSTl4YWVXVEVuZGRVT0xBSm5ibEZUQ2gxdmNQWkthRDlxdUVJNGJnd3EtSUJQNGs?oc=5",
+   "source": "جريدة الغد",
+   "published": "2026-11-16T18:13:17+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "Said Yaktine: ‘Tsunami Of Novels’ Sweeps Arab World As AI Challenges Creativity",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWd2VUdrQU9IYjRGX0JYRlY2RlR2QVdhTnl2ZzVwcGJNUDRnSlUwbTB4SnpTTzFPXzZpRmhQVDZNLVBCRUZsXy1wNHFBOExHV2Y0Y1g3UmUtbGxBQUVyTnNoMjRQSnhhWml6VlY2TTg5cEFDN3RfYV9XNEE1RGtMYzEtdmNNOTcxN05RVXRaZGRFVXRwU1lOTg?oc=5",
+   "source": "Sada Elbalad English",
+   "published": "2026-11-16T18:13:13+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "SDIA reviews Holy Quran Academy's achievements",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVThBdDhJYmsxYXZPa1JtcU9lT3F6VEIySkJrMDFTdnZhaDREVzJLNURkUzVDSXNua3VtMy1PeWFMQ204VDgtWHl2Um1pel90Ml8xekRzYlFXdWk3N2c?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T18:07:02+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "«الشارقة الرقمية» تطلق «تحدي الذكاء الاصطناعي المساعد»",
+   "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQUXdQbVJST3VKdUlSX0VSenVtWVZmc1JTTWhsYnR6aW5ZbkZqeG81Z09waklCR3JSUVRING1RLUp3amliNEV0QkdmaFdQMTZJX1ExVVp2WDM2YUFqRnNRaVVkclhtRlNoQ192NjlBMHJnMGVqWG1vVENGZGdTbnRIY2hTYjljaHMwQjdnN3lPUkJBVHlzQWZYajliLWJIclpyaHNjc1JJNHpTc1lVSlg1TzJ2UHNjUFEtOExOM2NpaVI3NjhOS2hQSUtRSmtDdU5WXzZnLVViamhCSWpGcDBtUE9rVHdZT1haV09oajU5UGJNZjYwYW1nSXdsb3k4YjV5OHZ2SzlIOHY5bEhqekJBankweS1XM003RXB3SGdGQVd5NWlyUHdtblhmandpQm5CanVKemF3Y0ZhLUdOTktjMERKZkk3WW1na3ZwNkxmOWYwZ0ZURU40a2I0enJCNU43ajZINWpHZHpLYS1aLXRSeXFTY3ZsMUs4UlJoMDBzUy1nZ3JpejRzeGx6elNTai01cklsaVBYZTNzYVJMb1BZSE4ta2NmYkJtVHJxWm84MkZWa3dwUklVNEpKOGRuMk9tLUMtaDlTTUd2WEpwRkliRE1EMkUyMmNkdEFZUFMzbGJXYnNlNkM2R3A1WTd2REpUN0JzMGlnS2xNdnNuWS1OUVp3Zjh2Rm9mNnlkRjVNaWJ1TFFNY1Z6NTBOb21DdGJRQ3QtNV95ZDdrU1l3bG5tMWVrc0MyeTYxbGNRaHppekJYRktmZ0ZsVGxGUU92TExw?oc=5",
+   "source": "صحيفة الخليج",
+   "published": "2026-11-16T16:45:55+00:00",
+   "edition": "AE:ar",
+   "new": false
+  },
+  {
+   "title": "Le Damas and Avolta join forces for a chocolate journey across Sharjah, Amman and Morocco",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0x2MVRpOGtpMnNEbEJHdDdUc0FMMGViZFpuV2p3RFN5c21lbkt1RDFLRUNUUVFrQ1RTMk1RblZ3bUhYc0hsU05UdEF6Z0l1d0xoaDBkQ3UxNTdvVDA4LVhvRERYWmZKUHVmZHBNX1dDWGZPcHRTNWVzOE8xXzQyMlQ4X1B1OXhmNmZLVVVmRmlkSjRrWUhrNkRlSHpkdEhxNERvOS0tM3UzWjVnQzllYlhSYnpOeTg?oc=5",
+   "source": "Global Travel Retail Magazine",
+   "published": "2026-11-16T16:44:44+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "1.15 مليون زائر من 208 دول لـ\" معرض الشارقة للكتاب\" الـ45",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQSllIb2ZOazVjWVlERGRWdXJQZzlxekhxd05tazFZTjlqdjhMYjY4bDVSMHdBYzdxeWdoa2JqN0M4MWFRbm9IZlRUQjFiaWM5Szd0QUROVzJEY2x1VlVUaW9Mb3V6WGVvSm1iYXlkVmRRZFBJYUFFRnNOLWVjU3pFV2UtSnlqRUJrRXc5d1UtUGhnb3NjWk9SbWhKclZvTURYYmxWM1pxSFoxRmt0U1N1a3N4UzhaZjg3R1E4UFNkV0xRek1fT1RPbDJUMkRmQWFNNHlDTi1memZmYzVtbDVkdUJ1THVZU2hLQzVRTlM4VWZ5RWVoaTBQelNuQURTa0pmTHJ6NHlsNlp5RGtrSzFNd3Zsa2NvQjRmeXIwOXhkbTlOSVpaWTJxN3BnTGtxbW9zcnRqSFlFOVIzanQwdmpXREhoU0NEYUdhQmtzNVZ3NEJVdElOSndKNTE1UQ?oc=5",
+   "source": "www.wam.ae",
+   "published": "2026-11-16T16:43:17+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "عبدالله الشرقي يتوّج الفائزين ببطولة «أميركية الشارقة» للقوة البدنية",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Fc2Z2YU5kN3ktV0xTVy1hOWo5LXJWMnY0TDc1NEpoNVplUTlGeDZabjVKc0wyNW1ib09CdXRSSkxCMHVRVzQtWlhmLVpKc2NNa1RYV1l3djk1aTA?oc=5",
+   "source": "البيان",
+   "published": "2026-11-16T15:35:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "\"الشارقة للثروة السمكية\" توعي بالموارد البحرية في معرض الكتاب",
+   "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOY0llN3JhTmVreXV3QkFycEhZUDcxNFlpYkEteVRLQzVGZTVJWkpIQ09Ya2hKYURqVWtNLTlac3ZPSGdFNDNhbGJtR1JFYXNaaHhBOWNhUEZVQXFZQndqZzYtWGx1c0swVjJuelA2UnRLRmU1Q29wdFp1Q1pfOVY0aXA3a2NZVmpDYXlNUUJnTHhyMlowcXZVY19xaFJDOHBoMzZRWGdkMldOWDlaSkYxeFF2SkF4aVEtbkkyc3c4NUl3d2ZTTkpTSFRqUXBUbHN6bW5UaDlzQXdNc0dlcTBadFJNcTNPRFNvNnJtRmIyUUkwSzZVVzdTVnhkU0FhMTFxRHNPQXZoY3NuSDZUeGJ6WFgzUVJ0SXJFUHFDR21CRjZ6TWE4YmdOYm1Ta3J2NUZlN1djcVl6VlJabU9vZHZFV0JQeGVCQ1BmakNYRTZVdkkxNGUwSTFYOXFOU0VxQkFKQmhHUGVEU1dOSWs5MUw5OGg2eWRoVkNTRjZodHh4NzdMQkk2X3NyMURCR2VZX3RZVkx3TDIzTnczV2o2YllUY1paNHhFLTBfMkFfOHlicw?oc=5",
+   "source": "www.wam.ae",
+   "published": "2026-11-16T15:23:58+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "الشيخة جواهر بنت عبد الله القاسمى: نقل \"الشارقة السينمائى\" للشاشة نقطة تحول",
+   "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOZHNLeWlmc1BOZVIwOWc2bll1RUMycDYwc3VBd3d1WEZLc1FCZ0M3TWFfMXROYjZyNDFiazhsWTJDdmF2Rm9jcmhETnE2SzRxTVQwX2NZXzctcDZoZEFMUkxNOWJpZ2U5RURLdGVma1ltclhzbVIxR0FYWUxJZkNnS0t1azF5MDVuenphLURrT20wU3BLdm5rM3ZXT0gxWlkwaTV3Sjh2MTM3TVAyYXc4czZyQlJNUk1obmYwdlJRd2ZyNGxBZjNiTHlHdlhaQ2JjVEViamc1ek9iWk5UTGJnZHJRWjNxcEZzY3d1aDVzUEtTOUhGY2NBMzhUUkRHS1Fma2ZfRUhpNW5QNm8zRVY0LXpJeXdGTmtIMzRRVTBCaWZzQUN4UG96UWNfbl9aVWxON2diZ2NpOU1JcmNOcm85c0tnM25rLWpKeVdOdklUUGRfanBYdVl1X3V2TUFjblBXdU5xbUJidEN0Unh0c1hnejNQeFFoM2dCc3cyWGJnaC14bi1WS3dUclVlWGlmMVlEUHR3UVZoX1NLdzduOVNRcWhHdi1HdFZQYU5VUldxQjZwSi1VUGVIMHpBa3BYazJmZEJ1eFNrdzNWZ2syYmg3UDdidGxmcUZQVW1pY0V5Z2oybmxPTU9zbzdVNVRhLVVIUS0yanR0dGgtZVJtVHJRZlQ1SmZxMzBTSloyZGFaSdIBigRBVV95cUxNMUNWUlRwaW1iOHdZNlh3aDQ3YWhjWDltbEpIQUR0cFotV1NIRkpzWUl5SVcwa3Fza0IyLVlRUkxyUjFnZUxTdTl0RmpYUGpzUTAxTkRtVjJ4dEVKeWJxOUIxX1dISWJ3aHFhMnFtcXQ2S0FZUDIzbGg2TGxYODNlbHR2cHY1ZGlNV1lCV3Y1dnNJQXk3dF9EeDR2SkJXaHZiS0Npa0Y0czI1TFBSelZmaDhTZGtaOVJkSExEc0U0bXI2bElsS2xESmZ6V1BZUER2WEJxejFUSEJTbmczTW9oZFpxZG9CYzhycUMwTW9rbXlXWFpjWkhSZzdDVDNMZDhhTmd0WXZrX1BsU095WVJNWWxpOHVnd3Jaai0wSVlxQURRUDZWY1otOGxYMmR0V0ZPdTUxQ3RSblJ4RmtGMmtDZ20yMm5fX2NsZDgzR3pETFFUZzJsU1dLTkRTbUxoSVk5MnhRa1NVWE8wR0xudkd2NUsxZFg1Ty1EQzkwYnpYMHp5bUMzdW80bzNPcGh5bWNzODVVOGxadUxvUVFuTGFNOHdEVVVDSGhqUVhHbnBjSUNKalpYclZlblZKdVluQnVRY0VxMk8xdmRzZzBIMEpVTFVma2ZuZVZtbWdGT2pubzB3RWp3dHlLd0NyQWs3c3ozai1xXzNubTM2dWpPVkZpejlhZTdHMk52cVE?oc=5",
+   "source": "اليوم السابع",
+   "published": "2026-11-16T15:11:00+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "SDD launches Sharjah Agentic AI Challenge",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HY2ZwalJuZ3Ffd3pqZDU3NXVPX0tRSGd3c1p5QU1rb1E0cnoxX3VfRzd6RUhZX1oxZjV6eEsybjFQMUQ4X0JBN05HeGdNWEZVQ3FyLWNUX2R3WEND?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T14:56:27+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "وزارة التراث والسياحة تختتم مشاركتها في معرض الشارقة الدولي للكتاب",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vTVJ4Umg2Vm1HdHVCbDI4Rk1MeXFIcDdEV2IyT0FnZE9jcVVqWXZnZXktazNIMHg3endrWkRRZXhSdWM?oc=5",
+   "source": "جريدة وجهات",
+   "published": "2026-11-16T14:54:42+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "الكاتبة الصغيرة فاطمة جبر البوعينين تحصد المركز الأول في معرض الشارقة الدولي للكتاب",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VVGkzSHV2UUIxdjFDZk5FaEZFRjduMllIX3BJZmQzdjBxWnotQ3pvS05sZS1OUzFuNUVxM05JTXlOUXlhMThRVlN5ZGVsYVVhUVBjclJFUDlqeFdPdEtvZDZNSQ?oc=5",
+   "source": "الأيام البحرينية",
+   "published": "2026-11-16T14:53:19+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "Sharjah opens eight-lane Al Dhaid bridge with capacity for 6,000 vehicles an hour",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3MzWEVraklYMXVIWGJoOHZSc1FaZTdZblVyZmJNTlJXUllhRVF2RnZhZFZhYm52VldyQjlraTFOT1FJS0R3Ui1VYkNQTnhyS2NCTHpPRWNMT2tPVHpJODVaMHNtWmcteTJ0NmZIOFppYzlXOG1QRkgtTUZxb3hmM0g5ZEhzVTBpNFNodWFON2d0amJheFRPSVBPXzUyLUxzeWtFem1KUkxrSC1PekpMeGoyNWNNOFo0ZlJVNVhBRDk1NG9rMEHSAdgBQVVfeXFMUDJNcTNSUmJFN2JCUmRuUmUzN2UxSWtDWEZUS3UzczhHa3M2eVlQYUNYbG5ZLVJSWFVmTUpxNDhRRmRVRU1QeS1wZWRUWDh5c0owUUtkYTVta08xQlRGTjFnbXJzNkFTdUhJWkwtVDJvMkZ5Zm96NDlfVHA2M2pGbWtBRXB5eklDYkhyX25EU3RSZlZ5TkJQaFFNcnFCeUZvNTZiWFplNDBYNm96NURucE1fc1JDc1djZVNnT3p4MHR0MUIxNV9ZaTNkc3lSVGM0QUpKRVFIVXE1?oc=5",
+   "source": "Gulf News",
+   "published": "2026-11-16T14:49:42+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Sharjah Club wins men’s title at UAE-Korea Taekwondo Championship",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XeVg0WEo4R0VJRnZIVmlPVUd5M0pfbVRWNVFhQmxERzZUaWlnTTBSS3VxM1dlTW8zWjFUNDV4YWlpYmlXNUhYWDRnMXNOQ1FqTTBQVEZBZTQxeEU?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T14:45:23+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Bowlers give Zimbabwe iron grip in Sharjah after Muzarabani, Cremer fifties",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1JiaW5KdTF2QnduV08zWk4xME9KdzRkemxKbjNMOWJqNW1RQmlEa1N1WDVteE8tMGYwQ0c4TUtYY3FNalVyaEhfNXlMc2l0aWZRZGtfUTY4ZTA2aG5TUmhXN09JRGU5blhHYXhqUWFZNGw3SDE2YkRHSmNnMFZPQVU3Vl9aTnJ4SjhPREwwRWp4aUFtUDNzYW9fSEc3d010TEVXSzZyUkltcFhDWHpZR3lTOF82bEcwZGFUTHk1TlR2YjJ2TzNkOTNDUQ?oc=5",
+   "source": "Cricbuzz",
+   "published": "2026-11-16T14:38:16+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "جسر الذيد يعزز البنية التحتية والتنمية المستدامة بالمنطقة الوسطى",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mYWpCM3Y5SlAzTWY4VjdET3NGNkRYcEZHblpDR0VCM01NWVRkM1NXMDdsTFlILThDWkloUTlWdEx1MmlhaUpvcF9UOFo4N1FLUHRFVzhwVWo2SWFp?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T14:33:32+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "انطلاق تحدي الشارقة للذكاء الاصطناعي المساعد 8 ديسمبر",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNQ3BfYUJ3MXBSQU9hbTdjTFNlaktDd0ljZVB1WEdlS3F5blpqaWdoNVZZQ0hiWkw4a0xKVm9jUk1TWXl6U2R2Q2NzTjc5SldGZ0h2eHlYOFVxMURoaFFqRGdJSTVaWTd3NTY1LTFyd1YxM0lrYXh3em8yTDMtQ2l5V2g3dWloX3F6TVgzdjVqVU1ZTWhBYXVKWmJ5VE5YQWQwWDdkazFUSFB2RXIxakQwa3pSdVprSDVtLV9wbmFzcGZTMk1JQ3Q5R1I4U2t5R29VN0puNERJQk52QmpzeHZWUkVQRVFtTi1CMkxXdGN5X2tqUTU3eVZydmx6LVZUc1ZCZGpTY3VidWZUbjZBb3V4bXZMVzRtaTNIYjhWQTQ1cS1CWEFnc0RTb3YteGlfNXM2YS1KSXdxR2pxSExDSU5FMUpCTFduV3p1M05jdTZIR3dkS1JlWGhGeE1UcXUxRjIycnNYWUpvSkp5RXRVX2lQM2QtTVE0Y056NlhRZHBUdmJ4dTZLaXN2eXhGSTBBQQ?oc=5",
+   "source": "www.wam.ae",
+   "published": "2026-11-16T14:28:14+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
+   "title": "1.15 مليون زائر من 208 دول يختتمون الدورة الـ45 لمعرض الشارقة الدولي للكتاب",
+   "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcl9xc292SVUwWTNGZHg4S2JFUmI4LVk1dkN1emRzY1lxRmVBcTZ1NXJ6OHF0T0xaV3NHM3kwVXlIanZZQWR3NmFEMHlzd2RvZ3UtNFBpcDBNVlYyZWtTMUx2Vmx6NFBrX3dsbERHaDY2blJzUzJ5YUs4M1hTNHM3aThzc2JFRHlOemlTNUs2VjV3STRJV01tc0V1UHFLcC1USEp3ZU5WaVFCTEZpWjBkMDhscEtnREFVTHJYUi1zNzJkbk5pYlpzRHlkQWc1bGxqWnJqUXdrTTY4UGdJcHB1dTdPSXFtSUxlU1NKZGFUcFgwXzdjNGVyUXdfWldnSUlZMy0tUDZ2MFNDZERLZ1oxQVpFSnlmdk5UaDhNd2RBV2c5dzZNaXVSa3dfY2x6OThLMXFTZGZvQVI3SGN0U3BiVm5WUGFBcVNBRE5WVnA0aDdXbFNvQjhHRVZTbGJSdlRvRDhnY3JYZlNaeEtpQVJwU0xWcnExVm95XzlFTmJRNnYwWXFmZTBjQmtLZ3RSdGY0RlRIVlhsbUh4ZEVRRE1aWnpzOG5zMEtab3ExLWVSXzh6R1Axb2daNklHODk5MVhjZFV6eVB5TTVkTmRmalVQLTBYOHJ0SW4xS3VpLXpTZHJPWUhh0gFeQVVfeXFMTUJVT2xVUEpGU2tXejFVcmFMZGotS0JFWFdfSzlZMVdycGplZWtJNW0yU1QwQTBvMS1zS0poODZXeFhaTWRKRURnQWRKMzdjaUNHcm1DUXczZ3R0bHZ3dw?oc=5",
+   "source": "برس بي",
+   "published": "2026-11-16T13:53:31+00:00",
+   "edition": "AE:ar",
+   "new": true
   },
   {
    "title": "Sharjah Institute for Heritage showcases heritage at SIBF 2026",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50V29OQ3pJaUlFaVk5cnh6bnI3UDFzZUZGRW0tZnlMcWl1b3VwQW1xMFQzazRmbFAyYXpoZEdZYUd3akxoTUhsc2dTZnRXMkI2WHdYeVVpWDBMZw?oc=5",
    "source": "Sharjah24",
-   "published": "2026-11-16T13:45:10+00:00",
+   "published": "2026-11-16T13:45:37+00:00",
    "edition": "US:en",
    "new": false
   },
@@ -29,15 +389,7 @@
    "title": "معهد الشارقة للتراث يختتم مشاركته الفاعلة في المعرض الدولي للكتاب",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNDZoWjBicWpHTGtqcUFrak9EbEJoTllYTWFIZTZ5WnlhYTZWNXlZX2t2aTlKaUd5TnRzay1ZLU5WQkZWNklYYk9QX3BMTkhsbUhJY1R0dFR4dw?oc=5",
    "source": "Sharjah24",
-   "published": "2026-11-16T13:39:25+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "1.15 مليون زائر من 208 دول يختتمون حكاية «الشارقة الدولي للكتاب» بصدارة عالمية",
-   "link": "https://news.google.com/rss/articles/CBMiwAVBVV95cUxQUGVSUHU2aGhDSnNNM00tSWxRWHBtM1FuQ3prY0lUV19WMUxKM1g5Z1M3NElObWZZUDVscHQyRW1UOUNVR2xtLV85bUozbUNHazh2VDRFRHRTb002RXBHUm1qR1FEN3lpOVZTcGR4SFV3ajk2cGJUTXBJZ0Z4Rm5hcEtHOEFUNlZqU2RsZXJfbUZIcDZxT09nQjVpNWJQUE5oVmhVa18yYjlWQ2xueXhyVGhNbUI3YVN0T3h5cUszTEp0eThtR2l2Qy04U3FHbnRxczlvdTFORUs3Njhwc2hXYTFGZ3hRNUt6cDlVb2lpY1ROcDVYSUFQcmxpUG5DRktrUGw4ZWlnR0RqTXMwTU1mdnpUSUVKSk5kRHp1WWhxWGV2UTA2dXpqRnZ1WlNDeXJiR0ttd3V4UlNINy1aSHU4dHRHdmNSekF2UmllOUxkblBad1NYSG5CazROWE0wemRMWC1jLUt0SS1ab1h4WXFOeG5iM0luN043cXVPLWRBLXdoeDR0aDdreEFrUXFHZUticGNIZUVrWEdYSWZNUzV1ajM4MUZMYUJfNWpvTFFjR1FqNmV4YmVTSnZEdDVHN3R0b2dWWWJXVWFET0hzTjZiOWwyYTliYlY1WGRfVVoyeXllZUlWM2dFdlBTMGpMWFpzd1pzX1ZDS2ctM2Q2QkRCUExNRWhBRnpJdmZ0bDFxZGFGTmxRYllTR2hrR01oREZPYk00cWZXVmpUT0dFZmdrZE4tNFNqLXBvZUlkdWJuY1cwLW1saVJSUkdUU2pUbkNTcEFCamZrUjl6MWlfVFJjdWZnVmFjbjdnRTlKeUtnU3dBelVJcWNjYlUyZUlsMzR3MmpFbHhSUmN2anlVRURUc09lQk1hYTBpUjdFVEdreHVRZTc2b3hSRllqcU1TQ2lwNUQ5Z1ZqNHhuZDdpS2FfdQ?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-16T13:36:51+00:00",
+   "published": "2026-11-16T13:40:13+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -50,26 +402,18 @@
    "new": false
   },
   {
+   "title": "Oman Participates in Sharjah International Library Conference 2026",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uaXZIT3czZ2NfSUNXU2tuR1ZOZm50YjVUWkNsNEREanpPNG1vaS1Gcm51czIxRE11cFBWQ2RhM0JYcnZsdzg2UGVKWTExcEx0R1FhVE56NkluR3lFZ3c?oc=5",
+   "source": "وكالة الأنباء العمانية (العمانية)",
+   "published": "2026-11-16T13:09:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
    "title": "بهدف تعزيز التكامل الرقمي المتمحور حول الإنسان.. \"دائرة الشارقة الرقمية\" تطلق \"تحدي الشارقة للذكاء الاصطناعي المساعد\"",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZEZpRXU1SW1rdEJqbXNtSkZyWXZXOU5VMk96VERYZzZjWmxhYTJTSDFqZC1kUjQwdnIyNGxMdUdNdFNqYlZMR3ducktMazNTXzhzYWxVRzV4UHFBWnRpZDNUaVVUS25tWmJLUDFjUXFER2pmblQybXRBUjdNVm9LX0tjUnc1MjJralZVSHpObmJNREdxNURiTWRRMmF3UkFBd2RIcGpBZUxOVTZ5NUpGakYxTHF4YjFNSV9naEQwSUYtWkNTSVpwbnF0eUJtVnVCU1kxNUEtaWxqV0pIc3pQdWZ1a2RtWmE2SUNuRWNnVFNJSjR3YVBKVDRJaEVwOUFUc3RFeFU4V3YzaXRSYTE5WWZ3bk5FVmZKVnFjRnNBd1dxcUlmVldHYVpBaVlFanlxZ0FySDc2YmZKWG5oS2VVY3lINm9DSk5LcGZzWVE4QVZOQU9EU3N6WWExUS1yM2FneFpDZW5Jeml5QQ?oc=5",
    "source": "صوت الإمارات",
    "published": "2026-11-16T13:06:29+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«الشارقة الرقمية» تطلق «تحدي الذكاء الاصطناعي المساعد»",
-   "link": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxQUXdQbVJST3VKdUlSX0VSenVtWVZmc1JTTWhsYnR6aW5ZbkZqeG81Z09waklCR3JSUVRING1RLUp3amliNEV0QkdmaFdQMTZJX1ExVVp2WDM2YUFqRnNRaVVkclhtRlNoQ192NjlBMHJnMGVqWG1vVENGZGdTbnRIY2hTYjljaHMwQjdnN3lPUkJBVHlzQWZYajliLWJIclpyaHNjc1JJNHpTc1lVSlg1TzJ2UHNjUFEtOExOM2NpaVI3NjhOS2hQSUtRSmtDdU5WXzZnLVViamhCSWpGcDBtUE9rVHdZT1haV09oajU5UGJNZjYwYW1nSXdsb3k4YjV5OHZ2SzlIOHY5bEhqekJBankweS1XM003RXB3SGdGQVd5NWlyUHdtblhmandpQm5CanVKemF3Y0ZhLUdOTktjMERKZkk3WW1na3ZwNkxmOWYwZ0ZURU40a2I0enJCNU43ajZINWpHZHpLYS1aLXRSeXFTY3ZsMUs4UlJoMDBzUy1nZ3JpejRzeGx6elNTai01cklsaVBYZTNzYVJMb1BZSE4ta2NmYkJtVHJxWm84MkZWa3dwUklVNEpKOGRuMk9tLUMtaDlTTUd2WEpwRkliRE1EMkUyMmNkdEFZUFMzbGJXYnNlNkM2R3A1WTd2REpUN0JzMGlnS2xNdnNuWS1OUVp3Zjh2Rm9mNnlkRjVNaWJ1TFFNY1Z6NTBOb21DdGJRQ3QtNV95ZDdrU1l3bG5tMWVrc0MyeTYxbGNRaHppekJYRktmZ0ZsVGxGUU92TExw?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-16T13:04:21+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "غرفة الشارقة تستعرض مقومات الإمارة الاستثمارية وتبحث فرص الشراكات الدولية في «قمة الويب 2026» بلشبونة",
-   "link": "https://news.google.com/rss/articles/CBMirgdBVV95cUxQQm0xblJtbTk4SUcwbkN0NDIzb0l0cEhkaS1vNUhYMVd2WGV3OWpTU05wX0Z3YTZfNmo3U25jODVNRWFvWDI4d1lMTUVWMmQwbEp1QjlXZXptS2NZLXRGVU8xOVMxUlItUWdwM3RIUS1tMFFpOW83ekY4a2ZFTUN6U0xpV3gwM0x1cWloVlVSMUVTVFhfRFpheDhzbG94RFdEczlNSHprTXhSeHM1MXZBZFBfWkxhQ0lpRzZqMzZLNDlqUWE0VGpfSWpvV3dRdmt3N3JsOVZUZUR2QkFDa19PTWNMVXVfQmpmQ21nMWtZU2FJTEktd3ZmSTloSU9rNERyaFQxWVlwNmx3NXRzenl5d01uT0gtRG5NZDV0Y24zOUNOQ0JKblUzYk9oRDZ3RnNYdlhwTThDbEN1UE0wZlZ2dXp3bXdyWmw0Q1BUZnczVDBYc1FtejlrUmhDcG50YkN2SGlqN2cwcEsyWmR0dU4tNGRlUVZvUC1pNlZraERMUnFkTE1kbm9zeTZjYzF1MjBzeW1hVWt6WlZMZ2d4bHU1SE9iMmtkT2FGRDgwSEQxR0lIbHFGZzZPeWMwZ2t5ajlxclN1XzVsTE1yUXVHZlFaZ05pdDNXc1RhSG9VTnhWZTB6M0JLSjlUd1E4WFJia2FvUDJjVDBjMU1MTXVZRTY2Z2lOanRncUZQRFNXaTUtSXR1bkUxQW8xdDdNVThyWWE5MXlPS0lZVF90Sm9KcWxnek55ZDcySmFWRkZHQTZNWi1FdUVNMlphTkl2Y0pFZkZnbWtyOW9xM2RvUkJfc05oMVd3ejlXZ2FDVDNFLVZHVGNGYlZlSzh4SlBuUDBSQ19qRF9iSTR5ODk1ZU9oajR3WVlSQUlZNFJGOGQxajB2TGg5LUtQTWR5ZTc0X1pBOHdWY1NlRWU1bndGQ2FZQ0NPQm50SEtLZW5hZWF4S1RsWUdERG5Pc1YyMkZ3S0NvaVFJYV9pQ1g3bHEyQ0RaalpvMktuRXpLODJ4XzFUZnR6XzhNa250bGFmQzVZWjhORHhBN3hPWG9ocTBhYm5pem4zTzNjSzVDMEFHem0wTVB3WDBfUEgtMDZPenF0THp6ekw0TTBocGJvUEZPSm1YTUd5UmJpU1dKVTR0MWRXcU9ZSWtDLVJXMjYyV2tDY21JRGRHaDdKcjZfVzFUY2tTOWp5a29WM2VvRktiTFBwWFloaEZFZ1B4OGJMR3g2WEh6eWlITmhCQjJleUlMRnl3ZUE?oc=5",
-   "source": "Zawya",
-   "published": "2026-11-16T13:04:00+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -82,26 +426,18 @@
    "new": false
   },
   {
-   "title": "مرت الايام بسرعة .. رسائل وداع من قلوب محبي معرض الشارقة الدولي للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fUjV3TVotSjRnOTBDT2wtTHRIYmhYdHpyRnZNX3NwTlFmS2hveGlfbmVILTBMTXlqNGxkOXpkdzhYVUNDMmRnbF9sNG5rZmJoU2NxdmlCd0lqbm1DREROQ21RQQ?oc=5",
+   "title": "«قرأتُ لك» تستقطب أكثر من 700 مسجل وتؤهل 30 طالبًا إلى المرحلة النهائية وجمعية حماية اللغة العربية تختتم المبادرة بتكريم تسعة فائزين في معرض الشارقة ا",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSjJxc1ZQT0JvcnliOUJzangxZmQxX19mUUstajNKbXoxUFBhT1IwOUxNU2tUSUZVVTVzSHZSN0tRVWhGT0pmU3ZFdVREZ0gzUzd1VTRlMkVtOFpJTDIxdUhB?oc=5",
    "source": "أخبار عجمان",
-   "published": "2026-11-16T12:50:33+00:00",
+   "published": "2026-11-16T12:50:49+00:00",
    "edition": "AE:ar",
-   "new": false
+   "new": true
   },
   {
    "title": "Cassava Republic Press’s The Mercy Step by Marcia Hutchinson Wins Best International Fiction Book at the 2026 Sharjah International Book Fair",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQUJCN1VUekNxZzM2dzVFWU5xeVJHUnlFcFppTS1vZDM4SEVRODMxaXNod1Y4dmF5bklXN1RtZlhFcTItbDBWZ2Vrc1pJYXp4ekhCd1JaclV2dnlrSmF6ZjFMNzhCRkMwTnBzMU15Mng4WmdvUDFoektnNk9FeW9HVVYyZDl1eFE3bFFWcFFZZkVZZDN0NDI5ZVUzYjFpR1JxREFuM3ZpOGY3WnhJTjltY2xpNDQ0T1A1dVlYdjV5a2ZRazZ5RE1yeEc1cDRTdjBmRkVzNF85X2FITmtLRVJxUmJPVWNhSmVJNU04QjZSOHoxOXVfUHBwVXdJbTlFcGhDbzRLZg?oc=5",
    "source": "Brittle Paper",
    "published": "2026-11-16T12:48:21+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "Middle East Business: Sharjah launches Agentic AI Challenge",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQmk4Y3VNWEQtYkdBUV9hOG1aeGNLLW11VGdoSG1vblJ3U0VJMVAwSWtxbzc4VzNSeld1ZkZJdWFjSnlQTWtvWFFCRm4xWFZNVXdz?oc=5",
-   "source": "Gulf Daily News (Bahrain)",
-   "published": "2026-11-16T12:34:39+00:00",
    "edition": "US:en",
    "new": false
   },
@@ -130,12 +466,12 @@
    "new": false
   },
   {
-   "title": "Sharjah inaugurates Al Dhaid bridge; lake set for completion by 2027",
+   "title": "Sharjah inaugurates Al Dhaid bridge; lake set for completion in 2027",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXFhRGxsWjJtWE9OVk5oRUxRTnBlSDhfbmhfQWJGZURmNkhwNGxxZWhTNkpTSFk0QUUzU0tlWDU1aWFXSkdiczRQbGh5bWRZbGVialRJWmNXNnBTR3hzbHFjOXFRb0VHTXlTNDhjRHNDMWkyeXotaG9vQWRmMTdmVktYMNIBiwFBVV95cUxQOU9GTENBekhqckFhNndrc2U4N19TSVMwR3VKT1I0cnVCRDQwb2ptUUZzMWkxaUhPeXMyOGVLdDltY2s4QkQwRE9WN0NFUm5CRXNNY094bG9IejB2bTdXMkJqWFhPWEItdk5HRFRnTDF3SlIyc3EwQjdKY1VwaUVZM3JyMDk4NEVKUTdF?oc=5",
    "source": "Khaleej Times",
    "published": "2026-11-16T12:29:20+00:00",
    "edition": "US:en",
-   "new": false
+   "new": true
   },
   {
    "title": "Five Sharjah destinations highlight the emirate's cultural, natural and heritage diversity",
@@ -146,10 +482,42 @@
    "new": false
   },
   {
+   "title": "Sharjah inaugurates 320-metre Al Dhaid City Entrance Bridge",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2NhOHE1ZzI2ZXJ2OGVneVk0VkduejhiUDQ2UlB4eC1GNElLZmFsNFhaMDlwdXkzdVBES0E0SjFVLXg1QjFsMkRyUENXZEFGS09pZ29Dc3FsS1lQU2dNUWJpRjd6ZlVDZGhub3BHQm9WOHRFQ2ktVlZodFh0NW9MeXpNR1RRSS1UM0cxN3dzMUt2X2x5WFdUcUZ4WmpBWFVfbl9Uc9IBvwFBVV95cUxPT2JtVkRibng1cUthZXRlYWUwSmxXVGlqSUIzbUMweXU3UXM1YVIwOS1OSkxaU0picGVzaUhwZ0RhbTU0blRSNDdIUmNEdktrTWpoY2VKajVtc1U3eHJvZ3YwTlAwd0ctWEtwT0laQWdNX24xd20xcW5POVhmWVV0WTdfNkJiVjZGejdDUm55YTQtTDZSQUVzeWFCbGNid2ZKb1NzbW1PTHdYbGRQU1YtR3NaUVNUZzhidlVqRlVoaw?oc=5",
+   "source": "Emirates 24|7",
+   "published": "2026-11-16T12:26:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
    "title": "Sharjah International Book Fair 2026 welcomes 1.15 million visitors as 45th edition concludes",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJrNlhWbHIzN3k3RFExNE9obTJBZThjZEc1bFVJNjJXeWVQdnExazBuUjJoakhyMHh2Tkd4cVJHU0NPd0tqOGtwVElMUGo3WE5FckMwNVJRMV9ULTNadUd2X1hhOUVqWTdWT3hUYXdmVjlqQ1ZPX3VOcndIU1FpYkc1UGp6RnppdkF0ZjJRU1pxNDJUYmtoV04zVU1aS0RycF9vU1BMTW1mM0VCaXJrWFdCMW5BcnE0czRjY2pfMFAwZG02dFA4TEFCdFFwWnEwcWpYQWEzMXc1ZDBxVVJPVjM4R0hPMnUzcklsZVVXUWg?oc=5",
    "source": "Zawya",
    "published": "2026-11-16T12:22:00+00:00",
+   "edition": "US:en",
+   "new": false
+  },
+  {
+   "title": "Sharjah Digital Department launches Sharjah Agentic AI Challenge",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYldCbzBKWWtjN0pZMWY0amx1blBJa29rQ3JRRkFFR3hqSHI4Qjg1RnRnMkl4UkhObHRWLTFTQjdDVFdhWFg4bDQwYTRYcUtLTHNuSkZQTVItem9WdnJuZzllX3pTV3RoeEZPUlBLOEFRT053UjVXT0tfVHJCV0hnbUJEVFRlNnNheE1PSFFQd2ROR1NtRy1iWkVMM295R1lDbXhqaUhpU2hHTE1wbWJ4RXgyajB3T1JJRjBKTHRfWi1GTy1FZEE?oc=5",
+   "source": "Zawya",
+   "published": "2026-11-16T12:16:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "\"العربية الدمام\" تطلق رحلات مباشرة إلى دمشق بدءاً من 20 نوفمبر",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54dTMwSVJVQjJQLUhxc01kbjlaOG1EZXladllDVGthbXdOZWgzWFFNR1JKb1ZIM2VTRUNpbi1UX1B4ZXJwUC1ENFRyV2dVNGMwX2p1WHBjOUpCeTg?oc=5",
+   "source": "Sharjah24",
+   "published": "2026-11-16T12:15:50+00:00",
+   "edition": "AE:ar",
+   "new": false
+  },
+  {
+   "title": "Sharjah Book Fair draws over 1.15m visitors, sales rise 16pc",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXFfSm1Kdng4YnhsbzNpVTJPckVuNHN6ZElBaTc1UU5yREREVG44Q1VwUGkxeEtCNDRJMkVJdDRjOTZXQU11MmZzTnpzaFhfWEw3TjY0UkxPa0VWRGtXQ2NNNGlFd3M2T0hBT3lQWndFQ2d2Y24yd0NGVXExalI4a05qOUFLMVNhZFJsQ2ZMcWJyck9OdHJDY2xWUGp5UmpqNDFiSlNn?oc=5",
+   "source": "Daily Pakistan",
+   "published": "2026-11-16T12:10:10+00:00",
    "edition": "US:en",
    "new": false
   },
@@ -159,14 +527,6 @@
    "source": "Big News Network.com",
    "published": "2026-11-16T12:10:00+00:00",
    "edition": "GB:en",
-   "new": false
-  },
-  {
-   "title": "Sharjah Book Fair draws over 1.15m visitors, sales rise 16pc",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXFfSm1Kdng4YnhsbzNpVTJPckVuNHN6ZElBaTc1UU5yREREVG44Q1VwUGkxeEtCNDRJMkVJdDRjOTZXQU11MmZzTnpzaFhfWEw3TjY0UkxPa0VWRGtXQ2NNNGlFd3M2T0hBT3lQWndFQ2d2Y24yd0NGVXExalI4a05qOUFLMVNhZFJsQ2ZMcWJyck9OdHJDY2xWUGp5UmpqNDFiSlNn?oc=5",
-   "source": "Daily Pakistan",
-   "published": "2026-11-16T12:09:41+00:00",
-   "edition": "US:en",
    "new": false
   },
   {
@@ -191,15 +551,15 @@
    "source": "alwatan.ae",
    "published": "2026-11-16T12:00:57+00:00",
    "edition": "AE:ar",
-   "new": true
+   "new": false
   },
   {
-   "title": "Al Dhaid Bridge enhances mobility and quality of life",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Z0FVWE52RDBJZHJwc1ZyXzBYWWI4NHlnRTliQUJqdWpZV2dvRUhDRTRlNEwtSFNSeW53cHJ3VXhrdW1TWkZONHJqVlZhYU91ZHpWUGl6eDhzVXAt?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T11:54:05+00:00",
-   "edition": "US:en",
-   "new": false
+   "title": "جامعة الشارقة والبلدية تخرجان منتسبي دبلومات القيادات والتنظيم العقاري",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQNkIyaUdLT1JMSzgtYVhfR1pBM2lDQjJxeVk3bjdra1ZvVlBiR29GdTV5WEJoTENhMDNTbnlud1pucGg1X0RNTFBtUUVzYTVwMUJobVFxcTJGX1EwZGN4VVJ4YWRLeklpdXFDeVlDZk9ib2JwQkdiRTBMbUN3cjNtVW1EV2J6bThjcmJRWjBoOTdPU0Z4dVZSbEtERVV0SXV6d3J4OWxmcHJDNEx6LUNyN3djNFhTXy1wNlFXMmozQ1ZnZ2pkY2sxY2ZlYXR5MTFXOU9qbE40SktRNFBsQ1dPNXIyTEIza2RmOWhiX010b2ZsdVc4MTN4R0oyNF9sMmNOUVpIQm80V09yNi1ZRzV5c2NTTXgwQlU5OTRqalJPbC1jY3lMckRLVG9kS0JyVGlrWmdURzI4MjYwaktvMzVDYVNBRXhtOWstWWNGdFJnRVIwRE9sR1AxN3dKclg1WGx3c0tXS0IwdjlURXczejR0ekJaYUxjOXdDc2tkd3E4b0NhLWpBS2ZSd1kzcGxCZw?oc=5",
+   "source": "www.wam.ae",
+   "published": "2026-11-16T11:41:02+00:00",
+   "edition": "AE:ar",
+   "new": true
   },
   {
    "title": "Sultan bin Ahmed hails Tamayuz for advancing excellence",
@@ -212,24 +572,8 @@
   {
    "title": "اختتام فعاليات “الشارقة الدولي للكتاب” الـ45 بمشاركة 1.15 مليون زائر من 208 دول على مدار 12 يوماً",
    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNaElrYi1yTFVIRGNkdEpTWExZQlRGdXFKbGNBMGM3enNXNUE5ZjlJNXp0cURNN3ZkV2xINnVjWXFVTzUwQXNFQVNxc2tCazVnaDFHR3hrd3djdElCczFPYjhBU0d0QnVwLTl0Q0E0akhpSHFLZVMzMjVSSC1kTkhfb18zTy1KSkI1NmZKZ1otT1BfSzYwdmttaVlJaWw1YUNnLUxfR0NWa2FyU1RLa3NYck85VVY4REZWcXU3N3ZfRmx1N3FPWTlEWmRnTTNaTEx2MzlIYVg3d0dYdEJpbHhTSjc3ZUh3QVhfRk9RWUpIcVRwQXU0YmtBWUFONW9LYnoyRDJKek9Pc3NPcl9OVVpIQ1Fpd0lwOWhIU1RZOG5qVnBsWDBSdXB0cW13U0w2aTN5eGcxbUYxanpxRnFYcmR0SzNTeHlrNTNEUXliYw?oc=5",
-   "source": "www.alestad.com",
+   "source": "الاستاد الرياضي",
    "published": "2026-11-16T11:38:14+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "1 15 مليون زائر يختتمون معرض الشارقة الدولي للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEaFhua2dScVMtREhfYi14SzhzYmRaWlRNQlVpOFVqb0dwa1JkOGFsRUY3bi1Kd09hdXRRRUxHZms4RENqaHdBMXBn?oc=5",
-   "source": "بوابة مولانا",
-   "published": "2026-11-16T11:37:22+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "\"غرفة الشارقة\" تستعرض فرص الإمارة الاستثمارية في قمة الويب بلشبونة",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HaGRNNGtmRTV3a1FjTENaWEhqZVhmXzc3b0wtbEFER1RsRm1sUnUtZjRtM2NJX0xzdG1zNGhRQnhlZTRiTWNUUlR5azlwMVZKcFFXVkUzZGcxVVpv?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T11:34:57+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -238,14 +582,6 @@
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tS1VaNldfNHhjNkJzV3NKVVBDM2VWeHFERENNT1BpdmpOYk43LTlrVXotWllxaDFTWmJQWlM1b21Ldw?oc=5",
    "source": "صحيفة الصحوة",
    "published": "2026-11-16T11:28:17+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "\"الشارقة الرقمية\" تطلق \"تحدي الشارقة للذكاء الاصطناعي المساعد\"",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jd3RlS2pmb255OUdneUFZS1lxRmtWWnJUYWJ4SDZrMW9rTkJwbmI1T1hqTGZSZkdnLUo3RDBBcUdOZlBiUFRPLXdhelFVUnJwYkRXTHNNZ3NVRVpR?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T11:26:36+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -266,10 +602,10 @@
    "new": false
   },
   {
-   "title": "1.15 مليون زائر من 208 دول يختتمون حكاية \"الشارقة للكتاب\" الـ45",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiRzJXZ1NrTWltTjRPa25RdXJHTUY2QWhSUkdmeTRSMFRZMW1KU2RGQThveUNEcEF1Q1hEbmI5SHBLT0hkSXQ2MnBoTkk0Rlg0TVlDTXd3Nzl5aThr?oc=5",
+   "title": "\"الشؤون الإسلامية\" بالشارقة تطّلع على إنجازات مجمع القرآن الكريم",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSWRndHFfbHp4WjRNZUlzUldOb29YYlIzempjV2NJZWxsODRhZGVpWFQ4WjJTTHdVX0NWU0pQODY5VDFVMTYwRVNRb0VSWDkxNjFCOUJJUTJ3c0ZDR2c?oc=5",
    "source": "Sharjah24",
-   "published": "2026-11-16T11:09:51+00:00",
+   "published": "2026-11-16T11:06:24+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -279,14 +615,6 @@
    "source": "Sharjah24",
    "published": "2026-11-16T11:05:55+00:00",
    "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "\"الشؤون الإسلامية\" بالشارقة تطّلع على إنجازات مجمع القرآن الكريم",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSWRndHFfbHp4WjRNZUlzUldOb29YYlIzempjV2NJZWxsODRhZGVpWFQ4WjJTTHdVX0NWU0pQODY5VDFVMTYwRVNRb0VSWDkxNjFCOUJJUTJ3c0ZDR2c?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T11:05:21+00:00",
-   "edition": "AE:ar",
    "new": false
   },
   {
@@ -306,6 +634,14 @@
    "new": false
   },
   {
+   "title": "أطفال «الشارقة الدولي للكتاب» يتفنّنون بآلات موسيقية وروبوتات",
+   "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxPWFhKaFU0X0R1VDhVRTZBSVBkMnBfU1N4eFNOaGhKQUd6QXpfV05RT2ZGTVBwWURBLV9OcGd1MFJGYVVaejNJQV9tdUsyT2tsZEJoWVVrN18ydlJxYUpyOGZPc25aaGtCbVF5czVFTjhlWE13MHAtU1gxM3QwbzI5TGRwalFLWUdQVTJnVG51b2xmZUY0VGFYbDVUazVkZDctNEU1MGRmb1RSYklxYmc1cWlaTHg0ekhLX2dOZnRzLThSVkZQVmNBWnd2NWI0T1RLbFdtdTRIT2hTRDRTNDFVQTNWcEt4S2gxY2lTb1FtUGNPanpaYmxCYkdlRGU5dldVSllhQ01ZQ0lDcjh0dG5kTzNvOTRqMVkzWGNrTHZ1SlpuRzZtdDFORFN4ekdZaXF1U0FxR09WZ1F2Z0NaZlBuSGFub3c4VWV5WEI3UUFWeUp4SWJLck1sZEZUaDl6STlCeVBkanNLazNSZ0dMYmZQdS1UZV9jejlTLUdhdTQ2R2xYWmZpcXpsZEV6NWNyVWhCTWpGVjBVSjQtMmh0RjY1NVh1WnpxVWh0Z1BOSjNmWVN0Um05R1pyazZVUEoxamh6QndVT1VjNE42Y0NReHExSm51djNyZGJZdFJzTmVzVUJYTFFlRkVZTmduVXNzc1pfQ08yT0VzUkxFQWkweU5PU1FqQ1RaTVdOeTRUYmtha2xSZTA?oc=5",
+   "source": "الاتحاد للأخبار",
+   "published": "2026-11-16T10:46:05+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
    "title": "Eight highlights from this year’s Sharjah Architecture Triennial",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3dKS0Vjc2pxTVZPN1BzWjZSbjdSVTluem9ZVklneHlkMmxtVUFZUE1RN2xzTkI0TFFESWQyWEU0RDkwMThLYk9TTHM0V2EtRU9lMm5nMjlEVC10MWNNbURqSmZyaHkySWk1UGNwVFlUUDItYktyUmh5ZlZ2eTA0TjhR?oc=5",
    "source": "Dezeen",
@@ -322,12 +658,12 @@
    "new": false
   },
   {
-   "title": "جسر مدخل مدينة الذيد يعزز انسيابية الحركة وجودة الحياة",
+   "title": "جسر مدخل مدينة الذيد يسهم في انسيابية المرور وجودة الحياة",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5eU5BRUFLdDgwV0pqNFE2bmUxVUlaVXhOOWFSNTNpNC1MMV9lX0tub1czZlA3bUd2aHE4V0t0UENSUDBzNmFEeG13b1RXOFpqWkRWTkk3SVRtV2V0?oc=5",
    "source": "Sharjah24",
    "published": "2026-11-16T10:29:42+00:00",
    "edition": "AE:ar",
-   "new": false
+   "new": true
   },
   {
    "title": "Vineet Nayar captivates audience at 45th Sharjah International Book Fair",
@@ -365,7 +701,7 @@
    "title": "\"معرض الشارقة الدولي للكتاب\" يطوي دورته الـ 45 \"من صُنع الحكايات\"",
    "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPR3lqZE1SQXhJWVZmOHFuTkEwMGl2Sm0xeVMtd2Z4WFI2SzhqdXNuMXZMUS1TVzJpS2RvY0V4bDJMZkh6aXRuMzV0U0p5WXZPZU1hSnh0N2c1WFBBUUphbUhWX2hPSDFaSzRsVlJEdm0xM0kwVnRHeHBhRmUtZWRSbFVvLVBKUHpQOEt2S3VRZHU4TE9veDc5SUNQU2pmWGFYOXpuVGpxMEtobWVoWDh1RmlTVkxCTUE3RDVJOFZfOU5HbEctdGdfZkZCUk1MdDZhcU12alhOcjJIWF8xaEk0ajIwbHFEUG1RYkpCRVlXbVo0TXcwQy1XRHp5eDNmNTkyVTFlRVMtZG55YjJBaDNQb3NiOEhSRjFOSU9rTW4zWW52a1RIdEhRTTVPQ2dWcUFsekNFSnZfR0JGc0ZXbmUycmVic0RzUzlWTnlRTk1GeVJxSzUxakYzdi0tZGU0dlNjTm5fU2hOc1hpMHRNT0hJSDFkRVdiR3RTRnNvdGpzem1FZjhQanJ6ZVVsZTVzaEphWkVZN3hoMlB3NVRmb1B4OFdhaEM1NlBHSjFYZ1p3dWltdUpsdlVVd1F4eXlocTlRSnNwSWhyYjh5SS0yUTFXWjVxYnlLX1XSAdwDQVVfeXFMTURJYWpVdE84TmFOX2c3cDJKa0kwODRzUVhrTUh5eDFMeDZfZmw0LWUzU1gxSGFaNGhOOEhURnhpMGhmVkxkVjdGdS1FSEx6S1NVcWhlT3FpZjdjRFlhTUxBd19QWFRXLWZCSENIUklmQkc1S2VIbFMxTFNKSUVYellzbU0yNDA0TEMtZldsXy11TFI3US1jLVFMU2h2SEV4TU0tUUNfYXlYM0huVzFnX2Q3MWlmTndBNjRjZzF4Nm9PTTc0ZDI5QTAxZGd4LXBsZG1xbHBMX01ZMjdad3ZXUFZMSE1ycHhTeElVRDI4ZFRERnJac25lMGdmd3FsUHpXTVNrLXlicDB5T1ZaM2k4MWdPTmk2TkdMckFRUS16YWRPOVJ5NjFCeW9JSXFCN010MUxWMmJ2bmJ1TlhRWFpGME43Mkc3VzJINjVOQXBXNFV6X0pSZmZla0RqYmxGbkppSnFESjM5djlTNHNZbzhTMml6NkZYQnVLT0tMQ09vV0YzaDBhdjc4bU5PYnBPQngyUlhnYmJJSkNHTk9WaFZadWR4Y3RmOVI1Ui1tNnplX2ZKbkJqNFdveGd0TkRHd3BCSXRDbTJpdXFmeS1vYTEtWDI3ekRCVE16eTNwenU?oc=5",
    "source": "زهرة الخليج",
-   "published": "2026-11-16T09:15:18+00:00",
+   "published": "2026-11-16T09:15:39+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -402,6 +738,14 @@
    "new": false
   },
   {
+   "title": "بتوجيهات حاكم الشارقة.. افتتاح جسر مدخل مدينة الذيد",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnhhajFWbkpIbWFzckZzbVFOeWVHeGhyLXRHZl85ampoSnJQRThIZEs3QlN1dURvU2RiS0l6MjRta3o2M204Zlh4SVJiLTlOQ2dUWHZxYjJ1ZXRaZk1zNkdlSDRyMW1sQk9mX2EzWWRqV2ozYVFmblM2Q05kYkVfbk5EOHlkaXR6b1k4UndMMUx4Z2vSAZMBQVVfeXFMTjJ4YWoxVm5KSG1hc3JGc21RTnllR3hoci10R2ZfOWpqaEpyUEU4SGRLN0JTdXVEb1NkYktJejI0bWt6NjNtOGZYeElSYi05TkNnVFh2cWIydWV0WmZNczZHZUg0cjFtbEJPZl9hM1lkaldqM2FRZm5TNkNOZGJFX25ORDh5ZGl0em9ZOFJ3TDFMeGdr?oc=5",
+   "source": "الإمارات اليوم",
+   "published": "2026-11-16T08:16:54+00:00",
+   "edition": "AE:ar",
+   "new": true
+  },
+  {
    "title": "F1H2O Grand Prix of Sharjah 2026: Everything You Need to Know",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHZwcTBPMEZCZWJLZ1Z2dURId1lDV0xkMEpxTEMtOGphaDNLaTNhMGY3OEY3VWhqaUJXYVY5RUdJUGRkNnhUZnNoZXJhQlBjWTJLWVJIV3VycE15UEhjcWFtbW9Vd3BXUVpUYm1yZEV5b2N2UmZpS0lxVnQ2YW5IUldxWi0wbWRBXzNTWQ?oc=5",
    "source": "Powerboat News",
@@ -410,18 +754,18 @@
    "new": false
   },
   {
-   "title": "جامعة الشارقة تستضيف مؤتمر اتحاد الجامعات العربية.. وفتح التقديم لبرنامجي «علماء المستقبل» والدكتوراه المصرية الفرنسية",
-   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZ2dSWkdBVTk1OHB3eGozVjN1NjNUSVhYV09oUURsOVhaVzNqLUZKYnlBdFA0Ykp0Tmk4UTI4Q0VFRUhrdm9tWVVUOG5mZVdLUHpVUHdHbHI2ZWRRenBJVXQ2TEVuUllZVUtLZ3dWdnlHdkxEYTRib2ZvUGwzYzdFWXBBNnRnT3lEd1dHLWM5UmFjTXdzaTd4OHdlLUh5U2pGaHpHc1FBTm9KQnQ4NGh5SEJ0LUNDSG40c2Z3RmJSbkE0Tjh0bGZzZlFIb3R3cUI5NEdMWlk0bVFMMlVHa2dDM2NqeUk2SDNNdUlQbEtWbzFKa3FmbWFkRmpGem5sS0VLU2hPUDRRb1FfNVVBZVBOTWVja3VLWlM4Skd6b0xXMTBqYW9jR0hlM1lwTmJoekw4SVp5WjVwcVRfcHdGQ0t5VjJ1TERjREJTRnk2Sk1GUXk3cG1iMUE?oc=5",
-   "source": "Al-Fanar Media",
-   "published": "2026-11-16T08:11:33+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
    "title": "حمدان بن تركي.. يوقّع \"خارج عن المألوف\" في معرض الشارقة للكتاب ويستعد لمعرض العين",
    "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQaXFYdXZjSXlyRDEwY3A1V01qNXJzWDZkYVl6MXhXSDhueHUxQ2pweDc4U3FiUXpIeEtudHp4SUptckk0cnNhY2N6UHdCZENBZkpvOWN3aFlfMlJiR3R2VmxFb0JjTy1iWmxnbmZFYzNFdFBNUVNXeXdWeEg2UnN6dExqd1hwZTVteXFhdEUwM1U3WmxEQVJBaVBKT1d5ZTJkaWdLR0xmbWUwVDZhN3VMSko0M1A0ckxYZ3dMSmsxdUlCNmZNY0syRXFzdmZDU0R0aDl6RkJXLXVfVG5UOV9aM3JsTk42UnFaYWgybFBCc3JuX3ZRenA3b29lR1Y1b3diXzJrUHVjUlFtclFGVWpneG1FRVZmbFdjRlV5cXoxWnJzRDBPZG1jcUU4eWw4N1hzc3ZHdUVRbFlHSTNSbG1DYVluOHR4b1QwZW1LUXMzQXkycWtIRU1jU25xMlh4YTJhMUtmWUZvbDZwTElLTUswNHNsVmtOczdxRlQxQTUyUHMwaXJrUHhRS3FpdTdVTTVDTHdkY2N1aTU2d2VYRGZKMFZkb2FsS2tJRXpWSWI1Ty16MFpKT1V1aWo4TWlFMXZrSU5ENy1OOTE0dGRHbDNzV2I2UDJPRWxwME9FVFFXdFRjZ0FjeEFMQjZSM2MwX1BrNXUyMHg3WXRQNVJqT21CMHQyM0hreVVZNG9GSkNmYjBuVWNneHE0S1F3UmF2NUJ6elhzT3JNWFhGZGUxV1NySzFUWUZIUFFwQmh4U29VbWstZnVjMnpuX3BPTENOdkZyT2Y4YmZmVWY0LTRPSTFDSVdQenpsbVBsOVFWTzFVVXNXS2F3R2FpMG9rM0t0Ukl6cEdJWTNpVERsWmw5VWN0ME04bUtOWnhkbUlUQmUxX3pZTGVLOW9xNlNYUFczSmpL?oc=5",
    "source": "صحيفة الخليج",
    "published": "2026-11-16T08:08:26+00:00",
+   "edition": "AE:ar",
+   "new": false
+  },
+  {
+   "title": "جامعة الشارقة تستضيف مؤتمر اتحاد الجامعات العربية.. وفتح التقديم لبرنامجي «علماء المستقبل» والدكتوراه المصرية الفرنسية",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZ2dSWkdBVTk1OHB3eGozVjN1NjNUSVhYV09oUURsOVhaVzNqLUZKYnlBdFA0Ykp0Tmk4UTI4Q0VFRUhrdm9tWVVUOG5mZVdLUHpVUHdHbHI2ZWRRenBJVXQ2TEVuUllZVUtLZ3dWdnlHdkxEYTRib2ZvUGwzYzdFWXBBNnRnT3lEd1dHLWM5UmFjTXdzaTd4OHdlLUh5U2pGaHpHc1FBTm9KQnQ4NGh5SEJ0LUNDSG40c2Z3RmJSbkE0Tjh0bGZzZlFIb3R3cUI5NEdMWlk0bVFMMlVHa2dDM2NqeUk2SDNNdUlQbEtWbzFKa3FmbWFkRmpGem5sS0VLU2hPUDRRb1FfNVVBZVBOTWVja3VLWlM4Skd6b0xXMTBqYW9jR0hlM1lwTmJoekw4SVp5WjVwcVRfcHdGQ0t5VjJ1TERjREJTRnk2Sk1GUXk3cG1iMUE?oc=5",
+   "source": "Al-Fanar Media",
+   "published": "2026-11-16T08:07:19+00:00",
    "edition": "AE:ar",
    "new": false
   },
@@ -450,14 +794,6 @@
    "new": false
   },
   {
-   "title": "\"العربية الدمام\" تطلق رحلات مباشرة إلى دمشق بدءاً من 20 نوفمبر",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54dTMwSVJVQjJQLUhxc01kbjlaOG1EZXladllDVGthbXdOZWgzWFFNR1JKb1ZIM2VTRUNpbi1UX1B4ZXJwUC1ENFRyV2dVNGMwX2p1WHBjOUpCeTg?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T07:24:24+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
    "title": "\"الشارقة للثروة السمكية\" تستعرض إصداراتها العلمية في معرض الكتاب",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQU1sSWNwczU3YndMeWhyTzhIdFhyUVltZEF4cUk0RGtWRkRWQ3RFb1hYLU9IQ01xZjc5VUJ6Um1LQy1mcWRtQXhuaTREZXRlUy10TUlMeXVlOWM?oc=5",
    "source": "Sharjah24",
@@ -470,342 +806,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Yy1CMzZIMG9yWXIyNjN1WmlVdld3czFKTExCeWxoRTlvY2wtSllZcmxBd1lmWS1IR2ZBZF92WWJOUUhPRGk3bTVwcG1KMXcycm5HdnVhRTJKR3prN0VGSFF3?oc=5",
    "source": "أخبار عجمان",
    "published": "2026-11-16T07:12:40+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "Sharjah Chamber Inaugrates Healthcare Sector Business Group",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFdvUlRqRExRVDRNZXpSTlB5MDU0VXFySDYzN2tTQTB5WUM5WWFqZDRsREZwRWs2OGJwZ2hVbEY2YWtJeWdPeWRPSUgxZjNXUWlsWEpKNy1LRDJScjZWXzRPVlpVRlJfXzFmMGVUUVpZNGJ1d0pfWjRkSGluTUs3c3lkTG12SWVoWjU4SGFrSVg1YmxM?oc=5",
-   "source": "intlbm",
-   "published": "2026-11-16T06:58:06+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "Travelex opens three new foreign exchange stores at Sharjah Airport",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHVaYWREOC11ckIwTXZiVGdnRHl5RHBjOGZWNVFaQW1PM3pkR2xyenJ5eWdqdVpYOGQ4Q3FtQkd4eW8tbFNMLVJjdm56ZnJPdThWMDNLUk96cWlPWVZPMEZvcVNLSThoNWZfaWQwS2VvZC0wMzVRcmRoR3JhZ2xCXzhNQnd4OTBXMGt3?oc=5",
-   "source": "Travel Daily News International",
-   "published": "2026-11-16T06:50:38+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "Gulftainer launches Sharjah Dry Ports and upgrades China services",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZWEtxUXVfdlBEVE13M0lGd2Qwc1hQcWV0aVQ3ZHo2X044RnYwV3l1TXd6OXI5SnJabzZITWxKWWtsOHBaR1hUSUhuOEVQT2dHZ1hyNWtFY3ZOOC03QUx6T0hoYkttcnRPclQ4bjZGeXdZVm94LTZJ?oc=5",
-   "source": "The Maritime Standard",
-   "published": "2026-11-16T06:40:34+00:00",
-   "edition": "GB:en",
-   "new": false
-  },
-  {
-   "title": "UKF strengthens international cooperation in marine sciences",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tLVNudXpuUmY0d3dVdHNKblhPZEpqR0MxRXRLUFROSE1pSks1MFowakZBRUEwLVB1a0tSRUg4TUlpSExHZUpHelpPbjJjV3NLcFBVcElfdXJXcWM?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T06:40:07+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "عميد هندسة \"أميركية الشارقة\" ينال جائزة الإنجاز مدى الحياة 2026",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0o5N2hwTzFKb1FWdFNMbE9fZkU3dmNTSTBXS3VLSFlvMF9NczN6ZmVFR2ZVdXo0WDJiSHR0cUl1UjdyVmxSYzR5d3ZyWmE5RU4wTFA3Q3lPcTNoQkxOTks1dEtiLXhEcEVZNnBOQVBWeFZETGloeld6MEFWNFNBczlpajBKOGNmVDNZNlNEeWFMNVhkVzZKT3V3cmJuaklKaWc?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T06:38:13+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "06 Mall by Alef Group introduces Sharjah’s first and largest 3D advertising screen with CITIX MENA",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTy04QVlDaGpadGlOUDY3Ry0zTnBfNmJ1T1AzT25za0FFTDJxR3otb3hCekZqRlo2amFpb0tqY3kwNFpTVFo4SXR4RmpTS1NzOTFGTkdRb2h3YWFQOTN0djgwQWhfSXFLNEtSYWZPVXNjdjc4Qm5GR01RY2tfalF1UXRqZnNaU2FoMzBwdUhKUFdzdkFUYW5PR0t0Z0QxcDAycHRrTjVEZ0szZ2UtMEZJTjhndVFYMUJkdTNjM3FwT3o0emsya1RtZzJxaDBzZ1ZXSW1mdEktTzQtTFRFcUl2ZXJ0TGNmUWNURXFTV1dvdE8?oc=5",
-   "source": "Zawya",
-   "published": "2026-11-16T06:37:00+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "وكالة سرايا : د. فاطمة العقاربة تكتب: الشارقة رقيّ المكان وسموّ التعامل .. واعتذار تفرضه الظروف",
-   "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxPMG9CeG1rUzBteXVoR0pYNXh0Ykw3SFJHV0JrN244ekpIXy1ZMk1Td0x5LUlEcHI3LS1VZ3VLRzZQRlo2bElGY3hlUnVEM1BzQTJaODd3U3BVM3czeURoYm8wQ21SUUlJMlVmbnRxNF9jcVhCNUdib1VCbjAzeHJCLVJRSEtjN1NKNTVUMUxsUDRjemV5ejNmNUxsSHA2cXFaSmlRTWt3MDc2M29LYjBRbk5MOHFibkJlWWd4OFhia1R6VEM2MGhhTFlNQng3Sm1sZjM2OEhtM1hsei0wTFl1UDlJdUVkUXU0a0FfYUlHRGNFOHZVelBPX3RvcmtzRWhDVW02MlczOXNQV1N5UWZ4YWZXYU8xN3JYZ255V1BFS0Jva3VLaTNPeHRSUTRfS25jM3RuM2d3NUZwNDFURWM0T25BTEMtZW5Sd216aU1yeUpYNlIzdkszZnpnbDFBajg0RDl1dFcwR2N1bXpoVnUzLWwyTHM4R3l3VERvdFYwdGRMc2pYREhVcjFRbTg2Ry1ZY1ltODlFMDhPMjc0N0Q0bGozREhpQ2x2YUJBek9MdEtvS25oZTJ0eGJPNzRacUVqMi1Bb3lBNTNRSW9KMlc5S0VJUkFPeG1U?oc=5",
-   "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
-   "published": "2026-11-16T06:32:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "\"القافلة الوردية\" تجري 18,667 فحصاً للكشف عن سرطان الثدي",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUYzNqNFNnN2I2OGN6dE8xOV9LOVRpeVFxUlltZzZPQ3FiZVhCcTNEZi1uTU9JYnk0Tl8zMGc2VlNtbUpSVzBadmtGZUpQSEtyVDRwWEZoeFIxNFU?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T06:28:10+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "جامعة خورفكان تبحث شراكات دولية لتعزيز أبحاث علوم البحار",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwNGVXUUxfdHpDaG14M2RMU0xYb2pUNVdta0MzdnlxeVpwb3lVeGppclNCYWUwd3RjUEQ4bWtUSWlYZ25UcnNpdG1zeDF6c0E3QzdfOHZWLU1pUjg?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T06:23:10+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "320m Al Dhaid Bridge opens to ease traffic",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxeExvLUktaTFLMUdrOWxCalB2TllXal9DNFR6andvSEU5b1BHRGhmM25hMmVBRWwyUDZfcGtoWE9VUGZEazRoRllNWVRKR05UOFd3b2Vud1BVTms?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T05:59:46+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "Sharjah Book Fair draws huge crowds on final day",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEtLWVViSDJ6dlpIdEgtdTVlM3dEUlVlNjFzMXBkSG41MVg3TDE1bV9qRHNEUDFPRjBPWW9mZTh6M2UyR19KZXlnUllhNExERktyUWtIRjhqTUh5dHZiNmhtbV9xN2ZLZktYUkRyQWZqQ2syN3NOc204VjlpQzdRTVJCVGlHLTRyYmx3TFdoQnZ3Y1dsV1g0WVpITVIzOVl5enJr?oc=5",
-   "source": "Magzter",
-   "published": "2026-11-16T05:43:21+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "بتوجيهات حاكم الشارقة.. افتتاح جسر مدخل الذيد بطول 320 متراً",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BTzhkdHZRQm5tUUppaXJFSktiTDlfNEpISGVDQXJ5YXNzS2c0STN1bVFWay02YUc2TXBSUXB6ZEk2XzFyYzJPcFpoTklEbTBMRDAwRWM5SzRzUHc?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-16T05:37:25+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "الشارقة و«الفجيرة للفنون القتالية» يتصدران بطولة الصداقة «الإماراتية الكورية» للتايكواندو",
-   "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOQkc1S0RJaFBpVnNOS3lCNWo1QWZSM0RIUWdaSDczSmNTNUhzSDVHR3NwNkFuTmRTX0xFeHc3NFI0dUNlWVdDdzFjcHB4UFhVZHJPbnZURjdKM2NOVm9pbjNWSXJZeWs1TkNZcExvdVdualBwbnZ2VTM0SDRCLUhfTnFaY09mVFBnbHB1dFViYzRhYmN0SXQ3a21QVFdCQnVoU0Y0ZEg0M21HVHRUZFNMbUI0WnFRNWhHY19adjdKaWxJWk04QTVZOWhVS3FoQVVsZWRSNVNjS19jbTF3MnBOazhXdDJDckUxR1lWbkdpeWxFcEVSRW9rcWpkYTJ6aEI1cWptNFdjNkRFeXVNbFFQSzlmZGRLbzFsazBOaUlGVFdNanhxYnZKUmNQci12aGJtYVVsY0J5cE5DekV4Q3JaOUlOakFIaEFFcXVvZEEyS3gxa3pBOWZkMERpZ3F6eWFmdjhmU1JVMWtCQktqUmM0bjktUFMtbEFtQkRYa1pjQWdickswSE1DeEZZaU5CZTlfWmJrR1luNTJvaXNnR3hyMHdwakZ5WWxvN2FaMk4xWnBZUmVYUkJBczZWc0VwQ3JBTWpXTTI2VGpnNTM1S2VldFdCUFVLMFZJR2haVGF5WWZEUmhMTW1RVjNERDd6TG4wUjRSbjRsUWdKUktuUTdFbE1aM1VvaDhDWDZ6bUhTU2lOZXVWVGVZWTNMRVdhai1PUWpqOQ?oc=5",
-   "source": "الاتحاد للأخبار",
-   "published": "2026-11-16T05:35:55+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«استشاري الشارقة» يناقش بجلسته المقبلة سياسة دائرة شؤون البلديات",
-   "link": "https://news.google.com/rss/articles/CBMimwVBVV95cUxNa0syLW5DTTN0QWUwMm1CYXJsa0tKdFFjcEJ3MTZpMVBZNnJVbUNOcnQ2S1hSejRCSjBYZHdsV1pkUEItREQyU2ZhRUpPcnhlNGtnR3RmSU5CdVN0TnFtb1l6a1JPQjE4RGlkdlp5V0Fpc1RlUWJsMGhUYVp3VnY4UzBzd2lMY1VoLWd0cF9Iclp6RlpWOUcyb1c3ZGpMdld3UzF3WXhwRjFVWEpqSk9Lc1pBaWh2UGJscmNpR1ZJRVhVdE9JUXpCek1ZeVJxZEx1QjVsOHIxTmNVa0tzRzlpU2VkZzlaUFRqQ3JQbVlxVWJHQlR6WkN2OVhxa21PZmhhS3hpbEdDc1l6R0hIX3pqbnkyenI2NlduanRMbzQ3Y2RkdHFTSHRiOFN3VHhDdkFxODB6ZG1MOERjaVRYY19HVmpQMllESFZqMlBINHU3OG1FZzlWdkVuYlB6eGx2eWtHNUVHalNQbzMzc01HSnFlSHJJLXItT3pKSmphTHFwNmxXbl9pcXA1X1VfRWtNSHNsbkk0WlptYzNxam5GMDVDbFpseTlVVnpjMW5SSmE4UUY5YUNCWFRuWXRpTUJfYVlhb0lIZXh1MGVxMG9SZDJRZlI5S1ZPei1qMDVQZ2dBWl94cUFrWUVCcF9BbjZVcG1IOVI1bU9qYlkwUm9rNlFLcjJZanJEY2ZRM2FySWZ2eUcyZEtoVWEzUlhMRFcweTZjQVJRV3pWOGdFY3F2M0pLUUZDZC1BUDdpUGNpQWRWMlJxM2ZkLTZlVHJ4QmZLYmR3NDV1RWc3QmUzbWRYQ2I5bkRpYndjLUxXR2FoX2tVU01yZlp4QUtQODIyU01uSDhMb3Z6OVdtZkVXZ09yX3BKMUsyemg5UWJ3LTdn?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-16T05:28:04+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "UAE weather forecast: Light rain possible in Ras Al Khaimah, Sharjah, with highs of 30°C",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjE3YUl1ZTFxWFRIakVHano0TkM2UkptREhwNGNhZy1FYWJsMDBSSlJrVm11WVk3cVFsR2xMVWpVSi04R1RQSmtROWY1NkJYSnBzTkFST2IxYmlUczJkM0RhX0M2UlRMWEFTVkhkaVMtN1owWFEzanlhT1lxTThmR0gzX0dZRml4X3RyeVFHTXl5ZkNHOHdpZEdpVGJQMXpDQUItSW1NdzNEMkFLZm4wTm5XTWhhVERCUHpZZjNn0gHYAUFVX3lxTE01cXVWQzVNRm1Jc21IOF9DZnUzeXNtbnZfQkM0VTN4Vk5MOExkS0VoREhUYUFQZ3NTZTkyZ2gtZkh6Z2JRcnJKd192TFhWNU8ydTJVYmpZejV4aUlZdjZValFHTVFSUlNtUlpvdllPWVhVYU5JVnhtVkdGSnVGUlpwZEVFOTljblV0TU9zVEUybXlwblI4VmtobHh1Tk10OXVwbDlhRGlBNnFQY0lSbDJzaTV2N2xYeGZOTzBLNGxMZ2QzZ3lIQWRma2F0dDQyejRZT01walMweg?oc=5",
-   "source": "Emirates 24|7",
-   "published": "2026-11-16T04:58:00+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "\"معرض الشارقة الدولي للكتاب\" يختتم دورته الـ45.. أبرز محطات الحدث الثقافي",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14Znc1V1ctOFBOcXdpS0YwVWZmeFE2US1qTmh5MDg0NEU1WXVvdHNsUVJraVBpdy1pM2FXcWs5RjBuMHlnWm1jTFlDRmUxUkNZ?oc=5",
-   "source": "فوشيا",
-   "published": "2026-11-16T03:32:54+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "رواية \"من صخب الميكونغ إلى هدوء خورفكان\" لـ عبير كزبور بمعرض الشارقة للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQd0xyQndLaGVSdF9rQzNVQVFIRjNNLURzdUtyTWREUWd5eFdRQ2dnU1VzUXRJVmVRYUduWjM2Wkx5c05YU2NWdU1QcGx6a29FR1hOdkdBNHdJY3d5WmRtRkIyQnlHck9keS1iSFkyZDhaLUFUcW1ReVdOMFNIMm5FTFdwOGlRVmNVTkdPa3JjcU8tLVBpVnNqRDJueFgxVXU2blFjeGg0Uzg3bmNQQnBldE82VjllTkpDUWVmaG9LNE9UcWpvb1ZyWGYyTEI3am5GNzFNWFpYUGFZeF9vN1FnT1FreTJlRGY1dGNCSEwxWWZ6Qk4zSFF5Nm1udDlZcTFIcUFGaHVvUFpFTWwzTmQxY2tCNnpRS2FxT051bkRua2tzR0l4OWkzYnhVQ2QtTDJXRlcyUjNWaXZ6bF9XMmZJTUFXYlRsTUxNdGVOeHpiRmFkMmQ2dzE1RjhfbEhtbW9NNDh5Y0tCZEtnbG9WNEdmZlB5SlZnZGJlQTA2cVdIZjdqbnY1Z0podFEyYzJCMWhTSThFOW5sWkpQTHBfMlhOLVhwb0t2blowUU9ndkNyRHdnaU1FSF9CWHJQTG9GaUHSAboDQVVfeXFMTUI4OFN6TVREM1NnbG5LMjdlWEhITllPMTZ2aTR5R1l3ZnB0bENDZU11QlFRSkpyLXZqRnF6d2x3Y242NXFQd1B6ZWRpR2NrY3oxRzZHVkdfZl9xcnprNm9XODkzMnk3QVczcGlMYnFrRGQxSUd1R1VnTEZWZmdOSHVDM1lOMlQ0cGlQOE9RRzhJc1FNb0hSdUw5bm9KUXpQYWU3YmNGeGlXcVpQSFRHMnlpMVB6YVdMTVEzNDR4SWU3WUI0YWg3UmhFc2FYMUx1RDdwM1N6M1BmTGxKZnZCSG9YckpIRWJodHFTOXBsUmp5Unh0em4zb2Q4OWdyR25EdS1mNi1ROFdBMG5teWFUWEwtMk9QaEZRNnU1a2ZwTE4teXdVNDBZYTFuQVp1Wmd4SWFLcFNfS0NuU3ZwcHMxY2ZGNlJrM1lwdkZkV3hPX001Rkd1eTdiV1JTX1NvZ3Z0NFNCdFFtNGpBWHgtODdweTNyQnNwYVM2MkhBaU5LdDAtNnpHWDVuUjd3MXB1TlRDYTI2LUltbkZNRFBaaHlNM0NfcFd2TU40VTUzX1o2Y0Y5ajUyN3d3M3pWdw?oc=5",
-   "source": "اليوم السابع",
-   "published": "2026-11-16T03:00:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "خالد بن حميد يكرِّم أبطال اليوم الختامي لمهرجان كلباء الرياضي",
-   "link": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPdWxSMFd2QVFDdWsyWVF4WVRIOVEyU3M0OE1iUHhrZGhvMlpHLTVOa3FVTURxV1B4cmhKbThUdGlMYWJhVFJTZlNUNERGZVhmQlVjVUtOdVh6Uk5wTEw2Ri14blBPaUNyU2ZNSDdscEs3X29EU1NDclNqVU1QYjVZbkRrc3pac0N5WldBNzhmWV9ETWhZV3hrQU9GN2E4WDluYkJjaHpYc0hzcE0weVZyZEYyTjZ2cEVfV2NYWFc0bWE5SkRsZDBGQ3RnNkpyV2hmOEp2OXFxVnA3STlDN1FQUkgtbmFZVkg3X3pxb3NYeXNjcW9uRHdzUlFlS3ZDSWlqLUUyQ2FnVnQ0QmdodFpLdmJBckNETWtBR0J0Q0w3eFFveTBLM3RtdDZJTnJ5akp1RXdjeDNXRnhaZHVfdV9XemRGam9tcWpHQk15Y3RacDJqVjVmZU5NVVRid005R1p0YWMyZkdRM0oweG9ia3RoSERhRVVIem5tT1gwLUF6MjNPWTQzQjBoY1k1d1ZWZ3huS0dTWVZ0OWhkSXV2UG1YbW41UU55am5hcGlvUzlreFRNLXdTcllVRlNFd3pna2xKVzA4WGpVeGhoeEFpUnNUcWRDVGczUWhoaVFiNWh2b0pyNFVhOXd2dU5VTTVyVVdzbHUzUjJzV2hQZ0lNQjB1bTNXT0p3X1pTb0lOYm9pRGNPWXFsSFh5ZENId0RhMEk5Rk9kUzlKdGZTdmhNU21CczZtdXNBOXp6QWxZaFBMN3IxRm5oQjM4TG53MGN1TGxOZGZhcklCbUJadWFTcnZReTRXUU40b0JGZEZ3RFBXWGpXUHpmM2lWcU8yRi0?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-16T02:51:13+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "ستيف هارفي يعلن اعتناق ابنه الأصغر للإسلام.. ويكشف تأثير لقائه بحاكم الشارقة في تغيير نظرته للدين",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUQwd2cxZDZ0Y2dXQnFmQWdqeGlNbm5zeDVHOExTSm53VkpNNlFYVU0zdTFEVi1yQVZGcTFsWE5UeWEtQWxwU3BBYWNWZW5PLTB4ZUlrNEVTa29xVWVRcGZNd3hqcC1EWDBldTgwdUVhak1mMkJXMTdFR2tNaWhqU20wVzlGZzZTMEZvYjk1dUNWTnh5MWhn?oc=5",
-   "source": "شبكة مصدر الاخبارية",
-   "published": "2026-11-16T00:34:06+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "إطلاق المرحلة الثانية من «منصة الناشرين» الرقمية",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0WmctWWtkQnc3YzJNVmJxUWxZMjdwdlF4RzJCc2s5eWZ6bU8xNlhLN2RTWnJUMlFIWEY4T0ZqQkljTW5KeUhwTWhuWWN5a0hqcVI1SVVreGxnU29FUXR6cV9feDRCdTRVUkktYnU2SdIBigFBVV95cUxNZ2k2c0FER0Q1TWx1ZExLUXFMRlp4ZWRyMXVUZV8xX2FhM3ZjcHd0OUlzM0EweTA0cUlRRFExS3h6Zk1naGV2Y29LMDJGMnY1Z0kzbmF4YnlqcGR5ME9ya01Rc19HbW1DRjk2OGYwdzdSQ0t1ZDBOR202LTN6WGJPaDRZQ1Q2NTlvX2c?oc=5",
-   "source": "الإمارات اليوم",
-   "published": "2026-11-16T00:05:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«طحان الوثبة» بطل كأس حمدان بن راشد",
-   "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxORXJzYTEzMEI5SVRmcW83R1E4SmoxbFdHZ2lTT0VIWUJQckZFSTBXN3huaDBfSDJucWVTeUtJMWMyRmZhNXN6ZWRIUmlBTTRTYTV5NS1PNm5EOEs0a0pnOVRxQzMxdHBaT3pvV1pZTjRyLWlENUI4b0tUblp3dFROLW1LcHFQNXYtV3YxWEo5LXByU3dJb2JhTWhfYktKbGdQNXluQTFPRkFEVExKVWpacWFLcEhrSDhCYmJvbEtocjE4c1JYc0hPaEZvd1pJblB6TG1WS2hFV0x2UDdtWWdNR0lFaFNobW1XUnZXb1JRSXVZMWllcU0zTWstT2p4bEZJRC1KcjViUGZJVXNDNWpnMkJMbjdqaVRPN1ptZnNNdTFZNnN2bkFudlcwTk5tRXBUS0Y0d1YwTlB6SExiOVA4Q2J3dy1XQVFCTVVhUTdJQzU1a0pybkhmWURxcW43aXJZNmlVN041cVJpSjdUQ3JJS2g0OGZQblhGN3VVSnJGUEVTX3Q4Tmp6d19DY1d2cWpJQkV5NFZMV1RGMUk0SVdLZHBmUElHRHY5QUNKOUpKYm5iVHJlNC1NcFVlSEZaLVJl?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T22:25:42+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "Rubu’ Qarn Music Centre celebrates family bonds",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMkNPdEdHTTVjN3FtZDVBaU5lOTlWZmFHMC1sWTVSRVVWdkMxRmNiVG8wamQtWjVZWllEVVZpbXZTLXY2YmotZXZ2SXlpamhOX3NYZ0prQkpOdw?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-15T22:17:01+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "الشيخة جواهر بنت عبد الله القاسمى: مهرجان الشارقة أصبح منصة دولية",
-   "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNejF5YjlLZU5jT0xpVi1hQlhWbWExQ2Z1Y2otSjltOXRESUd4S01VaEZvUUgxZWFhVENYLVJWSGtfM2R1OTRLWnN3OXg4SHlXbzVldWlVOFZoVEpEU3RNdE9sTDNqOEcyT2FWSnNTbzhKQW9QNjdFV2RFN1dzd0NxX1BNMTJMdF8xRTlrUEJwUDZoU1E0YmpzcFJpekpoV1FmYXB3cllZYXl0bi0wdml6bGd2TExjOWl4cU9NeC1KSmgtWTkwajdqZEJNY2hIYjNQZGxnbktCZ1ZLN1BpemFsMHg1c0djd3pVMVVybzI3V1pwSTZPS1VTX01tdVJyUG45bUhMVHNnSUdOdFBnMlBrcXc0VExGT2I2c0d4bDJVNXh0VkdwNl9sOVVMaEpnNUE1dHpLUEhmSFg1blpCa0RfbUlNSEJCUVROLVI4em1BWUs3UmtMYk0waVBQOWp5LXRjcFdrTEZyU05ic1ludGpqWjJRZWNFSmFDZzhraFgweV81NkpZTzdya0w5MDRJNkhPaXU5VXUyVGppN2xLM0NYTWZlNzJ1UVJxUjlnSVhHdnRvejhNTFpXQU5WZ1NsZ0F0OG0yU283MUtrQ3ZHRkZyNno0RTRDVTd0bVdaaUQtQUNxQVF4cXFJMVlVTFZveUXSAeoDQVVfeXFMTlFWbWRGZGdOaWdzMmFLZEpwV1JzZVI1YnZVck9TZHZqRUVCRWpMU1ZPQ0xwOXlmQzRGLTRvRVVzcDQ0MHVUbWlYMTZRSUVjNUtwZ2M1dklabGZWTGZfWHhvTF83aHlyb0tVZW1DdWJYNkZ0THVCSW1yVFUtT1JWSUhZRG9XcEY4RUZNTzhldXp1aW9CYzlpWEcyU3dwbjBzSXpJOUJkYURZT1ZmZ1J2Z3lCdFJPV2dwbmJCdEF0UVNBdlBBRHZCa3dFblpCdzhvSVJQX1pKU0VvdEc3cENzYXp3N0pCQ18yU3B4OUVlSXlnRGM4elNlX1c2VVAyZ0hGcF9UUmlNUjliOU96cllpSTYzQ2d3ZXQ0LUZMM1R4el9kWGppQ2hwdVF5d1FONWNLbGxKYTJ5bWN4blNLUjVJU245a054QVZQLWRvMDg1bThfYUlmRkpxakItU2dUQlhheXBQclRSLWJGckxtdFNTOHJkeUNiUHg3VC1aZDhWajE0NUhHVVVqTEVKUlVBbXd6aXlsU2JxdnpubEg1LUYwengtUFpqVGpOUUxUOTZWSjhoU3V0TTVrdzZ4Sk5FWmozanhGZXNwMEZoSnVGQ2dpa2VPYkpwTG9Ja3VneDlRZTZqTkRzOGZWLTVQUQ?oc=5",
-   "source": "اليوم السابع",
-   "published": "2026-11-15T22:00:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "\"سلام لك يا شيخ سلطان\".. عُمان تهدي حاكم الشارقة \"رزفة\" تراثية وسط تفاعل زوار المعرض",
-   "link": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxOUjJ2Zl9BWVV1aUI4emFxWDFoazVINGx5S3J1cGZmVFgtZEdEYWVlbWVjQW5uZXFmcmtWVUJISF83cXpfLVBzSXdmVVpXWE9MWFl5WWd0Z2pRM2ZGcUxudDZCSzlwOEhSRGNoRTlBQ1hZWUl6WHFDa3FEZXp4RE04ME5JbVBRNGJmQzNWYzhQeVBqWUc1ODdmVkNiejl6b1pIc0hpVmZmZ00zbHpyQWpCWkh4OWpUS1lwRHBza2JJU2Q1elpFMWxGX1d5dGtUMEpTUTluYXVSRzlJNEhFS1c4eFdwZTR1VGxkX29HNURuYzR4UjU0YUl0Mm42dlJPaGxUMjBVUkVGMnU3cHNWU041czZUX2dhbDNMeUY2VGRSRTl5QlpHbTBKRFhhSnA0RTN5aEJ6WFlrdlRwRi15Nko2YzZFX1RxWFZib1JqVE5UZXJDd1Z6QXR1R2F6YVdKMVFYblVxQXAxT3lYQW9HYzlqVXRUOWt2bjlObkdrV0hhVG9QTHJiTXhnRFdUbUxmazFGbWJ2bkFBOE1MemFPWFJKRmkxU3ZORUJUV3Yyb2Y0d3ozNFM2bm5kTVpVQkZWMWxNZ0RUNDlkbGR3OG51TWdWNkg3R0J0VzBNSGMxM1h1Z25lTXpKZmV1UHlVVFc4UHVMVEx2bk9SUzJ0a0xEUmpCcFcxNWJrS3hWMmloNkJfXzA4UFRXVkVuSkVFUGVZQmxIVU5Hc3NlTGxnRWlYYlpvMUR1SmhOMU9SRmtuaHJlbC04MWNNS2ZuMUM5YUpkZFRYRGhLNlRn?oc=5",
-   "source": "Shabiba",
-   "published": "2026-11-15T21:49:49+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "التعادل يحسم لقاء الشارقة ويونايتد في كأس مصرف أبوظبي الإسلامي",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5menR4OThEeWdZbGhrVjc2NWNJMDJvSWpWT1JFeUxScWZ2VVpVaGNkWWVlOTVvclZWYk5uMWVkWnlpNGZNekdIYXBsVnN3NGJFQXYyVmw5RmQtekE?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-15T21:33:05+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "أحدث أخبار مصر والعالم",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tRW5xN3pEUTd2VnNhdXkydTRIdFhIeWdEeFVzVWVBUlRPVHhNSFVwV0VYLWRTclEtazI3d3hjQkRaOFlZaUc2MTFjNA?oc=5",
-   "source": "ekhbary24.com",
-   "published": "2026-11-15T21:29:11+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "من المخطوط إلى الخوارزمية.. «الشارقة الدولى للكتاب» يناقش تحديات صنع الحكايات",
-   "link": "https://news.google.com/rss/articles/CBMisgRBVV95cUxPbDI5ak5LdE5INlhacjR4QVNLc0NRaUVvN0Y3RE1UbUVNU25QeXZjMVNaN09Sc2JzejB4Vnp1R3JpTDRuWFF2ZlJPTlU5YWxTLXQwaS1BTlNyWmpmRFI2ZmxBbjJhT19EY0tadXFJSnU5TGxKeXUxWmJGTWJMQXlzX2FpMk55RFpUSXJaOHZnb1BuYTQyekJvYzVmSlFCejl3d09TNzl0SHZSS29KTVJsRE15Z2RwbUNOM0R3N1NhTWZRY3dfVjhPM2dWbURuN19nUzZOWUFFakM0bmZ1U1dxMzJnc3B4M0hMRWpIVUR0aW83Ukp2UGZsMmFaNjNaUFZZekd5cmtzNXg1N1lRWF9xOWFhVzNmNFg5aU9pRlhrVUV0aGtTUmx3bjNxaFBBU3FkZFFWWlV4RGhVUUdCYmhQZGFUWktHZDFaOXZsUzRqSEhwSjhqSFl5RE9TempPZTlzRkhUbm4yTE8yVDYtTUJQaldOT0ZUWjE1Vm1DRGZzNnRScmYwWlZYTjhZZW5zb2NOX1A0bnAwQUJaUEp5M0JiRUM1ZlhLcGd6VjlXcW5haWc3X1dKRFRkX2RXY2ZYb2JGUkk4NlhkLU5GeEh0Y0ZCV01RaFZGUmlYN2ctQVNSREZjUmpQbjhadXo4aW5CRDJvN0NDS2tEdDVUMlFDRWZPdk9hZUttRDhiQkNaVFNpTXBIUlg0ZTBHZmhQa3dwdVlnSDdrREFCa1VlR3RuS0wwOTdB?oc=5",
-   "source": "بوابة الأهرام",
-   "published": "2026-11-15T21:26:16+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "الجامعة القاسمية تتفاهم مع جامعة سلامنكا الإسبانية",
-   "link": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOR1BTZGpvVTBYYVlrbEk1alNURGM4cU9LNTJGdWJMY0xFRTdFdjNxbld4UGJGTTZ2WVVxUzNWUlAtRkpfdU5YdTktX3FtVFJKLWZKQzBWNG5uT3NkZEZHQmV3ajVZZkMtbklLRUJfczJEcVA4WkZScXJBU2hBX25NQi1ZX3hGbnY1bjFGWExjbUpabkN1M0NYRE81ckxxckZDNlJfS2IzdDRlQ2NBMjJXVEZMVTd6VFB6S29PT1ZaYWVXRklYT1UzTFFIdVdzRU9BRGk0S3JhRG52WGE3VndvSU42NG9CdW9ZaVRaakpFRHFpM2hPekNjaTQ3eUJvQXdvN2E4UVo3bmdjSFh2Nm9mVEdPZ3B2aXhNQWZmLXd3VWJ3MUZRTER0ak9vNnVRLXp6TE9mR0JxU2RZTzRYYjljRkhFWENTOHlHNUxfM0xTRlNwaURiaTF4cXdtLWI5R01lRHk5VmEzaFVnajRrMFpKNXltRHlNRWJJNFlkNzJpMVdlbVcxcnlQV0NZenJpUVZaNnk4LVR5dTEwbVAwZ0dISEdsTDliWTF3eHFvMnJDMG5aa0VjSS04NjlxNDlXT3U4TE9PU3otZ3ZhLV9RbmJJZ0JHaHZpTmx0aUcwVWdWYzMyRE8zbU1aam45eWZ4WFVQdHZTd25TWExsZzZ4aVB2MXlldzIyQkNDUThvb2dRb2V1TUJuQ29tRzdIM0hlNHhlalEtRDVoa080SU9lM0FxS1FKZDkxcTVfRE1raVNMd29VaUFIeVRjWFpGdHk4dFhVbDNNWnNQVVhhc1p0SERGR3o4TXRhUGxwblJ6UHZ5X3k?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T21:24:18+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "سباحو الحمرية يحصدون 41 ميدالية في كأس الأبطال للمراحل السنية",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zZFZhaWdwcnNVU3VnbmhOLTJkUDJGYlItZTVaOGNFRVBJUTFVV2k1S3BVQzlic2pWci1sVHNEUXVJQjNjNTBCdWMtZkw2LTVzQWE4THFPdVBiVVU?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-15T21:23:13+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«طحان الوثبة» بطلاً لكأس حمدان بن راشد في مضمار الشارقة",
-   "link": "https://news.google.com/rss/articles/CBMixARBVV95cUxNTUFORl9aVWk2MzN0OThfSlpNcnVEQmJQN2hESHp3STRCVzcyUnJ4ZlJMQmhzN25LZlp4b25YNWFDNlVua0tucDZDWVhTZ0dORmlsb0N1cW5NTzRveUl0Y2hRQXBCRGpjSXhZWnVrUUhSc1d2TjFVaDZyMzVKUTJpR1Fpd0dXbXdsZ0lHNk5XTGt0aFliTUtMME0yci1xZlZXdkpMNkxhR0N0czNKVHBIMWdxcmtPeHktUW95MVJnbWxGel9sTjhBc01rTHF5MndDZHp5QkhoNE53VEFuZDJYTkF1MnlpM3E2VGR1bkl0cHJNMGFvUnEzRmVMdU1pMHdFekItcGNBb05kZVg5N2RHM2g0U05EWFNRbVNkbThSRUE5YlFGalc0NWJwazFTbXNuMXFzelU2djRwWGh3Tk5FcWRnUlFHQnVWOUV0d1NHQ3g1N09zN3FoeTJEdk9rd0FMYlV2aV9qOFd3ZzRvcHVpb0V4MHpiU1VycnB4UndpdE5pUnJwWUg3MXpGaWZlMGVSMTd5dm5ncHJIZTM4Z1l2Ull3aUNUVkxVdGotNURlYkdud2hEY1J4VmZmQmlVaG1IdWZpc2tNWHdLdjltUU93d0JxbmRnWXRkZ2JvLTRRVXZldjNGdE8wemtJd210MjFtZXB2NEcwRGFzNHdRc0JLVW1zVFIwNkM3R3hPOERoZTZ3QkQtSVZaOFk5MXBma05JTnYtZklvT3c4WnAtMGQzeEFQMm11LUQ0cHNBZUc0YXhGbWVN?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T21:16:55+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "الشارقة يتوّج بلقب بطولة الصداقة الإماراتية الكورية للتايكواندو",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRlotYU5ibU9MWm1JbC1TcnUyS2hJSmI0cEhnNjJJLTc1NUdYWXVuQkw4U3Fmd21seF9wOUpNcVg4d21jNWR2eEcxc21yWDBiLU9YRUtIN2JDVUk?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-15T20:45:43+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "صلاح بن بطي يطلق «عُمران الشارقة»",
-   "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOSG9TR0RYbU42N3B2MXJJbzAwLVlEWnRVYnQzdjRiY1BFcU55Y0pqYS1Gb1o0U2h0U1NiMFVjNElTa0J0MTNBTnJTMmRLMWw0eC13eTRkR3BNcWJkUzJIM19fSnJERDdwd0VZUGtrQzUzOGlrWEVYVEhxTWRJVjVzeEVWdThGNzVDUG5zazZGanRwbE1XZHJQWm5ScXF2NEY2ajhVbk1ydTJVektYdU9aZDhabVloS3ZHRWp6M21LTzZKMWJkVGdzWVB2VlRLT01KRS1MbldtejZBMlVrenpSRWVqU01nWm41NC02cXZhREVmcnkyczBzUlhQcmhmMElNMHJ1Y1RmRzFUOVJNcVprTDN5YU9RRHM3V3RROEhSR05tWVRxYXZjVWg3MlBJYU5JNzM5NWp6LVJTR0lybi1Wc3djUV9EaXdHbjBBMDJrVEZMcUhxbVdTWXIyUENKV2ktLVI2TnJuamVXSkpiczE4SHczenFDd043SXdWRzR5d21JNDVuVnhBYzB3dUNId2hBUWgxYXlfYXQ2anpGQWNPeHBQM3JwRDA?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T20:16:39+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "السينما تتجاهل أبطال تراثنا العربي",
-   "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQdWZEWnZ6R0M1UVFQbUM4YzYzZGxXc0dGbkk5R042aERoMDhEM08wUi1xOTlTbWFWRFUxSUg4VFBudC1QbU51R2puaHpwVldPZVR5ZVpqd0NSZFlqbGJCa3JMZDI3WEdjVE92NFNQT19mMFo0X21yQU5lTXF4NkJ3R1dlaEtUZ0stMVZhYlhId3h3REVJd0pudW5IbHl5ZXM1RTRVbS1CbjlWZW1pNkhqSjRLcWhxdWMxZE1tb2pyS3ZYZmJvVkpNNFJMeFFUS2Zwa0JFSTJwUkV4aHZIbmNYSWw3TEpWazVPRmNwaElfcDNqeXd1b3p1T0VqZ2d6ejNiVmQwOG1nUThCWk54X2Z6NkFBSjVxU0lSY2xnc01CN3k3bXZnVjhIU05OVzBQTXI2SldPLTUwYmRObGs5QjVsVW9Xclo5a2xrdEFRSXg2VWItclgxQURLNWptdFFjQWtEMlJINlZaUHF2S3ZPcWhldGMwSGJhU1d1S1BQUUhHM01reVB4NVhaZnMtazVlODFQSlIyclBJemg0dHJvRjRHR010UnRHcDhnZFU5MDNMdEJTaTBJR1c4SE5JR0pocTJpWXZ0Q3NyY1F4MjYwV1E?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T20:16:39+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "معرض الشارقة للكتاب يودّع القراء",
-   "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUDF1dHg0X0d0T21UYnFEU0VBZVdDV0R4bDZQLVBZbGtTcHBOTWxqNm81NUdHX2l5Y3FLeTFyaVNJRXdodDNzemV2QkVlaVpmd2thT1lRQUs1VVZKVGd4UkE5LTJxaVdrYVg0S2ozNXVvdnNRMmdfeGFOOTA0bzNtWHl4Vk91Q1VvV1pfblp2X2RsV04zZ1VJV1Flcm1GUENHZWZkdHFyZHVwYU9BbGRleFJnTDBTX1kwdFFqLXo2UHRaNURNUUVnLWxiUDFMNGctajV0b0MyNHRrYTQyWUFHV0RYUjUwVFBhSWI1QXJZYjg3SFFlQzZiYW5DRER1ZmlxeWpwYXRQb1VGZ21jNV8weUF2YWxOY3lKaE4zTUJWMFZjekxZYlNWQ3AtS0hoNEIzWUJBNC1ieUhfR19IZWVnRFo0cUpPZGdPMFpSamNHd3dxZ3FjVzc2MkJXVDVEV01IeWJVUG5UaEROUExsSTl1UmladEFnOENoYldfUG5qR1ZxMUtaekhlajh2dm5WTlRrYTc0MTdfTVVNTmI3TWFaUHBsRFo2SXdsV2pOQ3V4TWhCVlBvMHc?oc=5",
-   "source": "صحيفة الخليج",
-   "published": "2026-11-15T20:08:38+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "خالد توحيد: العودة إلى المنتخب حلمي.. ووالدتي الداعم الأول لي",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KbGF4aVlnN0czUW9qdXluXzRXWllFaEVmVnBWYmxLY1g2dnBicWxoUGs3dzNranM5a2FtalJqTTRzUjJnMmpjT1hGODV5N3JDWUh5cGxDY0hlaHBYeFMwVE9tS1VjUngwdnpMdUFra9IBigFBVV95cUxPb1VDOWxhdU5xdFh6ZTNQSGFiWlJZWUJmRVQybDZseXl4UzNmbVp2SThURWRmUm9WY1YwMXY2VFR6NzlUb1c1cVdsVHVaQXhFOS1ULTkwb2dtVHRQRkdlTlZKcENoa3d2Mm9zTlF4aml2d0JiSURGd2k1NGpFZXFHVG5DeW5vQ1gwMFE?oc=5",
-   "source": "الإمارات اليوم",
-   "published": "2026-11-15T20:06:44+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«تريندز للبحوث والاستشارات» يُدشن 12 كتاباً أصيلاً ومترجماً في معرض الشارقة الدولي للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmenVOek5PZE9ZYXdYd2VPYW52dW1jekhEb2V6T2F3T3htbUgtLTJDbHBEMmFrRHdXOGR0RHc4azZLVUJWSEVR?oc=5",
-   "source": "alwatannewspaper.ae",
-   "published": "2026-11-15T20:00:02+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«الشارقة للتعليم الخاص» تحتفي بمواهب الطلبة وتعزز ارتباطهم بالقراءة",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1abmZmejBDRlh5ZHpqOExiaFpaTl9rZmV1Wk0yQXpHaWdUTjdJbEo5ZDV0Q2xGUzlhRUtmLVlYU0FPaXM0STlSV19aTERrT254WmVjTA?oc=5",
-   "source": "البيان",
-   "published": "2026-11-15T19:29:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "مريم يعقوب.. طفلة تكتشف عوالم المعرفة في معرض الشارقة للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwTDR3VzYyN3pBX2dHWVRaa001TkJ1bGJWbW0zdWt1LVBwaVNaSElzdWNBRU5GYVVJZ2NQcVFqUm1FSGR0bTVfNmVZMmRYT0d2NnNIUGxpa1MxY210TW5J?oc=5",
-   "source": "البيان",
-   "published": "2026-11-15T19:23:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "«الشارقة للنشر» تستعرض خدماتها في معرض الشارقة الكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wMG0tZjhUc2VNY21MazlCbjVYSjBEUEswaG1EU3ZVOHF4OHJ2dE83cHRVQ19Zc19WZXdTazBpR28xZ2hNSklPekNMSFVMNUpZSVhjVzdrcjhQVkpzOHRr?oc=5",
-   "source": "البيان",
-   "published": "2026-11-15T19:19:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "جوان نصار.. موهبة بعمر 13 عاماً تطلق كتاباً في معرض الشارقة للكتاب",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nckNwWi11aWo2eV80T3FQQ2VtZTV3eDBGeFhxYngwN1d2ZFVTTTExamdQbncwcU9EYllmNHhuekcyajhIazlKY3hTNXp1M3ZqLUJLMktIdGxhVUxDUDFN?oc=5",
-   "source": "البيان",
-   "published": "2026-11-15T19:17:00+00:00",
-   "edition": "AE:ar",
-   "new": false
-  },
-  {
-   "title": "VIDEO: Sharjah International Book Fair draws huge crowds on final day as Ghana makes debut",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDYtbzVkeDJDRDJwS0cwRGJvWjdxV0hkR1BTbXJHTGg3NXRveHp2ZFRmZ1JVMTRHRHotYjNLaklQSVJGajVZbC1YLWxoLVBvX2FQUF96UTlfa2I0Z1ozQktWVU9vMURoV04yazhVTWxCaTBrMmVzMlZRWWtQLTgzYV9ISmpWamNybWhjTUk1c0ZtYU5oZmFHUTBEdzctLXVsUks0VkFPcXZvT0I2Nm5TLW1SRTNJUENlenI2SS12cHdsUQ?oc=5",
-   "source": "Gulf Today",
-   "published": "2026-11-15T19:15:23+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "منصور بن محمد يتوّج تيريل هاتون بلقب بطولة جولة دي بي ورلد للجولف",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oZkpCaUc0MVlSeU43ZmVtX2ozSFp4OG0tUFZTaVVPMFpPeFM2LU1pTG9VNHN3YV9vaUVESmYyWWxMWkZ3eF9KbmdsWkpKVnNXNEZicXVQWi1mb1k?oc=5",
-   "source": "Sharjah24",
-   "published": "2026-11-15T19:12:44+00:00",
    "edition": "AE:ar",
    "new": false
   }
