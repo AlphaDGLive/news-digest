@@ -2,21 +2,13 @@
  "id": "b747-mro",
  "name": "Boeing 747 MRO — worldwide",
  "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
- "generated": "2026-11-18T04:30:46.227450+00:00",
- "generated_local": "2026-11-18_0830",
+ "generated": "2026-11-19T04:32:06.480619+00:00",
+ "generated_local": "2026-11-19_0832",
  "timezone": "Asia/Dubai",
  "count": 37,
- "new_count": 5,
+ "new_count": 2,
  "errors": [],
  "items": [
-  {
-   "title": "Boeing 747 D-check",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUUxzeUNnVVV5YjZ6R3hUTEM4eUZJb0MtQ3pON2JrVUVBUm5RX3U3TFFPWDZfekFHUWtkQjg3UU5reHhfNjdDNk8wSmR5eFJ0cDlBVlV5QnRQc1RDM3pCOFNBbEQ2VGFFQnJMc1lsX09zb1F3TzBFcWRFVTRsdw?oc=5",
-   "source": "Britannica",
-   "published": "2026-11-12T08:00:00+00:00",
-   "edition": "US:en",
-   "new": false
-  },
   {
    "title": "How Much Does A Boeing 747 Engine Cost?",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWE43dW41VjFoMURoZUY5SVpXbnVZN050S0JxWTE3VFo2ZVJqN0RhV0FnakxlZ0tnQTZWMWV6ZTdEOHBNQWZzS01zSl92NEdxYkRmdElmVjE5WlVyRXZxbmNJMlFmdVZ5ZEdKRVNFOTUzdw?oc=5",
@@ -95,7 +87,7 @@
    "source": "CBS News",
    "published": "2026-06-19T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "The $400 million luxury 747 jet donated by the big-hearted Qatar royal family is finally wearing American colors in a striking red, blue, and gold livery and has flown to its secure hangar at Joint Base Andrews for final modifications to become Air Force One",
@@ -122,12 +114,20 @@
    "new": false
   },
   {
+   "title": "Touchdown Cincinnati! GE Aerospace’s 747 Flying Test Bed Visits HQ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek9fVUtUZlNxQjN2WHRQaDlraDc1allVdlZuejNlYk9zQkwzWFk1aU5QRnJQSHhTY1VQSXZTSWpFWmVOb1VSbWJqeXhjQk5aVHBJSGtHVjNIOEpOcDlsbDg3RFkxWWxxakZDb0x2a01MQVBtZTFLVGx1eWR4cm9iYXNZZTRXZ2xmWEVFVTNBcVVuVmdCdmtVa25HS0d2RFNXLUZkOVF0bHV6QQ?oc=5",
+   "source": "GE Aerospace",
+   "published": "2026-04-15T15:14:09+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
    "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXc1ZWhMbVJCVUhPck9ERDdaZE9OeFBPRXdWUnY3NkViYWtUSEU3Mm1VS2FIUGZsVGVIRnJKVTNnbk9EZng5SXdoWlZIZ2VoMDZOR3lVVTdYQ1NlajNXUjhXakgydmd1N0NrSDFkUlh6WV9yeXBHQ3lDX3ZzSURlbUFWVW9wTXVFTmlIbVowc05EblRwcGJreQ?oc=5",
    "source": "Cargo Facts",
    "published": "2026-02-05T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "At a state-of-the-art 430,000-square-foot hangar in Waco, Texas, the U.S. government is converting the ultra-luxurious $400 million Boeing 747 jet gifted by the big-hearted Qatari royal family into a flying fortress for America’s leader",
@@ -135,7 +135,7 @@
    "source": "Luxurylaunches",
    "published": "2025-10-10T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Cathay Signs Landmark Lufthansa Technik Deal For 747, 777 Fleet",
@@ -186,6 +186,14 @@
    "new": false
   },
   {
+   "title": "Boeing 747 D-check",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUUxzeUNnVVV5YjZ6R3hUTEM4eUZJb0MtQ3pON2JrVUVBUm5RX3U3TFFPWDZfekFHUWtkQjg3UU5reHhfNjdDNk8wSmR5eFJ0cDlBVlV5QnRQc1RDM3pCOFNBbEQ2VGFFQnJMc1lsX09zb1F3TzBFcWRFVTRsdw?oc=5",
+   "source": "Britannica",
+   "published": "2024-10-03T22:24:01+00:00",
+   "edition": "US:en",
+   "new": false
+  },
+  {
    "title": "British Carrier One Air Bemoans Lack Of Access To European 747 Shops",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVFZbUEwV1lCM2hfazhCN1hJTFhLaExJZHVpbnhPTG1KZ0dzay1aZWRxTTJWVzNEQWdYcDBYNWNLc2JIdnBWRkc1ejRwY2x1SXdGY2N1dzRIeWZpd0pjZ0g1b3BSdGh3UmVpN2E2REkxWG1lVEpESWRENUtpZWc0Ry1VSmF2dnp2Q1NxUElyTkh5dUdRdkhkZnJLa2JYX0FWam5jSXVfanliQ2FpM1ppVEdJWQ?oc=5",
    "source": "Aviation Week",
@@ -199,14 +207,6 @@
    "source": "AeroTime",
    "published": "2024-05-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": false
-  },
-  {
-   "title": "UPS adds twin-bay maintenance hangar at Worldport hub",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1RhMXJCTTJQdXFxdVdIQmJmaTBuZFBkRHFUcTBITDk4RTNNUC1DZ1VaTElianl6MloyNWhJUkVwWkNfNlhMR09UbWhmSmFxMHdMcTlybTJId3ZBWnZXNkxsbzYxWm0wXy1Bb3ZsMDBsbGlaNlhGZWpCcXRBR3NHYlNJQnJKY21HSHhiTnFQYnU?oc=5",
-   "source": "FreightWaves",
-   "published": "2024-03-04T08:00:00+00:00",
-   "edition": "GB:en",
    "new": false
   },
   {
@@ -231,14 +231,6 @@
    "source": "WLWT",
    "published": "2023-01-04T08:00:00+00:00",
    "edition": "US:en",
-   "new": true
-  },
-  {
-   "title": "Take a peek at the top deck of a Boeing 747 at City Airport’s Taurus Hangar in Eccles",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmJZbXdXNzJFS1A2bS1nQ3RjbkFSMG5ISWV5eXVIS1VnakxrMW1iOXhVZjZhZ2tDNFFBdDFJQ2pYd2NGbEJFY0RWcFIzRGNMcHlmSUNRQmJkRWxpUUlYdGJzMGtSczdpNmhNOGpGM2RFZWk0OGRDOWQ5NF9ISHdlZ1hna2p0aEtpeVNaWTVwQmlkNVREZG1KMEQ5SlBpdnJFMXBmZHVpSmc3TlBxbDJkd2ZSbVFHODBfM1E?oc=5",
-   "source": "InYourArea",
-   "published": "2022-10-13T07:00:00+00:00",
-   "edition": "GB:en",
    "new": false
   },
   {
@@ -266,6 +258,14 @@
    "new": false
   },
   {
+   "title": "Traveling the World Was Never the Same Once the Boeing 747 Debuted",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0NkaDhaNURrU3I1Tmh3cjNGRkp0bkU4MUJOZXNUN2wzZjR3WTkyTVJBdlNGYkNMV0Jzck9ra3ZkUEJNakc1NmUyM0hva0oxQzB2TVZGYWhMMnJGbGhqb2UxOFFIOTdRVGhERHkybm0tWGx4UGpWLTBlaEg4RDQ1Y2s1WTdpR1JrNU5sU2lMb0ozbFQzeDhfQUVWckNWenQzVlV6dEV3?oc=5",
+   "source": "Smithsonian Magazine",
+   "published": "2018-09-18T15:43:47+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
    "title": "Boeing 747-8 emerges from paint hangar",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwVDdIS3hBQ0NtVnBqY2tXVFkwM2tLNlpLMzJjd2RvMVc0OE5tVXpLZVlJcVNncFE3UkFoazdqNnRwMnNvRjNTQ3QteDdBdzhDaDRoMXNOQ0VKM1hHeGlwM08wTHFKalFHVFpUZXQ4R2ZoUHVVMzFtcQ?oc=5",
    "source": "Reliable Plant",
@@ -287,7 +287,7 @@
    "source": "Airport Suppliers",
    "published": "2016-11-01T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Qantas 747 maintenance to move offshore",
