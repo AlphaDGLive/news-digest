@@ -2,20 +2,20 @@
  "id": "b747-mro",
  "name": "Boeing 747 MRO — worldwide",
  "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
- "generated": "2026-11-19T04:32:06.480619+00:00",
- "generated_local": "2026-11-19_0832",
+ "generated": "2026-11-20T03:36:34.274504+00:00",
+ "generated_local": "2026-11-20_0736",
  "timezone": "Asia/Dubai",
  "count": 37,
- "new_count": 2,
+ "new_count": 4,
  "errors": [],
  "items": [
   {
-   "title": "How Much Does A Boeing 747 Engine Cost?",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QWE43dW41VjFoMURoZUY5SVpXbnVZN050S0JxWTE3VFo2ZVJqN0RhV0FnakxlZ0tnQTZWMWV6ZTdEOHBNQWZzS01zSl92NEdxYkRmdElmVjE5WlVyRXZxbmNJMlFmdVZ5ZEdKRVNFOTUzdw?oc=5",
-   "source": "Simple Flying",
-   "published": "2026-10-29T07:00:00+00:00",
-   "edition": "US:en",
-   "new": false
+   "title": "Iran Air's last Boeing 747 enters D check with first-of-their-kind inspections in Iran",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZlk3NnZ0RmRvV0xjTFJtbDBCVFVhVllNelFTaThLdVFKYWs3WE8tNnhHMC1qVzJOOUg5RENsNmJuNzRmcnZNZkJ3Zy0wTHBnWmNweFpLd3ZYSnRFTzMweHFqT2lDbEtlV1J4LV8tTTFXbGZVYVRyRXFual9Sd2c2Wk9fZ0M2M2dTV0pYb1Fyb2xxZUtZUHRESUVWZFJwdHg2dzRQeWxiTzcwa0pqek80QU0td1RpOE0zUEY2ODZNaDhmSV9CVFl4dmNhbUR1UzJkdDZIc1dkYThERjZkcWRVTUw4ZmRRN0FlZEdKX0lFVExibDdHb1I3SGt3Y1NRYjg1N1BYZE9rd2RrLVd4NkE?oc=5",
+   "source": "Aviacionline",
+   "published": "2026-10-31T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
   },
   {
    "title": "Iran Air Performs First In‑House 747 D Check",
@@ -98,6 +98,14 @@
    "new": false
   },
   {
+   "title": "The $400M Boeing 747 gifted to the US by Qatar has had another $400M spent by America overhauling it to become interim Air Force One",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbElWOUF2VUNoSWpBcXp2aVZuYnJKSFd1VGVTNGMyVzRFSmdleVAydExTcnhCRHg1V0Rqc29GRG90V1NndEhhQUt5TFBKQVA2U200ZUFQcUZHTTNPeXlVTVpuV3NHOUdQWWVCWVZISmhnQTdNek1wS0JmWmYzTDFHZGxR?oc=5",
+   "source": "Supercar Blondie",
+   "published": "2026-05-15T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
+  },
+  {
    "title": "The $400 million luxury 747 donated by Qatar is so big that it cannot fit into the existing Air Force One hangar, so it will be parked in a brand-new, $320 million high-tech hangar at Joint Base Andrews, a facility so massive it had to be built by shrinking the base'",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblpsUzNzZWhlSUJQVXpvcU0zQWdEbzRJVVQ2azhkMGdMYm1Iald5MkFscmxKOXNsRXJoVWQwSEFjOHc5NHM0UEtNclJfZkhXd2c1WkN5V3hKaFJQeFp6aHh2dUlUaW5kSXRzN251dUlRLUZic2VUMWF6eHBHeHNNdXdBMkx0OHRPVWxsbWpBUWJZNFE?oc=5",
    "source": "Luxurylaunches",
@@ -112,14 +120,6 @@
    "published": "2026-05-02T07:00:00+00:00",
    "edition": "GB:en",
    "new": false
-  },
-  {
-   "title": "Touchdown Cincinnati! GE Aerospace’s 747 Flying Test Bed Visits HQ",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek9fVUtUZlNxQjN2WHRQaDlraDc1allVdlZuejNlYk9zQkwzWFk1aU5QRnJQSHhTY1VQSXZTSWpFWmVOb1VSbWJqeXhjQk5aVHBJSGtHVjNIOEpOcDlsbDg3RFkxWWxxakZDb0x2a01MQVBtZTFLVGx1eWR4cm9iYXNZZTRXZ2xmWEVFVTNBcVVuVmdCdmtVa25HS0d2RFNXLUZkOVF0bHV6QQ?oc=5",
-   "source": "GE Aerospace",
-   "published": "2026-04-15T15:14:09+00:00",
-   "edition": "US:en",
-   "new": true
   },
   {
    "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
@@ -178,6 +178,14 @@
    "new": false
   },
   {
+   "title": "See inside Delta's flight museum, which houses exhibits on 100 years of aviation — including a famous Boeing 747",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VOFFWWjE5NGJPYzNqRHRzOGd6eFVkdENNa0ZGZ1lHMTQydThISHBuX2VtNE53M2x0OHRFMXQ2NXk1d1BZSTc0by1BMlhDWG56N1NZbUkxb1Q3bEFmVjR2ektpOWx0SXFDZWhtNWNTQ2Q?oc=5",
+   "source": "Business Insider",
+   "published": "2025-03-30T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
    "title": "NTSB blames Boeing 747 engine fire on shoddy maintenance work",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTZ6dFZleDBwVG4tY2lfNTF6bE9IVjVOM1J6djQyZUJZSjUzRTFJcVdwWG10aG5VX2lnMndzZDdxTFdFaW14X3hSZnE1c25tT3g3bUVJUmVQMDVneVNEUFpuM1lYdWZjR1hmaXpwWTZsbFJUUXc5MXllTTVCMFdhTA?oc=5",
    "source": "Yahoo Finance",
@@ -226,12 +234,12 @@
    "new": false
   },
   {
-   "title": "Crews temporarily close shoulder on State Route 747 for traffic maintenance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaU5qOUZaXzRGOVBvc2JPcVBwVkxqTjBlLXVTN1cxRkhBeTM3ek0tMV9CRmhySlBDQjdBcS1mNWY3TVVPRlhZcFREVmFSTW5XdnRYZm9SZW05a1lnd01fajV6NW4tLVdsWHp4Y1RZSGVWX1c2Y0xhYmY0d1NlQ2MyYjdhdkpoQmg0b3RxSDBvYnZSam1uZVJsbXRn?oc=5",
-   "source": "WLWT",
-   "published": "2023-01-04T08:00:00+00:00",
+   "title": "What Happened To Las Vegas Sands Corporation's Damaged 747?",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VUWV0UzkxenVjTThKeWFyaVRCR2tFenZkMnh5TExGdkZWWnNuWlp0blljeGRlOVU1TDdObDlCejRXUW9GZXpEcDdyZTF1bDlxOVJ4WTlTR1REQ2Fjb2xQSk5EaS0?oc=5",
+   "source": "Simple Flying",
+   "published": "2021-01-25T08:00:00+00:00",
    "edition": "US:en",
-   "new": false
+   "new": true
   },
   {
    "title": "Video: Ex Cathay Pacific 747 Deliberately Crashed Into Hangar",
@@ -254,16 +262,8 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09zWWVEelBvd1M0UWVZNWRMZ0pWZGZhQjVYeXVpekQ3S0RWX0NwZ3FUSXhVeG5DSkZvSmk3Y2U0d3BhWkFjRnFaQzhrQ19adllMak0xb09hcllnb3RVSkV2d1FhbmpmSFdueDUxRlNPU1Uxb0Z4d01ZZnFWUFpBWXNCLWdwTnRLZHlPdXF2YzRNZFgyQlZIVkZJZmZ2NVgxcjhJLWlzZWNPSURlanNjdExxZFF6RzRUVC1B?oc=5",
    "source": "Aviation International News",
    "published": "2020-04-01T07:00:00+00:00",
-   "edition": "GB:en",
+   "edition": "US:en",
    "new": false
-  },
-  {
-   "title": "Traveling the World Was Never the Same Once the Boeing 747 Debuted",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN0NkaDhaNURrU3I1Tmh3cjNGRkp0bkU4MUJOZXNUN2wzZjR3WTkyTVJBdlNGYkNMV0Jzck9ra3ZkUEJNakc1NmUyM0hva0oxQzB2TVZGYWhMMnJGbGhqb2UxOFFIOTdRVGhERHkybm0tWGx4UGpWLTBlaEg4RDQ1Y2s1WTdpR1JrNU5sU2lMb0ozbFQzeDhfQUVWckNWenQzVlV6dEV3?oc=5",
-   "source": "Smithsonian Magazine",
-   "published": "2018-09-18T15:43:47+00:00",
-   "edition": "GB:en",
-   "new": true
   },
   {
    "title": "Boeing 747-8 emerges from paint hangar",
