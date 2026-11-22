@@ -2,11 +2,11 @@
  "id": "b747-mro",
  "name": "Boeing 747 MRO — worldwide",
  "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
- "generated": "2026-11-21T03:48:06.393843+00:00",
- "generated_local": "2026-11-21_0748",
+ "generated": "2026-11-22T03:36:44.669620+00:00",
+ "generated_local": "2026-11-22_0736",
  "timezone": "Asia/Dubai",
  "count": 38,
- "new_count": 3,
+ "new_count": 2,
  "errors": [],
  "items": [
   {
@@ -23,7 +23,7 @@
    "source": "Simple Flying",
    "published": "2026-10-29T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "Iran Air Performs First In‑House 747 D Check",
@@ -102,7 +102,7 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlIwUlZHSlJlMWFBOWhkQmFXbW1TT3R3ZktCb0N5THhCZzA2cG9XZ2F5R2xhUHc1X0NPamNhMVI2bDhkMVVLZHctT1JiY1U4cmg3U0NrQjBUREZpcGpiMGZzR3lVUEFzWEh5ei1IeEJ5cXk0d2xmai1rRWkwVmhkVDBSR1dlQQ?oc=5",
    "source": "Luxurylaunches",
    "published": "2026-06-11T07:00:00+00:00",
-   "edition": "GB:en",
+   "edition": "US:en",
    "new": false
   },
   {
@@ -120,6 +120,14 @@
    "published": "2026-05-13T07:00:00+00:00",
    "edition": "US:en",
    "new": false
+  },
+  {
+   "title": "Trump’s new Air Force One gifted by Qatar set for summer debut after $400M overhaul",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDVjRmpaSkh3R3gzRUl2TjFSZy1OMkhUMGp0NVg2RFNteWlKYTA0NzJfUGJIVzVsanhfV05CcTBJZWJlbkMtNkVhWGxZLW1NSmp1RHJveDJlenVDbC1TZ19YZWpadTAxcl9WTWZ4OGVIV3h3d0UyRU1yT2xpZzFFX1dtc25SRjg4TkpnVkVmQjE3RWxTS2hxNDBLRE44bzFocHBHUEtsT3ZRVTJpaENOUzdZMmRtcE96?oc=5",
+   "source": "The Independent",
+   "published": "2026-05-02T07:00:00+00:00",
+   "edition": "GB:en",
+   "new": true
   },
   {
    "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
@@ -226,20 +234,12 @@
    "new": false
   },
   {
-   "title": "Crews temporarily close shoulder on State Route 747 for traffic maintenance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaU5qOUZaXzRGOVBvc2JPcVBwVkxqTjBlLXVTN1cxRkhBeTM3ek0tMV9CRmhySlBDQjdBcS1mNWY3TVVPRlhZcFREVmFSTW5XdnRYZm9SZW05a1lnd01fajV6NW4tLVdsWHp4Y1RZSGVWX1c2Y0xhYmY0d1NlQ2MyYjdhdkpoQmg0b3RxSDBvYnZSam1uZVJsbXRn?oc=5",
-   "source": "WLWT",
-   "published": "2023-01-04T08:00:00+00:00",
-   "edition": "US:en",
-   "new": true
-  },
-  {
    "title": "Take a peek at the top deck of a Boeing 747 at City Airport’s Taurus Hangar in Eccles",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmJZbXdXNzJFS1A2bS1nQ3RjbkFSMG5ISWV5eXVIS1VnakxrMW1iOXhVZjZhZ2tDNFFBdDFJQ2pYd2NGbEJFY0RWcFIzRGNMcHlmSUNRQmJkRWxpUUlYdGJzMGtSczdpNmhNOGpGM2RFZWk0OGRDOWQ5NF9ISHdlZ1hna2p0aEtpeVNaWTVwQmlkNVREZG1KMEQ5SlBpdnJFMXBmZHVpSmc3TlBxbDJkd2ZSbVFHODBfM1E?oc=5",
    "source": "InYourArea",
    "published": "2022-10-13T07:00:00+00:00",
    "edition": "GB:en",
-   "new": true
+   "new": false
   },
   {
    "title": "What Happened To Las Vegas Sands Corporation's Damaged 747?",
@@ -270,7 +270,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09zWWVEelBvd1M0UWVZNWRMZ0pWZGZhQjVYeXVpekQ3S0RWX0NwZ3FUSXhVeG5DSkZvSmk3Y2U0d3BhWkFjRnFaQzhrQ19adllMak0xb09hcllnb3RVSkV2d1FhbmpmSFdueDUxRlNPU1Uxb0Z4d01ZZnFWUFpBWXNCLWdwTnRLZHlPdXF2YzRNZFgyQlZIVkZJZmZ2NVgxcjhJLWlzZWNPSURlanNjdExxZFF6RzRUVC1B?oc=5",
    "source": "Aviation International News",
    "published": "2020-04-01T07:00:00+00:00",
-   "edition": "GB:en",
+   "edition": "US:en",
    "new": false
   },
   {
@@ -298,12 +298,12 @@
    "new": false
   },
   {
-   "title": "Qantas 747 maintenance to move offshore",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEM2UTdNT0tfM0lIOVo0Y01mTktMNnYyRjVKWUI3ZTFQcWdMRFU3RUVTT2xaVjgyMEhrUm8tMmpabkhEblIxYW04OW4zdC1pY1E5NlpkSzFaMkFwR0ZsM2taT2JDczBra1pPS3g4OE1DVzVITEphXzJlYzZpcGc0TTg2OG1PSTZMd1E?oc=5",
-   "source": "Australian Aviation",
-   "published": "2014-01-22T08:00:00+00:00",
+   "title": "HAITEC Successfully Completes First D-Check on Boeing 747-400",
+   "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRHU2VFZxS1B0LXpkMlVRSGZYSktDaVFlUGVNOWU4WTlGdWpLQnV3cEt4MDQtbGVTUjVZUXhjejB4MGZsd3pfMENtb0FjNzFPOGx4RWQ2aVJwemM2NVM4WWVhRlBubFl3bGJ1cjVBbHhtY21PYTRtYXJjT3lZM1dqNlo2VmJSVktqcm9lSUNiLVRjVl9JdGFraHpEUHVGaXNUVTZKSUx3ekRRTlA5eFMySUkwcGdJMEFTbnlmWHdkRVhjeWliSm1XblpneTYtM1U2ckhVZ1VyaVpkbzF6eGd0VkN5bE1lV0lQazRlZVBXUFRMVS0xRUFmUVh5RXZSQWFUSzh1LV9XMEF5T0x4d2RHZkJoTGlZay1mb19TTTIyLVZwVVprTWJBTWMwX0dyTTJJeXM2bnA1QkJDYXpSRm1GNg?oc=5",
+   "source": "Aviation Pros",
+   "published": "2015-08-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": false
+   "new": true
   },
   {
    "title": "First Boeing 747-8 Freighter Leaves Paint Hangar",
