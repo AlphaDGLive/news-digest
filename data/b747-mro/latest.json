@@ -2,11 +2,11 @@
  "id": "b747-mro",
  "name": "Boeing 747 MRO — worldwide",
  "query": "(747 OR B747 OR \"Boeing 747\" OR \"747-400\" OR \"747-8\" OR \"jumbo jet\") (MRO OR maintenance OR \"heavy check\" OR \"C-check\" OR \"D-check\" OR overhaul OR \"freighter conversion\" OR hangar OR \"engine shop\" OR parked OR retired)",
- "generated": "2026-11-22T03:36:44.669620+00:00",
- "generated_local": "2026-11-22_0736",
+ "generated": "2026-11-23T04:47:11.126623+00:00",
+ "generated_local": "2026-11-23_0847",
  "timezone": "Asia/Dubai",
- "count": 38,
- "new_count": 2,
+ "count": 39,
+ "new_count": 3,
  "errors": [],
  "items": [
   {
@@ -122,20 +122,28 @@
    "new": false
   },
   {
-   "title": "Trump’s new Air Force One gifted by Qatar set for summer debut after $400M overhaul",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDVjRmpaSkh3R3gzRUl2TjFSZy1OMkhUMGp0NVg2RFNteWlKYTA0NzJfUGJIVzVsanhfV05CcTBJZWJlbkMtNkVhWGxZLW1NSmp1RHJveDJlenVDbC1TZ19YZWpadTAxcl9WTWZ4OGVIV3h3d0UyRU1yT2xpZzFFX1dtc25SRjg4TkpnVkVmQjE3RWxTS2hxNDBLRE44bzFocHBHUEtsT3ZRVTJpaENOUzdZMmRtcE96?oc=5",
-   "source": "The Independent",
-   "published": "2026-05-02T07:00:00+00:00",
-   "edition": "GB:en",
-   "new": true
-  },
-  {
    "title": "Aerotranscargo, GMF, Air One Technics sign 747 MRO MoU",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXc1ZWhMbVJCVUhPck9ERDdaZE9OeFBPRXdWUnY3NkViYWtUSEU3Mm1VS2FIUGZsVGVIRnJKVTNnbk9EZng5SXdoWlZIZ2VoMDZOR3lVVTdYQ1NlajNXUjhXakgydmd1N0NrSDFkUlh6WV9yeXBHQ3lDX3ZzSURlbUFWVW9wTXVFTmlIbVowc05EblRwcGJreQ?oc=5",
    "source": "Cargo Facts",
    "published": "2026-02-05T08:00:00+00:00",
    "edition": "US:en",
    "new": false
+  },
+  {
+   "title": "News Israel orders immediate checks on IAI-converted 747-400 freighters",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVZsbXZqRG85Qkl5UWFNNm5xcFZmZmVUUV9QVVlNejNBMTJyOTNaZHh1TnJCVVh5cm4tNWVudFR5c2VkT1o3eVgyTFpGWUdrdWNxY2E5cE4wWDBRaVdnWEI5dmZCM0pkMV9PZjRyWGx2X0FnV0ZENTFaeEVRLWlHb3lNYjFtemhJYUw0T3BaSGZhTFN1WkE?oc=5",
+   "source": "The Loadstar",
+   "published": "2026-01-08T08:00:00+00:00",
+   "edition": "US:en",
+   "new": true
+  },
+  {
+   "title": "Boeing Offers Turnkey Service for VIP 747 Owners",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWRuUjlUZzhfOE11eWwtNXljNVRDQlVkbDhvTEdYTHE1Z3lGdEVuM1YtLUF3R3FSR1ZPZEhheGU4cm9lLTA1M0plRjlab01kMFhoNU43dUlyVHdvLVU0T05nRmxycHQzb3ViLWZTMjBIMEpIZFNJc1gzWXM2ajc3aWtmRm8wcU03LTIzcWl0WWhxN1cwYXVZQm5QZXRndUQzQlFtenQ3alNJUGZpRnc?oc=5",
+   "source": "Aviation International News",
+   "published": "2025-10-14T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
   },
   {
    "title": "At a state-of-the-art 430,000-square-foot hangar in Waco, Texas, the U.S. government is converting the ultra-luxurious $400 million Boeing 747 jet gifted by the big-hearted Qatari royal family into a flying fortress for America’s leader",
@@ -158,7 +166,7 @@
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3R1NWhxbkUxYmpWT3B2VHQ4QzJjM2dSaGZoZmZtTG82RFZZUlpPMmp1RE83VjVxbFluX20wVDkyQ0NRbUFBMVRBTU5kQTh1c1pEVy1wMXh3bHJibVJVZ094MU1qSzFqbURlaTBULTFwOTlJMi1zWG92SkRyaWxfeGZpM2tZT3R6RTBkRDd0YVViNnJQZ0V5OFBQWkhFOXM2VFE?oc=5",
    "source": "NPR",
    "published": "2025-05-23T07:00:00+00:00",
-   "edition": "US:en",
+   "edition": "GB:en",
    "new": false
   },
   {
@@ -184,6 +192,14 @@
    "published": "2025-04-23T07:00:00+00:00",
    "edition": "US:en",
    "new": false
+  },
+  {
+   "title": "See inside Delta's flight museum, which houses exhibits on 100 years of aviation — including a famous Boeing 747",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VOFFWWjE5NGJPYzNqRHRzOGd6eFVkdENNa0ZGZ1lHMTQydThISHBuX2VtNE53M2x0OHRFMXQ2NXk1d1BZSTc0by1BMlhDWG56N1NZbUkxb1Q3bEFmVjR2ektpOWx0SXFDZWhtNWNTQ2Q?oc=5",
+   "source": "Business Insider",
+   "published": "2025-03-30T07:00:00+00:00",
+   "edition": "US:en",
+   "new": true
   },
   {
    "title": "NTSB blames Boeing 747 engine fire on shoddy maintenance work",
@@ -270,7 +286,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09zWWVEelBvd1M0UWVZNWRMZ0pWZGZhQjVYeXVpekQ3S0RWX0NwZ3FUSXhVeG5DSkZvSmk3Y2U0d3BhWkFjRnFaQzhrQ19adllMak0xb09hcllnb3RVSkV2d1FhbmpmSFdueDUxRlNPU1Uxb0Z4d01ZZnFWUFpBWXNCLWdwTnRLZHlPdXF2YzRNZFgyQlZIVkZJZmZ2NVgxcjhJLWlzZWNPSURlanNjdExxZFF6RzRUVC1B?oc=5",
    "source": "Aviation International News",
    "published": "2020-04-01T07:00:00+00:00",
-   "edition": "US:en",
+   "edition": "GB:en",
    "new": false
   },
   {
@@ -290,20 +306,12 @@
    "new": false
   },
   {
-   "title": "JLC Group Lands Jumbo Project For British Airways 747 Hangar At Heathrow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakNOOTJXRUFrWGZDV19GS1IxRGIwZ1hFMjN2SXFRcFhJaU05SDZCNDBtRmlxOWZHQ0xPOWhKRzdRZVRGdWtiWFpHbEhMRXJXWVNzTW5kUldJaDR6aDZVSTV5Q1ExVFlQRnNzYnVIbkVwNzc2cnR0RTFaOWZnX3dzcGFqUXFwS0U3SU5TWkY0elpEQVcyS3hNZ0FvU1Vfc3hobUp4Z1lwRUVid3VJNmlxTExBMy1fX2RESlVXM1pNbw?oc=5",
-   "source": "Airport Suppliers",
-   "published": "2016-11-01T07:00:00+00:00",
-   "edition": "US:en",
-   "new": false
-  },
-  {
    "title": "HAITEC Successfully Completes First D-Check on Boeing 747-400",
    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRHU2VFZxS1B0LXpkMlVRSGZYSktDaVFlUGVNOWU4WTlGdWpLQnV3cEt4MDQtbGVTUjVZUXhjejB4MGZsd3pfMENtb0FjNzFPOGx4RWQ2aVJwemM2NVM4WWVhRlBubFl3bGJ1cjVBbHhtY21PYTRtYXJjT3lZM1dqNlo2VmJSVktqcm9lSUNiLVRjVl9JdGFraHpEUHVGaXNUVTZKSUx3ekRRTlA5eFMySUkwcGdJMEFTbnlmWHdkRVhjeWliSm1XblpneTYtM1U2ckhVZ1VyaVpkbzF6eGd0VkN5bE1lV0lQazRlZVBXUFRMVS0xRUFmUVh5RXZSQWFUSzh1LV9XMEF5T0x4d2RHZkJoTGlZay1mb19TTTIyLVZwVVprTWJBTWMwX0dyTTJJeXM2bnA1QkJDYXpSRm1GNg?oc=5",
    "source": "Aviation Pros",
    "published": "2015-08-27T07:00:00+00:00",
    "edition": "US:en",
-   "new": true
+   "new": false
   },
   {
    "title": "First Boeing 747-8 Freighter Leaves Paint Hangar",
