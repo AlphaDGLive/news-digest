@@ -1,13 +1,11 @@
 {
  "b747-mro": {
-  "last_run": "2026-11-27T03:56:02.084426+00:00",
-  "count": 60,
-  "errors": [
-   "AE:en: HTTP Error 429: Too Many Requests"
-  ]
+  "last_run": "2026-11-28T04:33:38.117128+00:00",
+  "count": 40,
+  "errors": []
  },
  "sharjah": {
-  "last_run": "2026-11-27T03:56:02.084426+00:00",
+  "last_run": "2026-11-28T04:33:38.117128+00:00",
   "count": 100,
   "errors": []
  }
